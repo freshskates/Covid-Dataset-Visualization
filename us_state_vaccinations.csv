@@ -1,0 +1,7629 @@
+date,location,daily_vaccinations
+1/12/21,Alabama,
+1/13/21,Alabama,5906
+1/14/21,Alabama,7083
+1/15/21,Alabama,7478
+1/16/21,Alabama,7498
+1/17/21,Alabama,7509
+1/18/21,Alabama,7517
+1/19/21,Alabama,7523
+1/20/21,Alabama,7880
+1/21/21,Alabama,10517
+1/22/21,Alabama,14107
+1/23/21,Alabama,16202
+1/24/21,Alabama,18294
+1/25/21,Alabama,18196
+1/26/21,Alabama,17738
+1/27/21,Alabama,18178
+1/28/21,Alabama,16153
+1/29/21,Alabama,14514
+1/30/21,Alabama,17271
+1/31/21,Alabama,15748
+2/1/21,Alabama,15381
+2/2/21,Alabama,16703
+2/3/21,Alabama,17414
+2/4/21,Alabama,18491
+2/5/21,Alabama,18526
+2/6/21,Alabama,16105
+2/7/21,Alabama,15480
+2/8/21,Alabama,15622
+2/9/21,Alabama,17012
+2/10/21,Alabama,18209
+2/11/21,Alabama,19258
+2/12/21,Alabama,20074
+2/13/21,Alabama,20855
+2/14/21,Alabama,21417
+2/15/21,Alabama,22405
+2/16/21,Alabama,20816
+2/17/21,Alabama,19174
+2/18/21,Alabama,18400
+2/19/21,Alabama,24002
+2/20/21,Alabama,25111
+2/21/21,Alabama,25194
+2/22/21,Alabama,24164
+2/23/21,Alabama,25489
+2/24/21,Alabama,27098
+2/25/21,Alabama,27531
+2/26/21,Alabama,22104
+2/27/21,Alabama,22022
+2/28/21,Alabama,21984
+3/1/21,Alabama,22111
+3/2/21,Alabama,22436
+3/3/21,Alabama,22904
+3/4/21,Alabama,23916
+3/5/21,Alabama,24388
+3/6/21,Alabama,24087
+3/7/21,Alabama,23947
+3/8/21,Alabama,24040
+3/9/21,Alabama,24118
+3/10/21,Alabama,24827
+3/11/21,Alabama,25376
+3/12/21,Alabama,26375
+3/13/21,Alabama,26935
+3/14/21,Alabama,26926
+3/15/21,Alabama,27106
+3/16/21,Alabama,27331
+3/17/21,Alabama,27167
+3/18/21,Alabama,25752
+3/19/21,Alabama,25356
+3/20/21,Alabama,24649
+3/21/21,Alabama,24865
+3/22/21,Alabama,24693
+3/23/21,Alabama,25307
+3/24/21,Alabama,25490
+3/25/21,Alabama,27004
+3/26/21,Alabama,26387
+3/27/21,Alabama,26439
+3/28/21,Alabama,26634
+3/29/21,Alabama,26759
+3/30/21,Alabama,26885
+3/31/21,Alabama,26617
+4/1/21,Alabama,27555
+4/2/21,Alabama,28865
+4/3/21,Alabama,28769
+4/4/21,Alabama,28533
+4/5/21,Alabama,28325
+4/6/21,Alabama,28468
+4/7/21,Alabama,29498
+4/8/21,Alabama,29195
+4/9/21,Alabama,29696
+4/10/21,Alabama,31155
+4/11/21,Alabama,31967
+4/12/21,Alabama,32519
+4/13/21,Alabama,32914
+4/14/21,Alabama,33381
+4/15/21,Alabama,33007
+4/16/21,Alabama,32034
+4/17/21,Alabama,30766
+4/18/21,Alabama,29953
+4/19/21,Alabama,29296
+4/20/21,Alabama,28635
+4/21/21,Alabama,27377
+4/22/21,Alabama,26702
+4/23/21,Alabama,26294
+4/24/21,Alabama,25832
+4/25/21,Alabama,25590
+4/26/21,Alabama,25809
+4/27/21,Alabama,24561
+4/28/21,Alabama,23898
+4/29/21,Alabama,23662
+4/30/21,Alabama,23076
+5/1/21,Alabama,22271
+5/2/21,Alabama,21615
+5/3/21,Alabama,21299
+5/4/21,Alabama,20711
+5/5/21,Alabama,20444
+5/6/21,Alabama,16178
+5/7/21,Alabama,19313
+5/8/21,Alabama,20088
+1/12/21,Alaska,
+1/13/21,Alaska,2842
+1/14/21,Alaska,3379
+1/15/21,Alaska,4400
+1/16/21,Alaska,4381
+1/17/21,Alaska,4369
+1/18/21,Alaska,4362
+1/19/21,Alaska,4356
+1/20/21,Alaska,4230
+1/21/21,Alaska,4187
+1/22/21,Alaska,4580
+1/23/21,Alaska,4997
+1/24/21,Alaska,5225
+1/25/21,Alaska,5003
+1/26/21,Alaska,4545
+1/27/21,Alaska,4758
+1/28/21,Alaska,4850
+1/29/21,Alaska,4186
+1/30/21,Alaska,3846
+1/31/21,Alaska,3619
+2/1/21,Alaska,3570
+2/2/21,Alaska,3613
+2/3/21,Alaska,3453
+2/4/21,Alaska,3440
+2/5/21,Alaska,3372
+2/6/21,Alaska,3411
+2/7/21,Alaska,3785
+2/8/21,Alaska,4131
+2/9/21,Alaska,4204
+2/10/21,Alaska,4356
+2/11/21,Alaska,4620
+2/12/21,Alaska,4776
+2/13/21,Alaska,5142
+2/14/21,Alaska,5393
+2/15/21,Alaska,5212
+2/16/21,Alaska,5448
+2/17/21,Alaska,5337
+2/18/21,Alaska,5268
+2/19/21,Alaska,6970
+2/20/21,Alaska,7466
+2/21/21,Alaska,7330
+2/22/21,Alaska,7266
+2/23/21,Alaska,6988
+2/24/21,Alaska,7148
+2/25/21,Alaska,7201
+2/26/21,Alaska,5444
+2/27/21,Alaska,4591
+2/28/21,Alaska,4229
+3/1/21,Alaska,4304
+3/2/21,Alaska,4288
+3/3/21,Alaska,4243
+3/4/21,Alaska,3905
+3/5/21,Alaska,3876
+3/6/21,Alaska,4155
+3/7/21,Alaska,4329
+3/8/21,Alaska,4248
+3/9/21,Alaska,4678
+3/10/21,Alaska,4917
+3/11/21,Alaska,5211
+3/12/21,Alaska,5294
+3/13/21,Alaska,5092
+3/14/21,Alaska,5473
+3/15/21,Alaska,5571
+3/16/21,Alaska,5280
+3/17/21,Alaska,5460
+3/18/21,Alaska,5390
+3/19/21,Alaska,5361
+3/20/21,Alaska,5490
+3/21/21,Alaska,5583
+3/22/21,Alaska,5493
+3/23/21,Alaska,5273
+3/24/21,Alaska,4758
+3/25/21,Alaska,4773
+3/26/21,Alaska,4817
+3/27/21,Alaska,4707
+3/28/21,Alaska,4152
+3/29/21,Alaska,3956
+3/30/21,Alaska,3969
+3/31/21,Alaska,3991
+4/1/21,Alaska,3861
+4/2/21,Alaska,3702
+4/3/21,Alaska,3513
+4/4/21,Alaska,3865
+4/5/21,Alaska,4022
+4/6/21,Alaska,4050
+4/7/21,Alaska,4207
+4/8/21,Alaska,4537
+4/9/21,Alaska,4664
+4/10/21,Alaska,5069
+4/11/21,Alaska,4676
+4/12/21,Alaska,4831
+4/13/21,Alaska,9046
+4/14/21,Alaska,9009
+4/15/21,Alaska,8075
+4/16/21,Alaska,8075
+4/17/21,Alaska,7732
+4/18/21,Alaska,7745
+4/19/21,Alaska,7467
+4/20/21,Alaska,3288
+4/21/21,Alaska,3574
+4/22/21,Alaska,4331
+4/23/21,Alaska,4098
+4/24/21,Alaska,3874
+4/25/21,Alaska,3447
+4/26/21,Alaska,3292
+4/27/21,Alaska,3223
+4/28/21,Alaska,2645
+4/29/21,Alaska,2913
+4/30/21,Alaska,2749
+5/1/21,Alaska,3386
+5/2/21,Alaska,3259
+5/3/21,Alaska,3187
+5/4/21,Alaska,3084
+5/5/21,Alaska,3064
+5/6/21,Alaska,2358
+5/7/21,Alaska,2321
+5/8/21,Alaska,1523
+1/12/21,American Samoa,
+1/13/21,American Samoa,453
+1/14/21,American Samoa,424
+1/15/21,American Samoa,586
+1/16/21,American Samoa,494
+1/17/21,American Samoa,439
+1/18/21,American Samoa,402
+1/19/21,American Samoa,376
+1/20/21,American Samoa,391
+1/21/21,American Samoa,385
+1/22/21,American Samoa,384
+1/23/21,American Samoa,390
+1/24/21,American Samoa,532
+1/25/21,American Samoa,501
+1/26/21,American Samoa,508
+1/27/21,American Samoa,539
+1/28/21,American Samoa,489
+1/29/21,American Samoa,479
+1/30/21,American Samoa,442
+1/31/21,American Samoa,268
+2/1/21,American Samoa,388
+2/2/21,American Samoa,349
+2/3/21,American Samoa,283
+2/4/21,American Samoa,310
+2/5/21,American Samoa,301
+2/6/21,American Samoa,333
+2/7/21,American Samoa,333
+2/8/21,American Samoa,214
+2/9/21,American Samoa,274
+2/10/21,American Samoa,322
+2/11/21,American Samoa,322
+2/12/21,American Samoa,429
+2/13/21,American Samoa,446
+2/14/21,American Samoa,446
+2/15/21,American Samoa,498
+2/16/21,American Samoa,490
+2/17/21,American Samoa,422
+2/18/21,American Samoa,394
+2/19/21,American Samoa,177
+2/20/21,American Samoa,337
+2/21/21,American Samoa,485
+2/22/21,American Samoa,439
+2/23/21,American Samoa,387
+2/24/21,American Samoa,496
+2/25/21,American Samoa,496
+2/26/21,American Samoa,581
+2/27/21,American Samoa,371
+2/28/21,American Samoa,223
+3/1/21,American Samoa,217
+3/2/21,American Samoa,323
+3/3/21,American Samoa,191
+3/4/21,American Samoa,269
+3/5/21,American Samoa,184
+3/6/21,American Samoa,184
+3/7/21,American Samoa,184
+3/8/21,American Samoa,184
+3/9/21,American Samoa,78
+3/10/21,American Samoa,374
+3/11/21,American Samoa,296
+3/12/21,American Samoa,296
+3/13/21,American Samoa,296
+3/14/21,American Samoa,296
+3/15/21,American Samoa,382
+3/16/21,American Samoa,382
+3/17/21,American Samoa,86
+3/18/21,American Samoa,86
+3/19/21,American Samoa,86
+3/20/21,American Samoa,86
+3/21/21,American Samoa,86
+3/22/21,American Samoa,388
+3/23/21,American Samoa,423
+3/24/21,American Samoa,505
+3/25/21,American Samoa,509
+3/26/21,American Samoa,600
+3/27/21,American Samoa,604
+3/28/21,American Samoa,604
+3/29/21,American Samoa,216
+3/30/21,American Samoa,259
+3/31/21,American Samoa,476
+4/1/21,American Samoa,472
+4/2/21,American Samoa,465
+4/3/21,American Samoa,462
+4/4/21,American Samoa,464
+4/5/21,American Samoa,464
+4/6/21,American Samoa,385
+4/7/21,American Samoa,241
+4/8/21,American Samoa,248
+4/9/21,American Samoa,255
+4/10/21,American Samoa,255
+4/11/21,American Samoa,341
+4/12/21,American Samoa,341
+4/13/21,American Samoa,341
+4/14/21,American Samoa,276
+4/15/21,American Samoa,269
+4/16/21,American Samoa,347
+4/17/21,American Samoa,347
+4/18/21,American Samoa,258
+4/19/21,American Samoa,258
+4/20/21,American Samoa,258
+4/21/21,American Samoa,187
+4/22/21,American Samoa,187
+4/23/21,American Samoa,180
+4/24/21,American Samoa,180
+4/25/21,American Samoa,231
+4/26/21,American Samoa,231
+4/27/21,American Samoa,262
+4/28/21,American Samoa,245
+4/29/21,American Samoa,321
+4/30/21,American Samoa,216
+5/1/21,American Samoa,216
+5/2/21,American Samoa,165
+5/3/21,American Samoa,165
+5/4/21,American Samoa,188
+5/5/21,American Samoa,209
+5/6/21,American Samoa,133
+5/7/21,American Samoa,132
+5/8/21,American Samoa,132
+1/12/21,Arizona,
+1/13/21,Arizona,13390
+1/14/21,Arizona,16155
+1/15/21,Arizona,18577
+1/16/21,Arizona,18257
+1/17/21,Arizona,18065
+1/18/21,Arizona,17937
+1/19/21,Arizona,17846
+1/20/21,Arizona,18163
+1/21/21,Arizona,18605
+1/22/21,Arizona,18895
+1/23/21,Arizona,20939
+1/24/21,Arizona,22706
+1/25/21,Arizona,23526
+1/26/21,Arizona,23517
+1/27/21,Arizona,25196
+1/28/21,Arizona,26179
+1/29/21,Arizona,27393
+1/30/21,Arizona,28059
+1/31/21,Arizona,29069
+2/1/21,Arizona,29564
+2/2/21,Arizona,28681
+2/3/21,Arizona,28255
+2/4/21,Arizona,28424
+2/5/21,Arizona,28337
+2/6/21,Arizona,29917
+2/7/21,Arizona,30732
+2/8/21,Arizona,31487
+2/9/21,Arizona,33164
+2/10/21,Arizona,34531
+2/11/21,Arizona,36494
+2/12/21,Arizona,38691
+2/13/21,Arizona,39176
+2/14/21,Arizona,39989
+2/15/21,Arizona,40122
+2/16/21,Arizona,41539
+2/17/21,Arizona,38163
+2/18/21,Arizona,37314
+2/19/21,Arizona,55158
+2/20/21,Arizona,54896
+2/21/21,Arizona,54360
+2/22/21,Arizona,54958
+2/23/21,Arizona,53030
+2/24/21,Arizona,55863
+2/25/21,Arizona,57825
+2/26/21,Arizona,42127
+2/27/21,Arizona,43278
+2/28/21,Arizona,46110
+3/1/21,Arizona,48955
+3/2/21,Arizona,51993
+3/3/21,Arizona,53580
+3/4/21,Arizona,53198
+3/5/21,Arizona,52476
+3/6/21,Arizona,45071
+3/7/21,Arizona,52879
+3/8/21,Arizona,52280
+3/9/21,Arizona,50873
+3/10/21,Arizona,51794
+3/11/21,Arizona,52921
+3/12/21,Arizona,54235
+3/13/21,Arizona,62981
+3/14/21,Arizona,56433
+3/15/21,Arizona,55772
+3/16/21,Arizona,58490
+3/17/21,Arizona,57709
+3/18/21,Arizona,57866
+3/19/21,Arizona,48949
+3/20/21,Arizona,48762
+3/21/21,Arizona,47913
+3/22/21,Arizona,48184
+3/23/21,Arizona,45042
+3/24/21,Arizona,44646
+3/25/21,Arizona,50166
+3/26/21,Arizona,58308
+3/27/21,Arizona,59086
+3/28/21,Arizona,59378
+3/29/21,Arizona,60022
+3/30/21,Arizona,61260
+3/31/21,Arizona,63074
+4/1/21,Arizona,57997
+4/2/21,Arizona,58912
+4/3/21,Arizona,59149
+4/4/21,Arizona,58794
+4/5/21,Arizona,58482
+4/6/21,Arizona,58525
+4/7/21,Arizona,57644
+4/8/21,Arizona,55514
+4/9/21,Arizona,56308
+4/10/21,Arizona,57204
+4/11/21,Arizona,57826
+4/12/21,Arizona,56643
+4/13/21,Arizona,56417
+4/14/21,Arizona,56531
+4/15/21,Arizona,57918
+4/16/21,Arizona,55841
+4/17/21,Arizona,55226
+4/18/21,Arizona,54391
+4/19/21,Arizona,54470
+4/20/21,Arizona,53921
+4/21/21,Arizona,54448
+4/22/21,Arizona,54571
+4/23/21,Arizona,54802
+4/24/21,Arizona,53506
+4/25/21,Arizona,52397
+4/26/21,Arizona,51720
+4/27/21,Arizona,51362
+4/28/21,Arizona,49861
+4/29/21,Arizona,47964
+4/30/21,Arizona,45756
+5/1/21,Arizona,44097
+5/2/21,Arizona,41448
+5/3/21,Arizona,37787
+5/4/21,Arizona,36127
+5/5/21,Arizona,33654
+5/6/21,Arizona,33626
+5/7/21,Arizona,32954
+5/8/21,Arizona,30521
+1/12/21,Arkansas,
+1/13/21,Arkansas,53975
+1/14/21,Arkansas,33718
+1/15/21,Arkansas,25820
+1/16/21,Arkansas,20865
+1/17/21,Arkansas,17892
+1/18/21,Arkansas,15910
+1/19/21,Arkansas,14494
+1/20/21,Arkansas,11208
+1/21/21,Arkansas,9285
+1/22/21,Arkansas,11905
+1/23/21,Arkansas,11048
+1/24/21,Arkansas,11986
+1/25/21,Arkansas,12108
+1/26/21,Arkansas,13422
+1/27/21,Arkansas,11359
+1/28/21,Arkansas,11359
+1/29/21,Arkansas,9760
+1/30/21,Arkansas,12425
+1/31/21,Arkansas,12793
+2/1/21,Arkansas,12876
+2/2/21,Arkansas,11169
+2/3/21,Arkansas,9946
+2/4/21,Arkansas,12200
+2/5/21,Arkansas,11597
+2/6/21,Arkansas,12289
+2/7/21,Arkansas,12807
+2/8/21,Arkansas,12919
+2/9/21,Arkansas,12808
+2/10/21,Arkansas,13658
+2/11/21,Arkansas,13225
+2/12/21,Arkansas,13710
+2/13/21,Arkansas,11816
+2/14/21,Arkansas,11299
+2/15/21,Arkansas,10903
+2/16/21,Arkansas,11330
+2/17/21,Arkansas,9842
+2/18/21,Arkansas,8562
+2/19/21,Arkansas,10018
+2/20/21,Arkansas,9074
+2/21/21,Arkansas,7990
+2/22/21,Arkansas,8204
+2/23/21,Arkansas,8108
+2/24/21,Arkansas,9645
+2/25/21,Arkansas,11688
+2/26/21,Arkansas,11531
+2/27/21,Arkansas,14537
+2/28/21,Arkansas,17263
+3/1/21,Arkansas,18023
+3/2/21,Arkansas,18660
+3/3/21,Arkansas,18995
+3/4/21,Arkansas,18831
+3/5/21,Arkansas,17967
+3/6/21,Arkansas,17353
+3/7/21,Arkansas,16564
+3/8/21,Arkansas,15969
+3/9/21,Arkansas,15991
+3/10/21,Arkansas,15964
+3/11/21,Arkansas,13675
+3/12/21,Arkansas,16122
+3/13/21,Arkansas,19784
+3/14/21,Arkansas,16767
+3/15/21,Arkansas,17033
+3/16/21,Arkansas,16330
+3/17/21,Arkansas,16211
+3/18/21,Arkansas,18539
+3/19/21,Arkansas,16616
+3/20/21,Arkansas,13192
+3/21/21,Arkansas,16694
+3/22/21,Arkansas,16570
+3/23/21,Arkansas,16479
+3/24/21,Arkansas,17120
+3/25/21,Arkansas,18064
+3/26/21,Arkansas,19037
+3/27/21,Arkansas,19925
+3/28/21,Arkansas,20629
+3/29/21,Arkansas,20738
+3/30/21,Arkansas,20956
+3/31/21,Arkansas,21542
+4/1/21,Arkansas,21951
+4/2/21,Arkansas,22557
+4/3/21,Arkansas,27298
+4/4/21,Arkansas,23274
+4/5/21,Arkansas,23189
+4/6/21,Arkansas,23719
+4/7/21,Arkansas,23990
+4/8/21,Arkansas,24232
+4/9/21,Arkansas,23095
+4/10/21,Arkansas,19233
+4/11/21,Arkansas,23211
+4/12/21,Arkansas,23244
+4/13/21,Arkansas,22724
+4/14/21,Arkansas,22439
+4/15/21,Arkansas,22221
+4/16/21,Arkansas,22285
+4/17/21,Arkansas,20800
+4/18/21,Arkansas,20359
+4/19/21,Arkansas,19942
+4/20/21,Arkansas,20109
+4/21/21,Arkansas,19587
+4/22/21,Arkansas,18842
+4/23/21,Arkansas,18072
+4/24/21,Arkansas,17377
+4/25/21,Arkansas,16135
+4/26/21,Arkansas,16576
+4/27/21,Arkansas,16081
+4/28/21,Arkansas,15427
+4/29/21,Arkansas,15008
+4/30/21,Arkansas,14151
+5/1/21,Arkansas,13769
+5/2/21,Arkansas,14201
+5/3/21,Arkansas,13644
+5/4/21,Arkansas,13845
+5/5/21,Arkansas,13162
+5/6/21,Arkansas,12634
+5/7/21,Arkansas,12152
+5/8/21,Arkansas,11696
+1/12/21,Bureau of Prisons,
+1/13/21,Bureau of Prisons,1031
+1/14/21,Bureau of Prisons,728
+1/15/21,Bureau of Prisons,674
+1/16/21,Bureau of Prisons,564
+1/17/21,Bureau of Prisons,499
+1/18/21,Bureau of Prisons,455
+1/19/21,Bureau of Prisons,424
+1/20/21,Bureau of Prisons,483
+1/21/21,Bureau of Prisons,674
+1/22/21,Bureau of Prisons,661
+1/23/21,Bureau of Prisons,918
+1/24/21,Bureau of Prisons,989
+1/25/21,Bureau of Prisons,995
+1/26/21,Bureau of Prisons,1126
+1/27/21,Bureau of Prisons,1179
+1/28/21,Bureau of Prisons,1097
+1/29/21,Bureau of Prisons,1206
+1/30/21,Bureau of Prisons,1086
+1/31/21,Bureau of Prisons,1029
+2/1/21,Bureau of Prisons,989
+2/2/21,Bureau of Prisons,977
+2/3/21,Bureau of Prisons,990
+2/4/21,Bureau of Prisons,1097
+2/5/21,Bureau of Prisons,1201
+2/6/21,Bureau of Prisons,1239
+2/7/21,Bureau of Prisons,1293
+2/8/21,Bureau of Prisons,1293
+2/9/21,Bureau of Prisons,1242
+2/10/21,Bureau of Prisons,1214
+2/11/21,Bureau of Prisons,1140
+2/12/21,Bureau of Prisons,1065
+2/13/21,Bureau of Prisons,1044
+2/14/21,Bureau of Prisons,1033
+2/15/21,Bureau of Prisons,1071
+2/16/21,Bureau of Prisons,1007
+2/17/21,Bureau of Prisons,838
+2/18/21,Bureau of Prisons,696
+2/19/21,Bureau of Prisons,614
+2/20/21,Bureau of Prisons,592
+2/21/21,Bureau of Prisons,672
+2/22/21,Bureau of Prisons,646
+2/23/21,Bureau of Prisons,665
+2/24/21,Bureau of Prisons,731
+2/25/21,Bureau of Prisons,864
+2/26/21,Bureau of Prisons,1069
+2/27/21,Bureau of Prisons,1166
+2/28/21,Bureau of Prisons,1145
+3/1/21,Bureau of Prisons,1134
+3/2/21,Bureau of Prisons,1180
+3/3/21,Bureau of Prisons,1288
+3/4/21,Bureau of Prisons,1611
+3/5/21,Bureau of Prisons,1819
+3/6/21,Bureau of Prisons,1789
+3/7/21,Bureau of Prisons,1699
+3/8/21,Bureau of Prisons,1699
+3/9/21,Bureau of Prisons,1648
+3/10/21,Bureau of Prisons,1501
+3/11/21,Bureau of Prisons,1407
+3/12/21,Bureau of Prisons,1238
+3/13/21,Bureau of Prisons,1275
+3/14/21,Bureau of Prisons,1216
+3/15/21,Bureau of Prisons,1216
+3/16/21,Bureau of Prisons,1214
+3/17/21,Bureau of Prisons,1242
+3/18/21,Bureau of Prisons,1139
+3/19/21,Bureau of Prisons,1078
+3/20/21,Bureau of Prisons,1046
+3/21/21,Bureau of Prisons,1168
+3/22/21,Bureau of Prisons,1196
+3/23/21,Bureau of Prisons,1171
+3/24/21,Bureau of Prisons,1199
+3/25/21,Bureau of Prisons,1571
+3/26/21,Bureau of Prisons,1796
+3/27/21,Bureau of Prisons,1879
+3/28/21,Bureau of Prisons,1846
+3/29/21,Bureau of Prisons,1819
+3/30/21,Bureau of Prisons,1808
+3/31/21,Bureau of Prisons,1679
+4/1/21,Bureau of Prisons,1757
+4/2/21,Bureau of Prisons,1723
+4/3/21,Bureau of Prisons,1516
+4/4/21,Bureau of Prisons,1488
+4/5/21,Bureau of Prisons,1488
+4/6/21,Bureau of Prisons,1489
+4/7/21,Bureau of Prisons,1616
+4/8/21,Bureau of Prisons,1738
+4/9/21,Bureau of Prisons,1730
+4/10/21,Bureau of Prisons,2023
+4/11/21,Bureau of Prisons,2100
+4/12/21,Bureau of Prisons,2104
+4/13/21,Bureau of Prisons,2108
+4/14/21,Bureau of Prisons,2155
+4/15/21,Bureau of Prisons,1281
+4/16/21,Bureau of Prisons,1227
+4/17/21,Bureau of Prisons,1007
+4/18/21,Bureau of Prisons,917
+4/19/21,Bureau of Prisons,913
+4/20/21,Bureau of Prisons,903
+4/21/21,Bureau of Prisons,826
+4/22/21,Bureau of Prisons,1271
+4/23/21,Bureau of Prisons,1168
+4/24/21,Bureau of Prisons,1280
+4/25/21,Bureau of Prisons,1315
+4/26/21,Bureau of Prisons,1315
+4/27/21,Bureau of Prisons,1308
+4/28/21,Bureau of Prisons,1321
+4/29/21,Bureau of Prisons,1514
+4/30/21,Bureau of Prisons,1618
+5/1/21,Bureau of Prisons,1664
+5/2/21,Bureau of Prisons,1651
+5/3/21,Bureau of Prisons,1651
+5/4/21,Bureau of Prisons,1651
+5/5/21,Bureau of Prisons,1634
+5/6/21,Bureau of Prisons,1456
+5/7/21,Bureau of Prisons,1431
+5/8/21,Bureau of Prisons,1093
+1/12/21,California,
+1/13/21,California,75188
+1/14/21,California,79496
+1/15/21,California,85553
+1/16/21,California,88381
+1/17/21,California,90079
+1/18/21,California,91210
+1/19/21,California,92018
+1/20/21,California,91549
+1/21/21,California,94083
+1/22/21,California,104389
+1/23/21,California,119770
+1/24/21,California,133316
+1/25/21,California,138153
+1/26/21,California,140878
+1/27/21,California,149620
+1/28/21,California,159000
+1/29/21,California,158126
+1/30/21,California,155366
+1/31/21,California,155063
+2/1/21,California,160379
+2/2/21,California,156749
+2/3/21,California,155950
+2/4/21,California,139561
+2/5/21,California,144296
+2/6/21,California,148831
+2/7/21,California,171402
+2/8/21,California,175654
+2/9/21,California,177237
+2/10/21,California,183712
+2/11/21,California,201580
+2/12/21,California,202925
+2/13/21,California,203565
+2/14/21,California,190746
+2/15/21,California,190404
+2/16/21,California,203788
+2/17/21,California,195102
+2/18/21,California,194468
+2/19/21,California,231928
+2/20/21,California,234166
+2/21/21,California,233297
+2/22/21,California,227005
+2/23/21,California,216733
+2/24/21,California,221857
+2/25/21,California,223997
+2/26/21,California,192335
+2/27/21,California,194965
+2/28/21,California,195368
+3/1/21,California,214479
+3/2/21,California,252715
+3/3/21,California,265023
+3/4/21,California,256584
+3/5/21,California,251504
+3/6/21,California,264079
+3/7/21,California,259101
+3/8/21,California,242771
+3/9/21,California,204065
+3/10/21,California,190191
+3/11/21,California,194328
+3/12/21,California,193794
+3/13/21,California,209548
+3/14/21,California,178375
+3/15/21,California,214448
+3/16/21,California,251553
+3/17/21,California,299789
+3/18/21,California,334655
+3/19/21,California,350707
+3/20/21,California,342038
+3/21/21,California,403543
+3/22/21,California,392009
+3/23/21,California,380370
+3/24/21,California,361552
+3/25/21,California,357025
+3/26/21,California,377779
+3/27/21,California,381256
+3/28/21,California,375263
+3/29/21,California,378982
+3/30/21,California,367579
+3/31/21,California,361646
+4/1/21,California,363128
+4/2/21,California,351209
+4/3/21,California,357814
+4/4/21,California,375343
+4/5/21,California,372228
+4/6/21,California,366223
+4/7/21,California,377497
+4/8/21,California,377051
+4/9/21,California,391393
+4/10/21,California,404572
+4/11/21,California,398820
+4/12/21,California,388844
+4/13/21,California,391650
+4/14/21,California,407905
+4/15/21,California,428384
+4/16/21,California,474575
+4/17/21,California,469733
+4/18/21,California,476835
+4/19/21,California,486322
+4/20/21,California,494575
+4/21/21,California,470327
+4/22/21,California,448969
+4/23/21,California,382776
+4/24/21,California,390331
+4/25/21,California,386663
+4/26/21,California,387965
+4/27/21,California,383386
+4/28/21,California,375225
+4/29/21,California,367495
+4/30/21,California,356625
+5/1/21,California,359825
+5/2/21,California,340912
+5/3/21,California,318725
+5/4/21,California,299430
+5/5/21,California,290114
+5/6/21,California,291408
+5/7/21,California,306331
+5/8/21,California,277007
+1/12/21,Colorado,
+1/13/21,Colorado,15237
+1/14/21,Colorado,15139
+1/15/21,Colorado,15935
+1/16/21,Colorado,15580
+1/17/21,Colorado,15367
+1/18/21,Colorado,15225
+1/19/21,Colorado,15123
+1/20/21,Colorado,14396
+1/21/21,Colorado,14070
+1/22/21,Colorado,15007
+1/23/21,Colorado,12934
+1/24/21,Colorado,19033
+1/25/21,Colorado,18872
+1/26/21,Colorado,18208
+1/27/21,Colorado,19156
+1/28/21,Colorado,20359
+1/29/21,Colorado,20657
+1/30/21,Colorado,24010
+1/31/21,Colorado,19248
+2/1/21,Colorado,20272
+2/2/21,Colorado,20514
+2/3/21,Colorado,20371
+2/4/21,Colorado,20460
+2/5/21,Colorado,19975
+2/6/21,Colorado,21358
+2/7/21,Colorado,22952
+2/8/21,Colorado,23168
+2/9/21,Colorado,22316
+2/10/21,Colorado,24274
+2/11/21,Colorado,25169
+2/12/21,Colorado,26131
+2/13/21,Colorado,27246
+2/14/21,Colorado,28130
+2/15/21,Colorado,30249
+2/16/21,Colorado,34720
+2/17/21,Colorado,33875
+2/18/21,Colorado,33990
+2/19/21,Colorado,41118
+2/20/21,Colorado,40331
+2/21/21,Colorado,39336
+2/22/21,Colorado,38285
+2/23/21,Colorado,33267
+2/24/21,Colorado,34876
+2/25/21,Colorado,34456
+2/26/21,Colorado,27248
+2/27/21,Colorado,22403
+2/28/21,Colorado,24202
+3/1/21,Colorado,25887
+3/2/21,Colorado,27913
+3/3/21,Colorado,27679
+3/4/21,Colorado,28668
+3/5/21,Colorado,29383
+3/6/21,Colorado,36492
+3/7/21,Colorado,36417
+3/8/21,Colorado,30650
+3/9/21,Colorado,31695
+3/10/21,Colorado,33203
+3/11/21,Colorado,38451
+3/12/21,Colorado,41169
+3/13/21,Colorado,42625
+3/14/21,Colorado,36020
+3/15/21,Colorado,43751
+3/16/21,Colorado,42517
+3/17/21,Colorado,41865
+3/18/21,Colorado,37878
+3/19/21,Colorado,37605
+3/20/21,Colorado,44230
+3/21/21,Colorado,53105
+3/22/21,Colorado,48992
+3/23/21,Colorado,51727
+3/24/21,Colorado,50937
+3/25/21,Colorado,51384
+3/26/21,Colorado,51867
+3/27/21,Colorado,44676
+3/28/21,Colorado,45531
+3/29/21,Colorado,46590
+3/30/21,Colorado,47840
+3/31/21,Colorado,49594
+4/1/21,Colorado,51019
+4/2/21,Colorado,51519
+4/3/21,Colorado,53895
+4/4/21,Colorado,55017
+4/5/21,Colorado,53844
+4/6/21,Colorado,53228
+4/7/21,Colorado,55430
+4/8/21,Colorado,54810
+4/9/21,Colorado,54395
+4/10/21,Colorado,55437
+4/11/21,Colorado,54577
+4/12/21,Colorado,61132
+4/13/21,Colorado,63731
+4/14/21,Colorado,64075
+4/15/21,Colorado,64837
+4/16/21,Colorado,65974
+4/17/21,Colorado,64067
+4/18/21,Colorado,64895
+4/19/21,Colorado,62680
+4/20/21,Colorado,60973
+4/21/21,Colorado,59197
+4/22/21,Colorado,60061
+4/23/21,Colorado,60260
+4/24/21,Colorado,51089
+4/25/21,Colorado,60028
+4/26/21,Colorado,56378
+4/27/21,Colorado,55430
+4/28/21,Colorado,54540
+4/29/21,Colorado,54930
+4/30/21,Colorado,53491
+5/1/21,Colorado,62007
+5/2/21,Colorado,48342
+5/3/21,Colorado,47140
+5/4/21,Colorado,46187
+5/5/21,Colorado,46552
+5/6/21,Colorado,46177
+5/7/21,Colorado,46468
+5/8/21,Colorado,44615
+1/12/21,Connecticut,
+1/13/21,Connecticut,10480
+1/14/21,Connecticut,10251
+1/15/21,Connecticut,11490
+1/16/21,Connecticut,11346
+1/17/21,Connecticut,11260
+1/18/21,Connecticut,11202
+1/19/21,Connecticut,11161
+1/20/21,Connecticut,11609
+1/21/21,Connecticut,13259
+1/22/21,Connecticut,14511
+1/23/21,Connecticut,15716
+1/24/21,Connecticut,16292
+1/25/21,Connecticut,16094
+1/26/21,Connecticut,16160
+1/27/21,Connecticut,16836
+1/28/21,Connecticut,16636
+1/29/21,Connecticut,16561
+1/30/21,Connecticut,16342
+1/31/21,Connecticut,16444
+2/1/21,Connecticut,16856
+2/2/21,Connecticut,16207
+2/3/21,Connecticut,14860
+2/4/21,Connecticut,14381
+2/5/21,Connecticut,14140
+2/6/21,Connecticut,14030
+2/7/21,Connecticut,13871
+2/8/21,Connecticut,13309
+2/9/21,Connecticut,14033
+2/10/21,Connecticut,15677
+2/11/21,Connecticut,16918
+2/12/21,Connecticut,17762
+2/13/21,Connecticut,19338
+2/14/21,Connecticut,20109
+2/15/21,Connecticut,21501
+2/16/21,Connecticut,22403
+2/17/21,Connecticut,23349
+2/18/21,Connecticut,23848
+2/19/21,Connecticut,27991
+2/20/21,Connecticut,27579
+2/21/21,Connecticut,26547
+2/22/21,Connecticut,27122
+2/23/21,Connecticut,25963
+2/24/21,Connecticut,24835
+2/25/21,Connecticut,22680
+2/26/21,Connecticut,18791
+2/27/21,Connecticut,18913
+2/28/21,Connecticut,20562
+3/1/21,Connecticut,21218
+3/2/21,Connecticut,21039
+3/3/21,Connecticut,21335
+3/4/21,Connecticut,23052
+3/5/21,Connecticut,23909
+3/6/21,Connecticut,25272
+3/7/21,Connecticut,27307
+3/8/21,Connecticut,28223
+3/9/21,Connecticut,29362
+3/10/21,Connecticut,30172
+3/11/21,Connecticut,30998
+3/12/21,Connecticut,31976
+3/13/21,Connecticut,36344
+3/14/21,Connecticut,30845
+3/15/21,Connecticut,30511
+3/16/21,Connecticut,30664
+3/17/21,Connecticut,30144
+3/18/21,Connecticut,30092
+3/19/21,Connecticut,29447
+3/20/21,Connecticut,24994
+3/21/21,Connecticut,30223
+3/22/21,Connecticut,30843
+3/23/21,Connecticut,30939
+3/24/21,Connecticut,31102
+3/25/21,Connecticut,31745
+3/26/21,Connecticut,31795
+3/27/21,Connecticut,32481
+3/28/21,Connecticut,33028
+3/29/21,Connecticut,33324
+3/30/21,Connecticut,35386
+3/31/21,Connecticut,36137
+4/1/21,Connecticut,36534
+4/2/21,Connecticut,37357
+4/3/21,Connecticut,39768
+4/4/21,Connecticut,40602
+4/5/21,Connecticut,41015
+4/6/21,Connecticut,37368
+4/7/21,Connecticut,38964
+4/8/21,Connecticut,40945
+4/9/21,Connecticut,43629
+4/10/21,Connecticut,42802
+4/11/21,Connecticut,44741
+4/12/21,Connecticut,45702
+4/13/21,Connecticut,49356
+4/14/21,Connecticut,49286
+4/15/21,Connecticut,47576
+4/16/21,Connecticut,47224
+4/17/21,Connecticut,47019
+4/18/21,Connecticut,45538
+4/19/21,Connecticut,44297
+4/20/21,Connecticut,43276
+4/21/21,Connecticut,42592
+4/22/21,Connecticut,43003
+4/23/21,Connecticut,40810
+4/24/21,Connecticut,40858
+4/25/21,Connecticut,40804
+4/26/21,Connecticut,40782
+4/27/21,Connecticut,39645
+4/28/21,Connecticut,39552
+4/29/21,Connecticut,38710
+4/30/21,Connecticut,37649
+5/1/21,Connecticut,36764
+5/2/21,Connecticut,34878
+5/3/21,Connecticut,32505
+5/4/21,Connecticut,31994
+5/5/21,Connecticut,30584
+5/6/21,Connecticut,30557
+5/7/21,Connecticut,30925
+5/8/21,Connecticut,30099
+1/12/21,Delaware,
+1/13/21,Delaware,2003
+1/14/21,Delaware,2340
+1/15/21,Delaware,1560
+1/16/21,Delaware,1887
+1/17/21,Delaware,2083
+1/18/21,Delaware,2213
+1/19/21,Delaware,2307
+1/20/21,Delaware,2461
+1/21/21,Delaware,2611
+1/22/21,Delaware,3310
+1/23/21,Delaware,3724
+1/24/21,Delaware,3909
+1/25/21,Delaware,3889
+1/26/21,Delaware,3707
+1/27/21,Delaware,4544
+1/28/21,Delaware,4703
+1/29/21,Delaware,4720
+1/30/21,Delaware,4641
+1/31/21,Delaware,5110
+2/1/21,Delaware,5112
+2/2/21,Delaware,5038
+2/3/21,Delaware,4299
+2/4/21,Delaware,4071
+2/5/21,Delaware,3847
+2/6/21,Delaware,3709
+2/7/21,Delaware,3353
+2/8/21,Delaware,3422
+2/9/21,Delaware,3393
+2/10/21,Delaware,3225
+2/11/21,Delaware,3227
+2/12/21,Delaware,3195
+2/13/21,Delaware,3375
+2/14/21,Delaware,3287
+2/15/21,Delaware,3252
+2/16/21,Delaware,3552
+2/17/21,Delaware,3571
+2/18/21,Delaware,3782
+2/19/21,Delaware,5531
+2/20/21,Delaware,5500
+2/21/21,Delaware,4929
+2/22/21,Delaware,4927
+2/23/21,Delaware,4890
+2/24/21,Delaware,4961
+2/25/21,Delaware,5098
+2/26/21,Delaware,4063
+2/27/21,Delaware,4591
+2/28/21,Delaware,5482
+3/1/21,Delaware,5925
+3/2/21,Delaware,5543
+3/3/21,Delaware,6833
+3/4/21,Delaware,7237
+3/5/21,Delaware,7327
+3/6/21,Delaware,7409
+3/7/21,Delaware,8022
+3/8/21,Delaware,7900
+3/9/21,Delaware,8526
+3/10/21,Delaware,6799
+3/11/21,Delaware,7643
+3/12/21,Delaware,7564
+3/13/21,Delaware,7598
+3/14/21,Delaware,6046
+3/15/21,Delaware,7603
+3/16/21,Delaware,7618
+3/17/21,Delaware,8702
+3/18/21,Delaware,7839
+3/19/21,Delaware,7720
+3/20/21,Delaware,7768
+3/21/21,Delaware,9222
+3/22/21,Delaware,7894
+3/23/21,Delaware,7247
+3/24/21,Delaware,7289
+3/25/21,Delaware,7438
+3/26/21,Delaware,7935
+3/27/21,Delaware,7996
+3/28/21,Delaware,8061
+3/29/21,Delaware,8344
+3/30/21,Delaware,9184
+3/31/21,Delaware,9467
+4/1/21,Delaware,9611
+4/2/21,Delaware,9775
+4/3/21,Delaware,10083
+4/4/21,Delaware,9975
+4/5/21,Delaware,9838
+4/6/21,Delaware,9374
+4/7/21,Delaware,9225
+4/8/21,Delaware,8959
+4/9/21,Delaware,9124
+4/10/21,Delaware,8973
+4/11/21,Delaware,9646
+4/12/21,Delaware,9427
+4/13/21,Delaware,9831
+4/14/21,Delaware,10233
+4/15/21,Delaware,10796
+4/16/21,Delaware,10834
+4/17/21,Delaware,10813
+4/18/21,Delaware,10349
+4/19/21,Delaware,10670
+4/20/21,Delaware,10645
+4/21/21,Delaware,10398
+4/22/21,Delaware,10115
+4/23/21,Delaware,9861
+4/24/21,Delaware,9681
+4/25/21,Delaware,9808
+4/26/21,Delaware,9510
+4/27/21,Delaware,9526
+4/28/21,Delaware,9580
+4/29/21,Delaware,9342
+4/30/21,Delaware,9254
+5/1/21,Delaware,9473
+5/2/21,Delaware,9136
+5/3/21,Delaware,8591
+5/4/21,Delaware,8282
+5/5/21,Delaware,7694
+5/6/21,Delaware,6439
+5/7/21,Delaware,7252
+5/8/21,Delaware,6630
+1/12/21,Dept of Defense,
+1/13/21,Dept of Defense,554
+1/14/21,Dept of Defense,20142
+1/15/21,Dept of Defense,20682
+1/16/21,Dept of Defense,18842
+1/17/21,Dept of Defense,17738
+1/18/21,Dept of Defense,17003
+1/19/21,Dept of Defense,16477
+1/20/21,Dept of Defense,16696
+1/21/21,Dept of Defense,13536
+1/22/21,Dept of Defense,13001
+1/23/21,Dept of Defense,13823
+1/24/21,Dept of Defense,15474
+1/25/21,Dept of Defense,14961
+1/26/21,Dept of Defense,13057
+1/27/21,Dept of Defense,15592
+1/28/21,Dept of Defense,16493
+1/29/21,Dept of Defense,17604
+1/30/21,Dept of Defense,19770
+1/31/21,Dept of Defense,20675
+2/1/21,Dept of Defense,19849
+2/2/21,Dept of Defense,20600
+2/3/21,Dept of Defense,20422
+2/4/21,Dept of Defense,20132
+2/5/21,Dept of Defense,20523
+2/6/21,Dept of Defense,19825
+2/7/21,Dept of Defense,20045
+2/8/21,Dept of Defense,21115
+2/9/21,Dept of Defense,20997
+2/10/21,Dept of Defense,21207
+2/11/21,Dept of Defense,21226
+2/12/21,Dept of Defense,20337
+2/13/21,Dept of Defense,19658
+2/14/21,Dept of Defense,18608
+2/15/21,Dept of Defense,17202
+2/16/21,Dept of Defense,16797
+2/17/21,Dept of Defense,14529
+2/18/21,Dept of Defense,16009
+2/19/21,Dept of Defense,15476
+2/20/21,Dept of Defense,14929
+2/21/21,Dept of Defense,14712
+2/22/21,Dept of Defense,16079
+2/23/21,Dept of Defense,16198
+2/24/21,Dept of Defense,18271
+2/25/21,Dept of Defense,16528
+2/26/21,Dept of Defense,16962
+2/27/21,Dept of Defense,18152
+2/28/21,Dept of Defense,19717
+3/1/21,Dept of Defense,18451
+3/2/21,Dept of Defense,18257
+3/3/21,Dept of Defense,18690
+3/4/21,Dept of Defense,18942
+3/5/21,Dept of Defense,19496
+3/6/21,Dept of Defense,19522
+3/7/21,Dept of Defense,19726
+3/8/21,Dept of Defense,20970
+3/9/21,Dept of Defense,46373
+3/10/21,Dept of Defense,46575
+3/11/21,Dept of Defense,47779
+3/12/21,Dept of Defense,48386
+3/13/21,Dept of Defense,49300
+3/14/21,Dept of Defense,44119
+3/15/21,Dept of Defense,50500
+3/16/21,Dept of Defense,26567
+3/17/21,Dept of Defense,26783
+3/18/21,Dept of Defense,26927
+3/19/21,Dept of Defense,27076
+3/20/21,Dept of Defense,27198
+3/21/21,Dept of Defense,33427
+3/22/21,Dept of Defense,26256
+3/23/21,Dept of Defense,25119
+3/24/21,Dept of Defense,23314
+3/25/21,Dept of Defense,21367
+3/26/21,Dept of Defense,27479
+3/27/21,Dept of Defense,28224
+3/28/21,Dept of Defense,28620
+3/29/21,Dept of Defense,29573
+3/30/21,Dept of Defense,30454
+3/31/21,Dept of Defense,33150
+4/1/21,Dept of Defense,35509
+4/2/21,Dept of Defense,29665
+4/3/21,Dept of Defense,29962
+4/4/21,Dept of Defense,29744
+4/5/21,Dept of Defense,29558
+4/6/21,Dept of Defense,29280
+4/7/21,Dept of Defense,28768
+4/8/21,Dept of Defense,29462
+4/9/21,Dept of Defense,29880
+4/10/21,Dept of Defense,30612
+4/11/21,Dept of Defense,32450
+4/12/21,Dept of Defense,33547
+4/13/21,Dept of Defense,34715
+4/14/21,Dept of Defense,35833
+4/15/21,Dept of Defense,36055
+4/16/21,Dept of Defense,35904
+4/17/21,Dept of Defense,35230
+4/18/21,Dept of Defense,34044
+4/19/21,Dept of Defense,35335
+4/20/21,Dept of Defense,34486
+4/21/21,Dept of Defense,33505
+4/22/21,Dept of Defense,32298
+4/23/21,Dept of Defense,32127
+4/24/21,Dept of Defense,32235
+4/25/21,Dept of Defense,32134
+4/26/21,Dept of Defense,29759
+4/27/21,Dept of Defense,30302
+4/28/21,Dept of Defense,29839
+4/29/21,Dept of Defense,29871
+4/30/21,Dept of Defense,29656
+5/1/21,Dept of Defense,24766
+5/2/21,Dept of Defense,23709
+5/3/21,Dept of Defense,27070
+5/4/21,Dept of Defense,28009
+5/5/21,Dept of Defense,27927
+5/6/21,Dept of Defense,27500
+5/7/21,Dept of Defense,27224
+5/8/21,Dept of Defense,30667
+1/12/21,District of Columbia,
+1/13/21,District of Columbia,3237
+1/14/21,District of Columbia,3434
+1/15/21,District of Columbia,3374
+1/16/21,District of Columbia,3159
+1/17/21,District of Columbia,3030
+1/18/21,District of Columbia,2944
+1/19/21,District of Columbia,2882
+1/20/21,District of Columbia,2669
+1/21/21,District of Columbia,2633
+1/22/21,District of Columbia,2419
+1/23/21,District of Columbia,2478
+1/24/21,District of Columbia,2490
+1/25/21,District of Columbia,2388
+1/26/21,District of Columbia,2109
+1/27/21,District of Columbia,2336
+1/28/21,District of Columbia,2247
+1/29/21,District of Columbia,2352
+1/30/21,District of Columbia,2411
+1/31/21,District of Columbia,2591
+2/1/21,District of Columbia,2618
+2/2/21,District of Columbia,2686
+2/3/21,District of Columbia,2426
+2/4/21,District of Columbia,3322
+2/5/21,District of Columbia,3648
+2/6/21,District of Columbia,3623
+2/7/21,District of Columbia,3613
+2/8/21,District of Columbia,3708
+2/9/21,District of Columbia,3560
+2/10/21,District of Columbia,3344
+2/11/21,District of Columbia,2518
+2/12/21,District of Columbia,2178
+2/13/21,District of Columbia,2033
+2/14/21,District of Columbia,2213
+2/15/21,District of Columbia,2204
+2/16/21,District of Columbia,2575
+2/17/21,District of Columbia,2855
+2/18/21,District of Columbia,2674
+2/19/21,District of Columbia,6143
+2/20/21,District of Columbia,6197
+2/21/21,District of Columbia,5909
+2/22/21,District of Columbia,5757
+2/23/21,District of Columbia,5746
+2/24/21,District of Columbia,5983
+2/25/21,District of Columbia,6085
+2/26/21,District of Columbia,2705
+2/27/21,District of Columbia,3587
+2/28/21,District of Columbia,4582
+3/1/21,District of Columbia,4834
+3/2/21,District of Columbia,4641
+3/3/21,District of Columbia,4535
+3/4/21,District of Columbia,4913
+3/5/21,District of Columbia,5099
+3/6/21,District of Columbia,5127
+3/7/21,District of Columbia,4447
+3/8/21,District of Columbia,4580
+3/9/21,District of Columbia,4779
+3/10/21,District of Columbia,5157
+3/11/21,District of Columbia,5234
+3/12/21,District of Columbia,5479
+3/13/21,District of Columbia,5128
+3/14/21,District of Columbia,5518
+3/15/21,District of Columbia,5869
+3/16/21,District of Columbia,5965
+3/17/21,District of Columbia,6193
+3/18/21,District of Columbia,5927
+3/19/21,District of Columbia,5847
+3/20/21,District of Columbia,5731
+3/21/21,District of Columbia,5456
+3/22/21,District of Columbia,5115
+3/23/21,District of Columbia,4991
+3/24/21,District of Columbia,4543
+3/25/21,District of Columbia,4947
+3/26/21,District of Columbia,5141
+3/27/21,District of Columbia,5448
+3/28/21,District of Columbia,6037
+3/29/21,District of Columbia,6675
+3/30/21,District of Columbia,7100
+3/31/21,District of Columbia,8708
+4/1/21,District of Columbia,8739
+4/2/21,District of Columbia,8801
+4/3/21,District of Columbia,8872
+4/4/21,District of Columbia,8372
+4/5/21,District of Columbia,7662
+4/6/21,District of Columbia,7618
+4/7/21,District of Columbia,5547
+4/8/21,District of Columbia,6495
+4/9/21,District of Columbia,6613
+4/10/21,District of Columbia,6915
+4/11/21,District of Columbia,7211
+4/12/21,District of Columbia,7886
+4/13/21,District of Columbia,7742
+4/14/21,District of Columbia,8398
+4/15/21,District of Columbia,7872
+4/16/21,District of Columbia,8029
+4/17/21,District of Columbia,7941
+4/18/21,District of Columbia,8237
+4/19/21,District of Columbia,8425
+4/20/21,District of Columbia,8369
+4/21/21,District of Columbia,8615
+4/22/21,District of Columbia,8190
+4/23/21,District of Columbia,8243
+4/24/21,District of Columbia,8202
+4/25/21,District of Columbia,8045
+4/26/21,District of Columbia,7854
+4/27/21,District of Columbia,7978
+4/28/21,District of Columbia,8033
+4/29/21,District of Columbia,8061
+4/30/21,District of Columbia,7569
+5/1/21,District of Columbia,7203
+5/2/21,District of Columbia,6788
+5/3/21,District of Columbia,6240
+5/4/21,District of Columbia,5734
+5/5/21,District of Columbia,5376
+5/6/21,District of Columbia,5092
+5/7/21,District of Columbia,5152
+5/8/21,District of Columbia,5560
+1/12/21,Federated States of Micronesia,
+1/13/21,Federated States of Micronesia,141
+1/14/21,Federated States of Micronesia,90
+1/15/21,Federated States of Micronesia,90
+1/16/21,Federated States of Micronesia,114
+1/17/21,Federated States of Micronesia,128
+1/18/21,Federated States of Micronesia,138
+1/19/21,Federated States of Micronesia,145
+1/20/21,Federated States of Micronesia,170
+1/21/21,Federated States of Micronesia,212
+1/22/21,Federated States of Micronesia,260
+1/23/21,Federated States of Micronesia,268
+1/24/21,Federated States of Micronesia,241
+1/25/21,Federated States of Micronesia,215
+1/26/21,Federated States of Micronesia,220
+1/27/21,Federated States of Micronesia,212
+1/28/21,Federated States of Micronesia,202
+1/29/21,Federated States of Micronesia,207
+1/30/21,Federated States of Micronesia,173
+1/31/21,Federated States of Micronesia,173
+2/1/21,Federated States of Micronesia,336
+2/2/21,Federated States of Micronesia,393
+2/3/21,Federated States of Micronesia,430
+2/4/21,Federated States of Micronesia,457
+2/5/21,Federated States of Micronesia,434
+2/6/21,Federated States of Micronesia,481
+2/7/21,Federated States of Micronesia,493
+2/8/21,Federated States of Micronesia,334
+2/9/21,Federated States of Micronesia,286
+2/10/21,Federated States of Micronesia,252
+2/11/21,Federated States of Micronesia,238
+2/12/21,Federated States of Micronesia,249
+2/13/21,Federated States of Micronesia,271
+2/14/21,Federated States of Micronesia,286
+2/15/21,Federated States of Micronesia,321
+2/16/21,Federated States of Micronesia,322
+2/17/21,Federated States of Micronesia,369
+2/18/21,Federated States of Micronesia,393
+2/19/21,Federated States of Micronesia,406
+2/20/21,Federated States of Micronesia,337
+2/21/21,Federated States of Micronesia,397
+2/22/21,Federated States of Micronesia,357
+2/23/21,Federated States of Micronesia,317
+2/24/21,Federated States of Micronesia,342
+2/25/21,Federated States of Micronesia,314
+2/26/21,Federated States of Micronesia,318
+2/27/21,Federated States of Micronesia,390
+2/28/21,Federated States of Micronesia,360
+3/1/21,Federated States of Micronesia,404
+3/2/21,Federated States of Micronesia,501
+3/3/21,Federated States of Micronesia,456
+3/4/21,Federated States of Micronesia,465
+3/5/21,Federated States of Micronesia,468
+3/6/21,Federated States of Micronesia,472
+3/7/21,Federated States of Micronesia,433
+3/8/21,Federated States of Micronesia,389
+3/9/21,Federated States of Micronesia,347
+3/10/21,Federated States of Micronesia,319
+3/11/21,Federated States of Micronesia,302
+3/12/21,Federated States of Micronesia,284
+3/13/21,Federated States of Micronesia,279
+3/14/21,Federated States of Micronesia,293
+3/15/21,Federated States of Micronesia,299
+3/16/21,Federated States of Micronesia,331
+3/17/21,Federated States of Micronesia,351
+3/18/21,Federated States of Micronesia,313
+3/19/21,Federated States of Micronesia,363
+3/20/21,Federated States of Micronesia,364
+3/21/21,Federated States of Micronesia,346
+3/22/21,Federated States of Micronesia,345
+3/23/21,Federated States of Micronesia,291
+3/24/21,Federated States of Micronesia,269
+3/25/21,Federated States of Micronesia,306
+3/26/21,Federated States of Micronesia,262
+3/27/21,Federated States of Micronesia,236
+3/28/21,Federated States of Micronesia,242
+3/29/21,Federated States of Micronesia,266
+3/30/21,Federated States of Micronesia,293
+3/31/21,Federated States of Micronesia,318
+4/1/21,Federated States of Micronesia,307
+4/2/21,Federated States of Micronesia,245
+4/3/21,Federated States of Micronesia,232
+4/4/21,Federated States of Micronesia,214
+4/5/21,Federated States of Micronesia,224
+4/6/21,Federated States of Micronesia,207
+4/7/21,Federated States of Micronesia,213
+4/8/21,Federated States of Micronesia,221
+4/9/21,Federated States of Micronesia,221
+4/10/21,Federated States of Micronesia,279
+4/11/21,Federated States of Micronesia,279
+4/12/21,Federated States of Micronesia,264
+4/13/21,Federated States of Micronesia,283
+4/14/21,Federated States of Micronesia,265
+4/15/21,Federated States of Micronesia,230
+4/16/21,Federated States of Micronesia,321
+4/17/21,Federated States of Micronesia,293
+4/18/21,Federated States of Micronesia,293
+4/19/21,Federated States of Micronesia,331
+4/20/21,Federated States of Micronesia,327
+4/21/21,Federated States of Micronesia,273
+4/22/21,Federated States of Micronesia,273
+4/23/21,Federated States of Micronesia,321
+4/24/21,Federated States of Micronesia,258
+4/25/21,Federated States of Micronesia,258
+4/26/21,Federated States of Micronesia,327
+4/27/21,Federated States of Micronesia,415
+4/28/21,Federated States of Micronesia,415
+4/29/21,Federated States of Micronesia,612
+4/30/21,Federated States of Micronesia,474
+5/1/21,Federated States of Micronesia,571
+5/2/21,Federated States of Micronesia,571
+5/3/21,Federated States of Micronesia,457
+5/4/21,Federated States of Micronesia,358
+5/5/21,Federated States of Micronesia,399
+5/6/21,Federated States of Micronesia,255
+5/7/21,Federated States of Micronesia,255
+5/8/21,Federated States of Micronesia,274
+1/12/21,Florida,
+1/13/21,Florida,71958
+1/14/21,Florida,70522
+1/15/21,Florida,73214
+1/16/21,Florida,75010
+1/17/21,Florida,76089
+1/18/21,Florida,76807
+1/19/21,Florida,77321
+1/20/21,Florida,76368
+1/21/21,Florida,66499
+1/22/21,Florida,65899
+1/23/21,Florida,79360
+1/24/21,Florida,75844
+1/25/21,Florida,64359
+1/26/21,Florida,57258
+1/27/21,Florida,56074
+1/28/21,Florida,66754
+1/29/21,Florida,68838
+1/30/21,Florida,57314
+1/31/21,Florida,59262
+2/1/21,Florida,65798
+2/2/21,Florida,67522
+2/3/21,Florida,71525
+2/4/21,Florida,73786
+2/5/21,Florida,66357
+2/6/21,Florida,70806
+2/7/21,Florida,92557
+2/8/21,Florida,86021
+2/9/21,Florida,97594
+2/10/21,Florida,100338
+2/11/21,Florida,104854
+2/12/21,Florida,136471
+2/13/21,Florida,137942
+2/14/21,Florida,122904
+2/15/21,Florida,132271
+2/16/21,Florida,123957
+2/17/21,Florida,123862
+2/18/21,Florida,123071
+2/19/21,Florida,140344
+2/20/21,Florida,122067
+2/21/21,Florida,131314
+2/22/21,Florida,122457
+2/23/21,Florida,115287
+2/24/21,Florida,114305
+2/25/21,Florida,112282
+2/26/21,Florida,72297
+2/27/21,Florida,88065
+2/28/21,Florida,93910
+3/1/21,Florida,93905
+3/2/21,Florida,95984
+3/3/21,Florida,94949
+3/4/21,Florida,101286
+3/5/21,Florida,106303
+3/6/21,Florida,123715
+3/7/21,Florida,122290
+3/8/21,Florida,122410
+3/9/21,Florida,126219
+3/10/21,Florida,128975
+3/11/21,Florida,145410
+3/12/21,Florida,166386
+3/13/21,Florida,188491
+3/14/21,Florida,172548
+3/15/21,Florida,173075
+3/16/21,Florida,176638
+3/17/21,Florida,180340
+3/18/21,Florida,170088
+3/19/21,Florida,152970
+3/20/21,Florida,138571
+3/21/21,Florida,154086
+3/22/21,Florida,153563
+3/23/21,Florida,150404
+3/24/21,Florida,152025
+3/25/21,Florida,154331
+3/26/21,Florida,161041
+3/27/21,Florida,150122
+3/28/21,Florida,154874
+3/29/21,Florida,155060
+3/30/21,Florida,164950
+3/31/21,Florida,166657
+4/1/21,Florida,168390
+4/2/21,Florida,168103
+4/3/21,Florida,167914
+4/4/21,Florida,184977
+4/5/21,Florida,184369
+4/6/21,Florida,177187
+4/7/21,Florida,177565
+4/8/21,Florida,188503
+4/9/21,Florida,197104
+4/10/21,Florida,205115
+4/11/21,Florida,192345
+4/12/21,Florida,216603
+4/13/21,Florida,220399
+4/14/21,Florida,213749
+4/15/21,Florida,207087
+4/16/21,Florida,199990
+4/17/21,Florida,198529
+4/18/21,Florida,212170
+4/19/21,Florida,188071
+4/20/21,Florida,185440
+4/21/21,Florida,192906
+4/22/21,Florida,186583
+4/23/21,Florida,184891
+4/24/21,Florida,174740
+4/25/21,Florida,152192
+4/26/21,Florida,172678
+4/27/21,Florida,173147
+4/28/21,Florida,171188
+4/29/21,Florida,165262
+4/30/21,Florida,156839
+5/1/21,Florida,176482
+5/2/21,Florida,146980
+5/3/21,Florida,136806
+5/4/21,Florida,129632
+5/5/21,Florida,124384
+5/6/21,Florida,125626
+5/7/21,Florida,132080
+5/8/21,Florida,109127
+1/12/21,Georgia,
+1/13/21,Georgia,28185
+1/14/21,Georgia,30367
+1/15/21,Georgia,20245
+1/16/21,Georgia,20248
+1/17/21,Georgia,20250
+1/18/21,Georgia,20251
+1/19/21,Georgia,20252
+1/20/21,Georgia,28327
+1/21/21,Georgia,31794
+1/22/21,Georgia,53169
+1/23/21,Georgia,50358
+1/24/21,Georgia,47464
+1/25/21,Georgia,44570
+1/26/21,Georgia,50893
+1/27/21,Georgia,45117
+1/28/21,Georgia,44336
+1/29/21,Georgia,29544
+1/30/21,Georgia,36097
+1/31/21,Georgia,43160
+2/1/21,Georgia,46636
+2/2/21,Georgia,38782
+2/3/21,Georgia,37453
+2/4/21,Georgia,34833
+2/5/21,Georgia,34476
+2/6/21,Georgia,34588
+2/7/21,Georgia,34263
+2/8/21,Georgia,33889
+2/9/21,Georgia,34269
+2/10/21,Georgia,35545
+2/11/21,Georgia,37854
+2/12/21,Georgia,31628
+2/13/21,Georgia,32847
+2/14/21,Georgia,41671
+2/15/21,Georgia,41120
+2/16/21,Georgia,41927
+2/17/21,Georgia,35656
+2/18/21,Georgia,42314
+2/19/21,Georgia,63968
+2/20/21,Georgia,65423
+2/21/21,Georgia,59020
+2/22/21,Georgia,59729
+2/23/21,Georgia,58141
+2/24/21,Georgia,63689
+2/25/21,Georgia,56090
+2/26/21,Georgia,41854
+2/27/21,Georgia,40474
+2/28/21,Georgia,31656
+3/1/21,Georgia,28421
+3/2/21,Georgia,29231
+3/3/21,Georgia,30608
+3/4/21,Georgia,32206
+3/5/21,Georgia,34177
+3/6/21,Georgia,34002
+3/7/21,Georgia,42017
+3/8/21,Georgia,45624
+3/9/21,Georgia,45880
+3/10/21,Georgia,39354
+3/11/21,Georgia,42373
+3/12/21,Georgia,49346
+3/13/21,Georgia,53327
+3/14/21,Georgia,55396
+3/15/21,Georgia,56869
+3/16/21,Georgia,57724
+3/17/21,Georgia,57880
+3/18/21,Georgia,60380
+3/19/21,Georgia,44629
+3/20/21,Georgia,61709
+3/21/21,Georgia,64791
+3/22/21,Georgia,70124
+3/23/21,Georgia,67261
+3/24/21,Georgia,78336
+3/25/21,Georgia,75471
+3/26/21,Georgia,88592
+3/27/21,Georgia,72552
+3/28/21,Georgia,72009
+3/29/21,Georgia,69056
+3/30/21,Georgia,72172
+3/31/21,Georgia,70478
+4/1/21,Georgia,73684
+4/2/21,Georgia,74934
+4/3/21,Georgia,75653
+4/4/21,Georgia,63079
+4/5/21,Georgia,67503
+4/6/21,Georgia,70733
+4/7/21,Georgia,86768
+4/8/21,Georgia,84425
+4/9/21,Georgia,86363
+4/10/21,Georgia,73424
+4/11/21,Georgia,73427
+4/12/21,Georgia,61618
+4/13/21,Georgia,114659
+4/14/21,Georgia,85469
+4/15/21,Georgia,87986
+4/16/21,Georgia,86029
+4/17/21,Georgia,100311
+4/18/21,Georgia,113539
+4/19/21,Georgia,124972
+4/20/21,Georgia,71356
+4/21/21,Georgia,84806
+4/22/21,Georgia,83235
+4/23/21,Georgia,80955
+4/24/21,Georgia,79306
+4/25/21,Georgia,66001
+4/26/21,Georgia,66930
+4/27/21,Georgia,68153
+4/28/21,Georgia,68552
+4/29/21,Georgia,68264
+4/30/21,Georgia,68163
+5/1/21,Georgia,66414
+5/2/21,Georgia,76569
+5/3/21,Georgia,64319
+5/4/21,Georgia,63329
+5/5/21,Georgia,59384
+5/6/21,Georgia,47809
+5/7/21,Georgia,53555
+5/8/21,Georgia,50559
+1/12/21,Guam,
+1/13/21,Guam,0
+1/14/21,Guam,0
+1/15/21,Guam,0
+1/16/21,Guam,0
+1/17/21,Guam,0
+1/18/21,Guam,0
+1/19/21,Guam,0
+1/20/21,Guam,0
+1/21/21,Guam,0
+1/22/21,Guam,0
+1/23/21,Guam,0
+1/24/21,Guam,0
+1/25/21,Guam,0
+1/26/21,Guam,1931
+1/27/21,Guam,2067
+1/28/21,Guam,2247
+1/29/21,Guam,2495
+1/30/21,Guam,2666
+1/31/21,Guam,2666
+2/1/21,Guam,2808
+2/2/21,Guam,1072
+2/3/21,Guam,1115
+2/4/21,Guam,935
+2/5/21,Guam,874
+2/6/21,Guam,929
+2/7/21,Guam,1017
+2/8/21,Guam,896
+2/9/21,Guam,873
+2/10/21,Guam,911
+2/11/21,Guam,1132
+2/12/21,Guam,1221
+2/13/21,Guam,1256
+2/14/21,Guam,1293
+2/15/21,Guam,1335
+2/16/21,Guam,1226
+2/17/21,Guam,1223
+2/18/21,Guam,1240
+2/19/21,Guam,1569
+2/20/21,Guam,1520
+2/21/21,Guam,1408
+2/22/21,Guam,1503
+2/23/21,Guam,1571
+2/24/21,Guam,1501
+2/25/21,Guam,1427
+2/26/21,Guam,829
+2/27/21,Guam,837
+2/28/21,Guam,962
+3/1/21,Guam,810
+3/2/21,Guam,700
+3/3/21,Guam,560
+3/4/21,Guam,496
+3/5/21,Guam,529
+3/6/21,Guam,319
+3/7/21,Guam,182
+3/8/21,Guam,190
+3/9/21,Guam,428
+3/10/21,Guam,706
+3/11/21,Guam,847
+3/12/21,Guam,1041
+3/13/21,Guam,1272
+3/14/21,Guam,1433
+3/15/21,Guam,1431
+3/16/21,Guam,1241
+3/17/21,Guam,1153
+3/18/21,Guam,1142
+3/19/21,Guam,1178
+3/20/21,Guam,955
+3/21/21,Guam,797
+3/22/21,Guam,1052
+3/23/21,Guam,1235
+3/24/21,Guam,1312
+3/25/21,Guam,1328
+3/26/21,Guam,1351
+3/27/21,Guam,1369
+3/28/21,Guam,1582
+3/29/21,Guam,1561
+3/30/21,Guam,1326
+3/31/21,Guam,1415
+4/1/21,Guam,1320
+4/2/21,Guam,1245
+4/3/21,Guam,1426
+4/4/21,Guam,1220
+4/5/21,Guam,1000
+4/6/21,Guam,994
+4/7/21,Guam,1135
+4/8/21,Guam,1228
+4/9/21,Guam,1275
+4/10/21,Guam,1088
+4/11/21,Guam,1214
+4/12/21,Guam,1197
+4/13/21,Guam,1625
+4/14/21,Guam,1430
+4/15/21,Guam,1501
+4/16/21,Guam,1450
+4/17/21,Guam,1747
+4/18/21,Guam,1611
+4/19/21,Guam,1834
+4/20/21,Guam,1643
+4/21/21,Guam,1662
+4/22/21,Guam,1616
+4/23/21,Guam,1649
+4/24/21,Guam,1538
+4/25/21,Guam,1551
+4/26/21,Guam,1482
+4/27/21,Guam,1437
+4/28/21,Guam,1314
+4/29/21,Guam,1382
+4/30/21,Guam,1393
+5/1/21,Guam,1191
+5/2/21,Guam,1368
+5/3/21,Guam,1374
+5/4/21,Guam,1303
+5/5/21,Guam,1114
+5/6/21,Guam,790
+5/7/21,Guam,1235
+5/8/21,Guam,1409
+1/12/21,Hawaii,
+1/13/21,Hawaii,3122
+1/14/21,Hawaii,7251
+1/15/21,Hawaii,4492
+1/16/21,Hawaii,4431
+1/17/21,Hawaii,4395
+1/18/21,Hawaii,4370
+1/19/21,Hawaii,4353
+1/20/21,Hawaii,5048
+1/21/21,Hawaii,4490
+1/22/21,Hawaii,5405
+1/23/21,Hawaii,4798
+1/24/21,Hawaii,4191
+1/25/21,Hawaii,4627
+1/26/21,Hawaii,4258
+1/27/21,Hawaii,3678
+1/28/21,Hawaii,3504
+1/29/21,Hawaii,3767
+1/30/21,Hawaii,5101
+1/31/21,Hawaii,6354
+2/1/21,Hawaii,6249
+2/2/21,Hawaii,6308
+2/3/21,Hawaii,6571
+2/4/21,Hawaii,6738
+2/5/21,Hawaii,8364
+2/6/21,Hawaii,8365
+2/7/21,Hawaii,8254
+2/8/21,Hawaii,8314
+2/9/21,Hawaii,8017
+2/10/21,Hawaii,7193
+2/11/21,Hawaii,7073
+2/12/21,Hawaii,5585
+2/13/21,Hawaii,5532
+2/14/21,Hawaii,5449
+2/15/21,Hawaii,5306
+2/16/21,Hawaii,6162
+2/17/21,Hawaii,6669
+2/18/21,Hawaii,6682
+2/19/21,Hawaii,13223
+2/20/21,Hawaii,13564
+2/21/21,Hawaii,13968
+2/22/21,Hawaii,14306
+2/23/21,Hawaii,13775
+2/24/21,Hawaii,14151
+2/25/21,Hawaii,14501
+2/26/21,Hawaii,8248
+2/27/21,Hawaii,8288
+2/28/21,Hawaii,8547
+3/1/21,Hawaii,8332
+3/2/21,Hawaii,8453
+3/3/21,Hawaii,8489
+3/4/21,Hawaii,8910
+3/5/21,Hawaii,8984
+3/6/21,Hawaii,9085
+3/7/21,Hawaii,7605
+3/8/21,Hawaii,9049
+3/9/21,Hawaii,10190
+3/10/21,Hawaii,10952
+3/11/21,Hawaii,11146
+3/12/21,Hawaii,11641
+3/13/21,Hawaii,11817
+3/14/21,Hawaii,13143
+3/15/21,Hawaii,12178
+3/16/21,Hawaii,11718
+3/17/21,Hawaii,11894
+3/18/21,Hawaii,11919
+3/19/21,Hawaii,11998
+3/20/21,Hawaii,11797
+3/21/21,Hawaii,11783
+3/22/21,Hawaii,10853
+3/23/21,Hawaii,10800
+3/24/21,Hawaii,10424
+3/25/21,Hawaii,9989
+3/26/21,Hawaii,10306
+3/27/21,Hawaii,8751
+3/28/21,Hawaii,7371
+3/29/21,Hawaii,10179
+3/30/21,Hawaii,10141
+3/31/21,Hawaii,10497
+4/1/21,Hawaii,10735
+4/2/21,Hawaii,10361
+4/3/21,Hawaii,11625
+4/4/21,Hawaii,13645
+4/5/21,Hawaii,11187
+4/6/21,Hawaii,11168
+4/7/21,Hawaii,11236
+4/8/21,Hawaii,11593
+4/9/21,Hawaii,12049
+4/10/21,Hawaii,10791
+4/11/21,Hawaii,11027
+4/12/21,Hawaii,12837
+4/13/21,Hawaii,13327
+4/14/21,Hawaii,13885
+4/15/21,Hawaii,13747
+4/16/21,Hawaii,13592
+4/17/21,Hawaii,15152
+4/18/21,Hawaii,14637
+4/19/21,Hawaii,12779
+4/20/21,Hawaii,30225
+4/21/21,Hawaii,29677
+4/22/21,Hawaii,29961
+4/23/21,Hawaii,29523
+4/24/21,Hawaii,30289
+4/25/21,Hawaii,31217
+4/26/21,Hawaii,32029
+4/27/21,Hawaii,14920
+4/28/21,Hawaii,15122
+4/29/21,Hawaii,14898
+4/30/21,Hawaii,15272
+5/1/21,Hawaii,14844
+5/2/21,Hawaii,13790
+5/3/21,Hawaii,12918
+5/4/21,Hawaii,11369
+5/5/21,Hawaii,9875
+5/6/21,Hawaii,7909
+5/7/21,Hawaii,20612
+5/8/21,Hawaii,19562
+1/12/21,Idaho,
+1/13/21,Idaho,3027
+1/14/21,Idaho,3370
+1/15/21,Idaho,3597
+1/16/21,Idaho,3781
+1/17/21,Idaho,3892
+1/18/21,Idaho,3966
+1/19/21,Idaho,4019
+1/20/21,Idaho,4342
+1/21/21,Idaho,4398
+1/22/21,Idaho,4479
+1/23/21,Idaho,4524
+1/24/21,Idaho,4546
+1/25/21,Idaho,4519
+1/26/21,Idaho,4256
+1/27/21,Idaho,3961
+1/28/21,Idaho,4204
+1/29/21,Idaho,4412
+1/30/21,Idaho,4584
+1/31/21,Idaho,4822
+2/1/21,Idaho,4729
+2/2/21,Idaho,4697
+2/3/21,Idaho,5056
+2/4/21,Idaho,5585
+2/5/21,Idaho,7217
+2/6/21,Idaho,8784
+2/7/21,Idaho,9257
+2/8/21,Idaho,10173
+2/9/21,Idaho,10311
+2/10/21,Idaho,10428
+2/11/21,Idaho,10309
+2/12/21,Idaho,7810
+2/13/21,Idaho,6481
+2/14/21,Idaho,8088
+2/15/21,Idaho,8196
+2/16/21,Idaho,9257
+2/17/21,Idaho,9256
+2/18/21,Idaho,9202
+2/19/21,Idaho,12941
+2/20/21,Idaho,13126
+2/21/21,Idaho,12006
+2/22/21,Idaho,11898
+2/23/21,Idaho,10974
+2/24/21,Idaho,10909
+2/25/21,Idaho,11216
+2/26/21,Idaho,8924
+2/27/21,Idaho,9276
+2/28/21,Idaho,9433
+3/1/21,Idaho,9715
+3/2/21,Idaho,9885
+3/3/21,Idaho,10346
+3/4/21,Idaho,10173
+3/5/21,Idaho,10768
+3/6/21,Idaho,11290
+3/7/21,Idaho,11239
+3/8/21,Idaho,11146
+3/9/21,Idaho,11368
+3/10/21,Idaho,11225
+3/11/21,Idaho,11396
+3/12/21,Idaho,11431
+3/13/21,Idaho,11251
+3/14/21,Idaho,11304
+3/15/21,Idaho,11055
+3/16/21,Idaho,10980
+3/17/21,Idaho,9892
+3/18/21,Idaho,11219
+3/19/21,Idaho,11505
+3/20/21,Idaho,12307
+3/21/21,Idaho,12776
+3/22/21,Idaho,12968
+3/23/21,Idaho,12979
+3/24/21,Idaho,14230
+3/25/21,Idaho,13179
+3/26/21,Idaho,13121
+3/27/21,Idaho,12648
+3/28/21,Idaho,12634
+3/29/21,Idaho,12358
+3/30/21,Idaho,12002
+3/31/21,Idaho,12282
+4/1/21,Idaho,12565
+4/2/21,Idaho,12527
+4/3/21,Idaho,12716
+4/4/21,Idaho,12740
+4/5/21,Idaho,12816
+4/6/21,Idaho,12553
+4/7/21,Idaho,12809
+4/8/21,Idaho,12618
+4/9/21,Idaho,12949
+4/10/21,Idaho,12854
+4/11/21,Idaho,13251
+4/12/21,Idaho,13389
+4/13/21,Idaho,13740
+4/14/21,Idaho,10747
+4/15/21,Idaho,10592
+4/16/21,Idaho,10163
+4/17/21,Idaho,9894
+4/18/21,Idaho,9230
+4/19/21,Idaho,8700
+4/20/21,Idaho,8553
+4/21/21,Idaho,10991
+4/22/21,Idaho,10712
+4/23/21,Idaho,10436
+4/24/21,Idaho,10070
+4/25/21,Idaho,9815
+4/26/21,Idaho,9645
+4/27/21,Idaho,9454
+4/28/21,Idaho,9253
+4/29/21,Idaho,8970
+4/30/21,Idaho,8450
+5/1/21,Idaho,8226
+5/2/21,Idaho,7948
+5/3/21,Idaho,7517
+5/4/21,Idaho,7412
+5/5/21,Idaho,7094
+5/6/21,Idaho,7106
+5/7/21,Idaho,6937
+5/8/21,Idaho,6436
+1/12/21,Illinois,
+1/13/21,Illinois,18854
+1/14/21,Illinois,28330
+1/15/21,Illinois,30253
+1/16/21,Illinois,28158
+1/17/21,Illinois,26902
+1/18/21,Illinois,26064
+1/19/21,Illinois,25465
+1/20/21,Illinois,24867
+1/21/21,Illinois,23837
+1/22/21,Illinois,24248
+1/23/21,Illinois,27873
+1/24/21,Illinois,31080
+1/25/21,Illinois,31402
+1/26/21,Illinois,30390
+1/27/21,Illinois,32390
+1/28/21,Illinois,36114
+1/29/21,Illinois,39571
+1/30/21,Illinois,42007
+1/31/21,Illinois,44626
+2/1/21,Illinois,47373
+2/2/21,Illinois,47870
+2/3/21,Illinois,48845
+2/4/21,Illinois,50721
+2/5/21,Illinois,51860
+2/6/21,Illinois,54451
+2/7/21,Illinois,55733
+2/8/21,Illinois,57554
+2/9/21,Illinois,57815
+2/10/21,Illinois,61601
+2/11/21,Illinois,60923
+2/12/21,Illinois,61067
+2/13/21,Illinois,63229
+2/14/21,Illinois,64663
+2/15/21,Illinois,63802
+2/16/21,Illinois,68086
+2/17/21,Illinois,65188
+2/18/21,Illinois,61794
+2/19/21,Illinois,71364
+2/20/21,Illinois,69845
+2/21/21,Illinois,69331
+2/22/21,Illinois,64299
+2/23/21,Illinois,65950
+2/24/21,Illinois,66469
+2/25/21,Illinois,68866
+2/26/21,Illinois,66470
+2/27/21,Illinois,67681
+2/28/21,Illinois,69238
+3/1/21,Illinois,78880
+3/2/21,Illinois,77559
+3/3/21,Illinois,80143
+3/4/21,Illinois,84036
+3/5/21,Illinois,80655
+3/6/21,Illinois,86539
+3/7/21,Illinois,92781
+3/8/21,Illinois,95036
+3/9/21,Illinois,91731
+3/10/21,Illinois,92887
+3/11/21,Illinois,95719
+3/12/21,Illinois,102980
+3/13/21,Illinois,122334
+3/14/21,Illinois,103399
+3/15/21,Illinois,103731
+3/16/21,Illinois,111141
+3/17/21,Illinois,113886
+3/18/21,Illinois,115254
+3/19/21,Illinois,108299
+3/20/21,Illinois,89843
+3/21/21,Illinois,109046
+3/22/21,Illinois,107637
+3/23/21,Illinois,102520
+3/24/21,Illinois,101097
+3/25/21,Illinois,100477
+3/26/21,Illinois,104130
+3/27/21,Illinois,102279
+3/28/21,Illinois,103031
+3/29/21,Illinois,106066
+3/30/21,Illinois,106713
+3/31/21,Illinois,107916
+4/1/21,Illinois,112224
+4/2/21,Illinois,111421
+4/3/21,Illinois,114094
+4/4/21,Illinois,115209
+4/5/21,Illinois,114150
+4/6/21,Illinois,112036
+4/7/21,Illinois,113276
+4/8/21,Illinois,112498
+4/9/21,Illinois,117947
+4/10/21,Illinois,120591
+4/11/21,Illinois,124972
+4/12/21,Illinois,128993
+4/13/21,Illinois,142676
+4/14/21,Illinois,122331
+4/15/21,Illinois,123257
+4/16/21,Illinois,119725
+4/17/21,Illinois,120372
+4/18/21,Illinois,118068
+4/19/21,Illinois,115774
+4/20/21,Illinois,106473
+4/21/21,Illinois,124764
+4/22/21,Illinois,126092
+4/23/21,Illinois,126571
+4/24/21,Illinois,121804
+4/25/21,Illinois,117426
+4/26/21,Illinois,112395
+4/27/21,Illinois,110285
+4/28/21,Illinois,110229
+4/29/21,Illinois,104186
+4/30/21,Illinois,100500
+5/1/21,Illinois,95862
+5/2/21,Illinois,90071
+5/3/21,Illinois,84992
+5/4/21,Illinois,80149
+5/5/21,Illinois,74547
+5/6/21,Illinois,74901
+5/7/21,Illinois,73768
+5/8/21,Illinois,69359
+1/12/21,Indian Health Svc,
+1/13/21,Indian Health Svc,6075
+1/14/21,Indian Health Svc,6670
+1/15/21,Indian Health Svc,7286
+1/16/21,Indian Health Svc,6333
+1/17/21,Indian Health Svc,5761
+1/18/21,Indian Health Svc,5380
+1/19/21,Indian Health Svc,5108
+1/20/21,Indian Health Svc,4930
+1/21/21,Indian Health Svc,5082
+1/22/21,Indian Health Svc,4756
+1/23/21,Indian Health Svc,7137
+1/24/21,Indian Health Svc,8084
+1/25/21,Indian Health Svc,7838
+1/26/21,Indian Health Svc,7735
+1/27/21,Indian Health Svc,8113
+1/28/21,Indian Health Svc,8990
+1/29/21,Indian Health Svc,9654
+1/30/21,Indian Health Svc,7326
+1/31/21,Indian Health Svc,7995
+2/1/21,Indian Health Svc,7876
+2/2/21,Indian Health Svc,7986
+2/3/21,Indian Health Svc,8333
+2/4/21,Indian Health Svc,8338
+2/5/21,Indian Health Svc,7602
+2/6/21,Indian Health Svc,11586
+2/7/21,Indian Health Svc,10327
+2/8/21,Indian Health Svc,11525
+2/9/21,Indian Health Svc,11885
+2/10/21,Indian Health Svc,11803
+2/11/21,Indian Health Svc,12392
+2/12/21,Indian Health Svc,14664
+2/13/21,Indian Health Svc,12391
+2/14/21,Indian Health Svc,13796
+2/15/21,Indian Health Svc,12944
+2/16/21,Indian Health Svc,12558
+2/17/21,Indian Health Svc,12017
+2/18/21,Indian Health Svc,10883
+2/19/21,Indian Health Svc,8581
+2/20/21,Indian Health Svc,7039
+2/21/21,Indian Health Svc,6774
+2/22/21,Indian Health Svc,8561
+2/23/21,Indian Health Svc,10012
+2/24/21,Indian Health Svc,11113
+2/25/21,Indian Health Svc,12459
+2/26/21,Indian Health Svc,15633
+2/27/21,Indian Health Svc,17872
+2/28/21,Indian Health Svc,18231
+3/1/21,Indian Health Svc,18198
+3/2/21,Indian Health Svc,17477
+3/3/21,Indian Health Svc,17089
+3/4/21,Indian Health Svc,16373
+3/5/21,Indian Health Svc,14899
+3/6/21,Indian Health Svc,15045
+3/7/21,Indian Health Svc,14515
+3/8/21,Indian Health Svc,13820
+3/9/21,Indian Health Svc,13113
+3/10/21,Indian Health Svc,13705
+3/11/21,Indian Health Svc,13399
+3/12/21,Indian Health Svc,13514
+3/13/21,Indian Health Svc,12979
+3/14/21,Indian Health Svc,12964
+3/15/21,Indian Health Svc,13011
+3/16/21,Indian Health Svc,14079
+3/17/21,Indian Health Svc,13877
+3/18/21,Indian Health Svc,14557
+3/19/21,Indian Health Svc,14166
+3/20/21,Indian Health Svc,13505
+3/21/21,Indian Health Svc,14250
+3/22/21,Indian Health Svc,14280
+3/23/21,Indian Health Svc,13150
+3/24/21,Indian Health Svc,13528
+3/25/21,Indian Health Svc,12460
+3/26/21,Indian Health Svc,12743
+3/27/21,Indian Health Svc,13034
+3/28/21,Indian Health Svc,13541
+3/29/21,Indian Health Svc,12681
+3/30/21,Indian Health Svc,12622
+3/31/21,Indian Health Svc,12575
+4/1/21,Indian Health Svc,13441
+4/2/21,Indian Health Svc,13076
+4/3/21,Indian Health Svc,12789
+4/4/21,Indian Health Svc,12202
+4/5/21,Indian Health Svc,11703
+4/6/21,Indian Health Svc,11821
+4/7/21,Indian Health Svc,11213
+4/8/21,Indian Health Svc,10731
+4/9/21,Indian Health Svc,10551
+4/10/21,Indian Health Svc,10609
+4/11/21,Indian Health Svc,9333
+4/12/21,Indian Health Svc,9597
+4/13/21,Indian Health Svc,9774
+4/14/21,Indian Health Svc,9855
+4/15/21,Indian Health Svc,9889
+4/16/21,Indian Health Svc,9727
+4/17/21,Indian Health Svc,9638
+4/18/21,Indian Health Svc,9826
+4/19/21,Indian Health Svc,9501
+4/20/21,Indian Health Svc,9207
+4/21/21,Indian Health Svc,8961
+4/22/21,Indian Health Svc,8388
+4/23/21,Indian Health Svc,8340
+4/24/21,Indian Health Svc,7808
+4/25/21,Indian Health Svc,7820
+4/26/21,Indian Health Svc,7931
+4/27/21,Indian Health Svc,7882
+4/28/21,Indian Health Svc,7806
+4/29/21,Indian Health Svc,7731
+4/30/21,Indian Health Svc,6969
+5/1/21,Indian Health Svc,7137
+5/2/21,Indian Health Svc,6733
+5/3/21,Indian Health Svc,6500
+5/4/21,Indian Health Svc,6429
+5/5/21,Indian Health Svc,5584
+5/6/21,Indian Health Svc,5569
+5/7/21,Indian Health Svc,5335
+5/8/21,Indian Health Svc,4622
+1/12/21,Indiana,
+1/13/21,Indiana,19490
+1/14/21,Indiana,20822
+1/15/21,Indiana,22822
+1/16/21,Indiana,21765
+1/17/21,Indiana,21131
+1/18/21,Indiana,20708
+1/19/21,Indiana,20406
+1/20/21,Indiana,20722
+1/21/21,Indiana,21950
+1/22/21,Indiana,21974
+1/23/21,Indiana,23875
+1/24/21,Indiana,21219
+1/25/21,Indiana,25109
+1/26/21,Indiana,23448
+1/27/21,Indiana,23971
+1/28/21,Indiana,23572
+1/29/21,Indiana,23885
+1/30/21,Indiana,23022
+1/31/21,Indiana,23022
+2/1/21,Indiana,16476
+2/2/21,Indiana,16209
+2/3/21,Indiana,16224
+2/4/21,Indiana,17007
+2/5/21,Indiana,18509
+2/6/21,Indiana,20369
+2/7/21,Indiana,20369
+2/8/21,Indiana,20369
+2/9/21,Indiana,21254
+2/10/21,Indiana,22565
+2/11/21,Indiana,22977
+2/12/21,Indiana,23240
+2/13/21,Indiana,38430
+2/14/21,Indiana,44158
+2/15/21,Indiana,46507
+2/16/21,Indiana,47242
+2/17/21,Indiana,45387
+2/18/21,Indiana,41992
+2/19/21,Indiana,45789
+2/20/21,Indiana,30805
+2/21/21,Indiana,30138
+2/22/21,Indiana,31003
+2/23/21,Indiana,29588
+2/24/21,Indiana,35377
+2/25/21,Indiana,47617
+2/26/21,Indiana,44421
+2/27/21,Indiana,45361
+2/28/21,Indiana,45786
+3/1/21,Indiana,46116
+3/2/21,Indiana,46529
+3/3/21,Indiana,42373
+3/4/21,Indiana,34034
+3/5/21,Indiana,34798
+3/6/21,Indiana,35551
+3/7/21,Indiana,36332
+3/8/21,Indiana,37786
+3/9/21,Indiana,38324
+3/10/21,Indiana,39535
+3/11/21,Indiana,40220
+3/12/21,Indiana,40240
+3/13/21,Indiana,46622
+3/14/21,Indiana,40366
+3/15/21,Indiana,40095
+3/16/21,Indiana,39686
+3/17/21,Indiana,38939
+3/18/21,Indiana,39053
+3/19/21,Indiana,39161
+3/20/21,Indiana,33398
+3/21/21,Indiana,39948
+3/22/21,Indiana,39601
+3/23/21,Indiana,39527
+3/24/21,Indiana,40272
+3/25/21,Indiana,41181
+3/26/21,Indiana,42033
+3/27/21,Indiana,42027
+3/28/21,Indiana,41932
+3/29/21,Indiana,42471
+3/30/21,Indiana,42404
+3/31/21,Indiana,42611
+4/1/21,Indiana,42829
+4/2/21,Indiana,43612
+4/3/21,Indiana,45326
+4/4/21,Indiana,45201
+4/5/21,Indiana,44824
+4/6/21,Indiana,44708
+4/7/21,Indiana,44677
+4/8/21,Indiana,45393
+4/9/21,Indiana,46487
+4/10/21,Indiana,46967
+4/11/21,Indiana,49303
+4/12/21,Indiana,51942
+4/13/21,Indiana,53452
+4/14/21,Indiana,49018
+4/15/21,Indiana,50164
+4/16/21,Indiana,49494
+4/17/21,Indiana,47630
+4/18/21,Indiana,46237
+4/19/21,Indiana,43085
+4/20/21,Indiana,42223
+4/21/21,Indiana,45873
+4/22/21,Indiana,43159
+4/23/21,Indiana,41121
+4/24/21,Indiana,39941
+4/25/21,Indiana,38649
+4/26/21,Indiana,38845
+4/27/21,Indiana,39364
+4/28/21,Indiana,39636
+4/29/21,Indiana,39706
+4/30/21,Indiana,40175
+5/1/21,Indiana,41097
+5/2/21,Indiana,41710
+5/3/21,Indiana,40284
+5/4/21,Indiana,39356
+5/5/21,Indiana,38595
+5/6/21,Indiana,38753
+5/7/21,Indiana,39467
+5/8/21,Indiana,37405
+1/12/21,Iowa,
+1/13/21,Iowa,13402
+1/14/21,Iowa,6701
+1/15/21,Iowa,7431
+1/16/21,Iowa,7071
+1/17/21,Iowa,6856
+1/18/21,Iowa,6712
+1/19/21,Iowa,6609
+1/20/21,Iowa,5394
+1/21/21,Iowa,6664
+1/22/21,Iowa,7089
+1/23/21,Iowa,7591
+1/24/21,Iowa,8316
+1/25/21,Iowa,8177
+1/26/21,Iowa,7575
+1/27/21,Iowa,7764
+1/28/21,Iowa,7679
+1/29/21,Iowa,7677
+1/30/21,Iowa,8252
+1/31/21,Iowa,8717
+2/1/21,Iowa,8752
+2/2/21,Iowa,8791
+2/3/21,Iowa,8940
+2/4/21,Iowa,9536
+2/5/21,Iowa,9861
+2/6/21,Iowa,10093
+2/7/21,Iowa,10887
+2/8/21,Iowa,12555
+2/9/21,Iowa,13183
+2/10/21,Iowa,14569
+2/11/21,Iowa,15445
+2/12/21,Iowa,16457
+2/13/21,Iowa,17707
+2/14/21,Iowa,18300
+2/15/21,Iowa,17966
+2/16/21,Iowa,19130
+2/17/21,Iowa,18104
+2/18/21,Iowa,17183
+2/19/21,Iowa,20590
+2/20/21,Iowa,20700
+2/21/21,Iowa,20425
+2/22/21,Iowa,20011
+2/23/21,Iowa,18460
+2/24/21,Iowa,18033
+2/25/21,Iowa,17644
+2/26/21,Iowa,14481
+2/27/21,Iowa,15317
+2/28/21,Iowa,16224
+3/1/21,Iowa,17665
+3/2/21,Iowa,17969
+3/3/21,Iowa,18878
+3/4/21,Iowa,20308
+3/5/21,Iowa,21006
+3/6/21,Iowa,25236
+3/7/21,Iowa,27631
+3/8/21,Iowa,29315
+3/9/21,Iowa,30238
+3/10/21,Iowa,30860
+3/11/21,Iowa,32297
+3/12/21,Iowa,33312
+3/13/21,Iowa,36182
+3/14/21,Iowa,29727
+3/15/21,Iowa,29290
+3/16/21,Iowa,28947
+3/17/21,Iowa,26501
+3/18/21,Iowa,26167
+3/19/21,Iowa,27381
+3/20/21,Iowa,21607
+3/21/21,Iowa,26834
+3/22/21,Iowa,25687
+3/23/21,Iowa,25535
+3/24/21,Iowa,27253
+3/25/21,Iowa,26677
+3/26/21,Iowa,25226
+3/27/21,Iowa,25635
+3/28/21,Iowa,26632
+3/29/21,Iowa,27085
+3/30/21,Iowa,27335
+3/31/21,Iowa,27644
+4/1/21,Iowa,28372
+4/2/21,Iowa,28965
+4/3/21,Iowa,34638
+4/4/21,Iowa,28462
+4/5/21,Iowa,27477
+4/6/21,Iowa,27305
+4/7/21,Iowa,27502
+4/8/21,Iowa,28207
+4/9/21,Iowa,28819
+4/10/21,Iowa,23760
+4/11/21,Iowa,31043
+4/12/21,Iowa,31454
+4/13/21,Iowa,31747
+4/14/21,Iowa,34006
+4/15/21,Iowa,33770
+4/16/21,Iowa,32510
+4/17/21,Iowa,30873
+4/18/21,Iowa,28233
+4/19/21,Iowa,28420
+4/20/21,Iowa,27653
+4/21/21,Iowa,25664
+4/22/21,Iowa,25022
+4/23/21,Iowa,24822
+4/24/21,Iowa,24592
+4/25/21,Iowa,24866
+4/26/21,Iowa,24212
+4/27/21,Iowa,24926
+4/28/21,Iowa,24260
+4/29/21,Iowa,24902
+4/30/21,Iowa,24294
+5/1/21,Iowa,23814
+5/2/21,Iowa,22404
+5/3/21,Iowa,22601
+5/4/21,Iowa,22154
+5/5/21,Iowa,21991
+5/6/21,Iowa,20641
+5/7/21,Iowa,19911
+5/8/21,Iowa,18911
+1/12/21,Kansas,
+1/13/21,Kansas,7382
+1/14/21,Kansas,6648
+1/15/21,Kansas,6504
+1/16/21,Kansas,6169
+1/17/21,Kansas,5968
+1/18/21,Kansas,5834
+1/19/21,Kansas,5738
+1/20/21,Kansas,5294
+1/21/21,Kansas,5553
+1/22/21,Kansas,5616
+1/23/21,Kansas,5995
+1/24/21,Kansas,6163
+1/25/21,Kansas,5921
+1/26/21,Kansas,5758
+1/27/21,Kansas,6527
+1/28/21,Kansas,8552
+1/29/21,Kansas,7635
+1/30/21,Kansas,8802
+1/31/21,Kansas,10031
+2/1/21,Kansas,10311
+2/2/21,Kansas,10351
+2/3/21,Kansas,10395
+2/4/21,Kansas,8732
+2/5/21,Kansas,10441
+2/6/21,Kansas,10533
+2/7/21,Kansas,10688
+2/8/21,Kansas,10886
+2/9/21,Kansas,10625
+2/10/21,Kansas,11215
+2/11/21,Kansas,11643
+2/12/21,Kansas,12445
+2/13/21,Kansas,12520
+2/14/21,Kansas,13386
+2/15/21,Kansas,12932
+2/16/21,Kansas,13096
+2/17/21,Kansas,12215
+2/18/21,Kansas,12129
+2/19/21,Kansas,16568
+2/20/21,Kansas,17264
+2/21/21,Kansas,17050
+2/22/21,Kansas,17302
+2/23/21,Kansas,17162
+2/24/21,Kansas,17963
+2/25/21,Kansas,17801
+2/26/21,Kansas,13437
+2/27/21,Kansas,13537
+2/28/21,Kansas,14348
+3/1/21,Kansas,15173
+3/2/21,Kansas,16024
+3/3/21,Kansas,16288
+3/4/21,Kansas,16959
+3/5/21,Kansas,17467
+3/6/21,Kansas,17771
+3/7/21,Kansas,17796
+3/8/21,Kansas,17429
+3/9/21,Kansas,17443
+3/10/21,Kansas,17816
+3/11/21,Kansas,19300
+3/12/21,Kansas,23459
+3/13/21,Kansas,20392
+3/14/21,Kansas,23738
+3/15/21,Kansas,23805
+3/16/21,Kansas,23636
+3/17/21,Kansas,23092
+3/18/21,Kansas,23308
+3/19/21,Kansas,21512
+3/20/21,Kansas,26468
+3/21/21,Kansas,24624
+3/22/21,Kansas,24528
+3/23/21,Kansas,24554
+3/24/21,Kansas,26368
+3/25/21,Kansas,25870
+3/26/21,Kansas,24690
+3/27/21,Kansas,25937
+3/28/21,Kansas,25292
+3/29/21,Kansas,25811
+3/30/21,Kansas,25758
+3/31/21,Kansas,25019
+4/1/21,Kansas,24409
+4/2/21,Kansas,28099
+4/3/21,Kansas,27243
+4/4/21,Kansas,28095
+4/5/21,Kansas,27723
+4/6/21,Kansas,27327
+4/7/21,Kansas,29292
+4/8/21,Kansas,30349
+4/9/21,Kansas,27306
+4/10/21,Kansas,27466
+4/11/21,Kansas,27546
+4/12/21,Kansas,28005
+4/13/21,Kansas,28887
+4/14/21,Kansas,27509
+4/15/21,Kansas,28086
+4/16/21,Kansas,28511
+4/17/21,Kansas,27088
+4/18/21,Kansas,25211
+4/19/21,Kansas,25039
+4/20/21,Kansas,24164
+4/21/21,Kansas,23076
+4/22/21,Kansas,22796
+4/23/21,Kansas,21476
+4/24/21,Kansas,20473
+4/25/21,Kansas,20057
+4/26/21,Kansas,19241
+4/27/21,Kansas,19118
+4/28/21,Kansas,18617
+4/29/21,Kansas,16735
+4/30/21,Kansas,15271
+5/1/21,Kansas,14707
+5/2/21,Kansas,13903
+5/3/21,Kansas,13440
+5/4/21,Kansas,13416
+5/5/21,Kansas,12852
+5/6/21,Kansas,12605
+5/7/21,Kansas,14328
+5/8/21,Kansas,13314
+1/12/21,Kentucky,
+1/13/21,Kentucky,10322
+1/14/21,Kentucky,11750
+1/15/21,Kentucky,14211
+1/16/21,Kentucky,13239
+1/17/21,Kentucky,12656
+1/18/21,Kentucky,12267
+1/19/21,Kentucky,11989
+1/20/21,Kentucky,11644
+1/21/21,Kentucky,11361
+1/22/21,Kentucky,11342
+1/23/21,Kentucky,12270
+1/24/21,Kentucky,14871
+1/25/21,Kentucky,14535
+1/26/21,Kentucky,13736
+1/27/21,Kentucky,14189
+1/28/21,Kentucky,15294
+1/29/21,Kentucky,16071
+1/30/21,Kentucky,16434
+1/31/21,Kentucky,15030
+2/1/21,Kentucky,15440
+2/2/21,Kentucky,15339
+2/3/21,Kentucky,16019
+2/4/21,Kentucky,16226
+2/5/21,Kentucky,16733
+2/6/21,Kentucky,18738
+2/7/21,Kentucky,20520
+2/8/21,Kentucky,21305
+2/9/21,Kentucky,21299
+2/10/21,Kentucky,21364
+2/11/21,Kentucky,21774
+2/12/21,Kentucky,21820
+2/13/21,Kentucky,18949
+2/14/21,Kentucky,18632
+2/15/21,Kentucky,18642
+2/16/21,Kentucky,20419
+2/17/21,Kentucky,19273
+2/18/21,Kentucky,16853
+2/19/21,Kentucky,20370
+2/20/21,Kentucky,21020
+2/21/21,Kentucky,20748
+2/22/21,Kentucky,20619
+2/23/21,Kentucky,19979
+2/24/21,Kentucky,22140
+2/25/21,Kentucky,25953
+2/26/21,Kentucky,23723
+2/27/21,Kentucky,26254
+2/28/21,Kentucky,28005
+3/1/21,Kentucky,29618
+3/2/21,Kentucky,29971
+3/3/21,Kentucky,29627
+3/4/21,Kentucky,29933
+3/5/21,Kentucky,31075
+3/6/21,Kentucky,32688
+3/7/21,Kentucky,33445
+3/8/21,Kentucky,33861
+3/9/21,Kentucky,33230
+3/10/21,Kentucky,33797
+3/11/21,Kentucky,34243
+3/12/21,Kentucky,34069
+3/13/21,Kentucky,40384
+3/14/21,Kentucky,34676
+3/15/21,Kentucky,35519
+3/16/21,Kentucky,36245
+3/17/21,Kentucky,37642
+3/18/21,Kentucky,37493
+3/19/21,Kentucky,38136
+3/20/21,Kentucky,31546
+3/21/21,Kentucky,37979
+3/22/21,Kentucky,37873
+3/23/21,Kentucky,38032
+3/24/21,Kentucky,36612
+3/25/21,Kentucky,36728
+3/26/21,Kentucky,36640
+3/27/21,Kentucky,37605
+3/28/21,Kentucky,36641
+3/29/21,Kentucky,37307
+3/30/21,Kentucky,37309
+3/31/21,Kentucky,37400
+4/1/21,Kentucky,38048
+4/2/21,Kentucky,38254
+4/3/21,Kentucky,39514
+4/4/21,Kentucky,40217
+4/5/21,Kentucky,38386
+4/6/21,Kentucky,36976
+4/7/21,Kentucky,38310
+4/8/21,Kentucky,38859
+4/9/21,Kentucky,39823
+4/10/21,Kentucky,38903
+4/11/21,Kentucky,38746
+4/12/21,Kentucky,37128
+4/13/21,Kentucky,37185
+4/14/21,Kentucky,40722
+4/15/21,Kentucky,41335
+4/16/21,Kentucky,40634
+4/17/21,Kentucky,39550
+4/18/21,Kentucky,39617
+4/19/21,Kentucky,40184
+4/20/21,Kentucky,40489
+4/21/21,Kentucky,35246
+4/22/21,Kentucky,32939
+4/23/21,Kentucky,31653
+4/24/21,Kentucky,29945
+4/25/21,Kentucky,27123
+4/26/21,Kentucky,26844
+4/27/21,Kentucky,26674
+4/28/21,Kentucky,26368
+4/29/21,Kentucky,25063
+4/30/21,Kentucky,23621
+5/1/21,Kentucky,22339
+5/2/21,Kentucky,21076
+5/3/21,Kentucky,19073
+5/4/21,Kentucky,18906
+5/5/21,Kentucky,18396
+5/6/21,Kentucky,18665
+5/7/21,Kentucky,17271
+5/8/21,Kentucky,16667
+1/12/21,Long Term Care,
+1/13/21,Long Term Care,132403
+1/14/21,Long Term Care,136860
+1/15/21,Long Term Care,144396
+1/16/21,Long Term Care,130827
+1/17/21,Long Term Care,122686
+1/18/21,Long Term Care,117258
+1/19/21,Long Term Care,113381
+1/20/21,Long Term Care,117726
+1/21/21,Long Term Care,123384
+1/22/21,Long Term Care,129189
+1/23/21,Long Term Care,137512
+1/24/21,Long Term Care,143117
+1/25/21,Long Term Care,151309
+1/26/21,Long Term Care,140056
+1/27/21,Long Term Care,142369
+1/28/21,Long Term Care,144708
+1/29/21,Long Term Care,146426
+1/30/21,Long Term Care,152537
+1/31/21,Long Term Care,159529
+2/1/21,Long Term Care,147756
+2/2/21,Long Term Care,160804
+2/3/21,Long Term Care,159652
+2/4/21,Long Term Care,158270
+2/5/21,Long Term Care,157910
+2/6/21,Long Term Care,160504
+2/7/21,Long Term Care,165061
+2/8/21,Long Term Care,171101
+2/9/21,Long Term Care,166252
+2/10/21,Long Term Care,164870
+2/11/21,Long Term Care,162678
+2/12/21,Long Term Care,155450
+2/13/21,Long Term Care,148304
+2/14/21,Long Term Care,140532
+2/15/21,Long Term Care,135603
+2/16/21,Long Term Care,136188
+2/17/21,Long Term Care,127692
+2/18/21,Long Term Care,119032
+2/19/21,Long Term Care,111629
+2/20/21,Long Term Care,104560
+2/21/21,Long Term Care,99568
+2/22/21,Long Term Care,97647
+2/23/21,Long Term Care,94183
+2/24/21,Long Term Care,93424
+2/25/21,Long Term Care,90781
+2/26/21,Long Term Care,91983
+2/27/21,Long Term Care,92076
+2/28/21,Long Term Care,84670
+3/1/21,Long Term Care,82185
+3/2/21,Long Term Care,78685
+3/3/21,Long Term Care,70621
+3/4/21,Long Term Care,63521
+3/5/21,Long Term Care,53336
+3/6/21,Long Term Care,43708
+3/7/21,Long Term Care,39509
+3/8/21,Long Term Care,35898
+3/9/21,Long Term Care,34375
+3/10/21,Long Term Care,32449
+3/11/21,Long Term Care,30213
+3/12/21,Long Term Care,27628
+3/13/21,Long Term Care,27070
+3/14/21,Long Term Care,22625
+3/15/21,Long Term Care,21911
+3/16/21,Long Term Care,21411
+3/17/21,Long Term Care,20020
+3/18/21,Long Term Care,20079
+3/19/21,Long Term Care,18698
+3/20/21,Long Term Care,15604
+3/21/21,Long Term Care,16491
+3/22/21,Long Term Care,16000
+3/23/21,Long Term Care,15239
+3/24/21,Long Term Care,13995
+3/25/21,Long Term Care,10928
+3/26/21,Long Term Care,9817
+3/27/21,Long Term Care,8521
+3/28/21,Long Term Care,7573
+3/29/21,Long Term Care,6691
+3/30/21,Long Term Care,6311
+3/31/21,Long Term Care,6085
+4/1/21,Long Term Care,5815
+4/2/21,Long Term Care,5131
+4/3/21,Long Term Care,4419
+4/4/21,Long Term Care,3743
+4/5/21,Long Term Care,3620
+4/6/21,Long Term Care,4094
+4/7/21,Long Term Care,3501
+4/8/21,Long Term Care,3300
+4/9/21,Long Term Care,3435
+4/10/21,Long Term Care,3602
+4/11/21,Long Term Care,3411
+4/12/21,Long Term Care,3325
+4/13/21,Long Term Care,2670
+4/14/21,Long Term Care,2823
+4/15/21,Long Term Care,2492
+4/16/21,Long Term Care,2257
+4/17/21,Long Term Care,1882
+4/18/21,Long Term Care,1896
+4/19/21,Long Term Care,2015
+4/20/21,Long Term Care,1951
+4/21/21,Long Term Care,1636
+4/22/21,Long Term Care,1727
+4/23/21,Long Term Care,1575
+4/24/21,Long Term Care,1700
+4/25/21,Long Term Care,1745
+4/26/21,Long Term Care,1549
+4/27/21,Long Term Care,1537
+4/28/21,Long Term Care,1514
+4/29/21,Long Term Care,1610
+4/30/21,Long Term Care,1599
+5/1/21,Long Term Care,1551
+5/2/21,Long Term Care,1453
+5/3/21,Long Term Care,1560
+5/4/21,Long Term Care,1566
+5/5/21,Long Term Care,1600
+5/6/21,Long Term Care,1485
+5/7/21,Long Term Care,1578
+5/8/21,Long Term Care,1687
+1/12/21,Louisiana,
+1/13/21,Louisiana,13415
+1/14/21,Louisiana,16520
+1/15/21,Louisiana,18399
+1/16/21,Louisiana,17400
+1/17/21,Louisiana,16802
+1/18/21,Louisiana,16402
+1/19/21,Louisiana,16117
+1/20/21,Louisiana,15459
+1/21/21,Louisiana,14798
+1/22/21,Louisiana,14241
+1/23/21,Louisiana,14664
+1/24/21,Louisiana,15330
+1/25/21,Louisiana,14323
+1/26/21,Louisiana,12869
+1/27/21,Louisiana,13478
+1/28/21,Louisiana,13785
+1/29/21,Louisiana,14380
+1/30/21,Louisiana,15126
+1/31/21,Louisiana,15661
+2/1/21,Louisiana,17390
+2/2/21,Louisiana,18620
+2/3/21,Louisiana,18602
+2/4/21,Louisiana,19155
+2/5/21,Louisiana,19727
+2/6/21,Louisiana,21403
+2/7/21,Louisiana,22318
+2/8/21,Louisiana,21552
+2/9/21,Louisiana,20531
+2/10/21,Louisiana,21437
+2/11/21,Louisiana,18434
+2/12/21,Louisiana,23529
+2/13/21,Louisiana,23556
+2/14/21,Louisiana,24173
+2/15/21,Louisiana,23289
+2/16/21,Louisiana,23607
+2/17/21,Louisiana,21794
+2/18/21,Louisiana,22356
+2/19/21,Louisiana,22636
+2/20/21,Louisiana,20294
+2/21/21,Louisiana,17909
+2/22/21,Louisiana,18023
+2/23/21,Louisiana,17480
+2/24/21,Louisiana,18460
+2/25/21,Louisiana,21130
+2/26/21,Louisiana,16953
+2/27/21,Louisiana,20243
+2/28/21,Louisiana,23208
+3/1/21,Louisiana,24764
+3/2/21,Louisiana,25309
+3/3/21,Louisiana,26690
+3/4/21,Louisiana,27950
+3/5/21,Louisiana,28701
+3/6/21,Louisiana,22933
+3/7/21,Louisiana,17710
+3/8/21,Louisiana,28759
+3/9/21,Louisiana,28836
+3/10/21,Louisiana,28808
+3/11/21,Louisiana,28794
+3/12/21,Louisiana,28694
+3/13/21,Louisiana,40621
+3/14/21,Louisiana,40490
+3/15/21,Louisiana,29510
+3/16/21,Louisiana,29733
+3/17/21,Louisiana,29967
+3/18/21,Louisiana,25576
+3/19/21,Louisiana,29624
+3/20/21,Louisiana,23597
+3/21/21,Louisiana,28581
+3/22/21,Louisiana,29168
+3/23/21,Louisiana,28757
+3/24/21,Louisiana,29433
+3/25/21,Louisiana,33834
+3/26/21,Louisiana,29376
+3/27/21,Louisiana,29803
+3/28/21,Louisiana,31107
+3/29/21,Louisiana,31786
+3/30/21,Louisiana,32066
+3/31/21,Louisiana,34078
+4/1/21,Louisiana,35244
+4/2/21,Louisiana,36388
+4/3/21,Louisiana,36549
+4/4/21,Louisiana,33542
+4/5/21,Louisiana,31479
+4/6/21,Louisiana,30590
+4/7/21,Louisiana,28199
+4/8/21,Louisiana,28021
+4/9/21,Louisiana,27386
+4/10/21,Louisiana,26510
+4/11/21,Louisiana,28595
+4/12/21,Louisiana,29019
+4/13/21,Louisiana,30162
+4/14/21,Louisiana,27787
+4/15/21,Louisiana,27849
+4/16/21,Louisiana,26932
+4/17/21,Louisiana,25857
+4/18/21,Louisiana,24644
+4/19/21,Louisiana,24627
+4/20/21,Louisiana,24506
+4/21/21,Louisiana,26397
+4/22/21,Louisiana,24751
+4/23/21,Louisiana,24264
+4/24/21,Louisiana,23367
+4/25/21,Louisiana,22680
+4/26/21,Louisiana,21929
+4/27/21,Louisiana,21382
+4/28/21,Louisiana,20877
+4/29/21,Louisiana,20091
+4/30/21,Louisiana,15872
+5/1/21,Louisiana,12252
+5/2/21,Louisiana,8806
+5/3/21,Louisiana,10011
+5/4/21,Louisiana,9515
+5/5/21,Louisiana,6764
+5/6/21,Louisiana,14905
+5/7/21,Louisiana,17335
+5/8/21,Louisiana,17282
+1/12/21,Maine,
+1/13/21,Maine,2303
+1/14/21,Maine,3092
+1/15/21,Maine,2061
+1/16/21,Maine,2349
+1/17/21,Maine,2522
+1/18/21,Maine,2637
+1/19/21,Maine,2719
+1/20/21,Maine,2703
+1/21/21,Maine,2768
+1/22/21,Maine,3609
+1/23/21,Maine,4095
+1/24/21,Maine,4609
+1/25/21,Maine,4758
+1/26/21,Maine,4421
+1/27/21,Maine,4717
+1/28/21,Maine,4956
+1/29/21,Maine,5259
+1/30/21,Maine,5581
+1/31/21,Maine,5791
+2/1/21,Maine,5960
+2/2/21,Maine,5837
+2/3/21,Maine,5229
+2/4/21,Maine,5464
+2/5/21,Maine,5147
+2/6/21,Maine,5223
+2/7/21,Maine,5442
+2/8/21,Maine,4666
+2/9/21,Maine,5961
+2/10/21,Maine,6780
+2/11/21,Maine,5687
+2/12/21,Maine,4859
+2/13/21,Maine,3517
+2/14/21,Maine,2114
+2/15/21,Maine,5320
+2/16/21,Maine,7232
+2/17/21,Maine,7028
+2/18/21,Maine,7028
+2/19/21,Maine,10702
+2/20/21,Maine,10725
+2/21/21,Maine,10778
+2/22/21,Maine,11632
+2/23/21,Maine,8756
+2/24/21,Maine,8988
+2/25/21,Maine,8993
+2/26/21,Maine,5331
+2/27/21,Maine,9148
+2/28/21,Maine,9187
+3/1/21,Maine,5270
+3/2/21,Maine,4985
+3/3/21,Maine,4155
+3/4/21,Maine,4162
+3/5/21,Maine,10949
+3/6/21,Maine,9450
+3/7/21,Maine,9505
+3/8/21,Maine,13348
+3/9/21,Maine,13985
+3/10/21,Maine,15285
+3/11/21,Maine,15438
+3/12/21,Maine,13488
+3/13/21,Maine,11286
+3/14/21,Maine,15838
+3/15/21,Maine,13689
+3/16/21,Maine,13699
+3/17/21,Maine,12417
+3/18/21,Maine,12341
+3/19/21,Maine,11563
+3/20/21,Maine,11472
+3/21/21,Maine,6851
+3/22/21,Maine,10368
+3/23/21,Maine,10226
+3/24/21,Maine,10211
+3/25/21,Maine,13083
+3/26/21,Maine,11758
+3/27/21,Maine,14113
+3/28/21,Maine,16442
+3/29/21,Maine,12583
+3/30/21,Maine,12614
+3/31/21,Maine,13975
+4/1/21,Maine,13497
+4/2/21,Maine,13729
+4/3/21,Maine,14308
+4/4/21,Maine,14964
+4/5/21,Maine,15975
+4/6/21,Maine,15745
+4/7/21,Maine,15971
+4/8/21,Maine,16297
+4/9/21,Maine,17187
+4/10/21,Maine,18041
+4/11/21,Maine,15183
+4/12/21,Maine,12968
+4/13/21,Maine,26116
+4/14/21,Maine,19712
+4/15/21,Maine,19688
+4/16/21,Maine,18739
+4/17/21,Maine,17643
+4/18/21,Maine,17612
+4/19/21,Maine,21349
+4/20/21,Maine,8663
+4/21/21,Maine,14431
+4/22/21,Maine,14476
+4/23/21,Maine,14384
+4/24/21,Maine,14176
+4/25/21,Maine,14210
+4/26/21,Maine,10409
+4/27/21,Maine,13704
+4/28/21,Maine,14602
+4/29/21,Maine,13900
+4/30/21,Maine,13611
+5/1/21,Maine,13536
+5/2/21,Maine,13367
+5/3/21,Maine,13216
+5/4/21,Maine,12453
+5/5/21,Maine,11940
+5/6/21,Maine,11678
+5/7/21,Maine,11445
+5/8/21,Maine,10865
+1/12/21,Marshall Islands,
+1/13/21,Marshall Islands,10
+1/14/21,Marshall Islands,5
+1/15/21,Marshall Islands,6
+1/16/21,Marshall Islands,44
+1/17/21,Marshall Islands,66
+1/18/21,Marshall Islands,81
+1/19/21,Marshall Islands,92
+1/20/21,Marshall Islands,124
+1/21/21,Marshall Islands,192
+1/22/21,Marshall Islands,254
+1/23/21,Marshall Islands,294
+1/24/21,Marshall Islands,304
+1/25/21,Marshall Islands,282
+1/26/21,Marshall Islands,286
+1/27/21,Marshall Islands,289
+1/28/21,Marshall Islands,252
+1/29/21,Marshall Islands,213
+1/30/21,Marshall Islands,160
+1/31/21,Marshall Islands,147
+2/1/21,Marshall Islands,147
+2/2/21,Marshall Islands,139
+2/3/21,Marshall Islands,103
+2/4/21,Marshall Islands,96
+2/5/21,Marshall Islands,89
+2/6/21,Marshall Islands,107
+2/7/21,Marshall Islands,111
+2/8/21,Marshall Islands,111
+2/9/21,Marshall Islands,127
+2/10/21,Marshall Islands,143
+2/11/21,Marshall Islands,144
+2/12/21,Marshall Islands,151
+2/13/21,Marshall Islands,141
+2/14/21,Marshall Islands,147
+2/15/21,Marshall Islands,184
+2/16/21,Marshall Islands,187
+2/17/21,Marshall Islands,171
+2/18/21,Marshall Islands,190
+2/19/21,Marshall Islands,258
+2/20/21,Marshall Islands,286
+2/21/21,Marshall Islands,397
+2/22/21,Marshall Islands,390
+2/23/21,Marshall Islands,430
+2/24/21,Marshall Islands,505
+2/25/21,Marshall Islands,514
+2/26/21,Marshall Islands,475
+2/27/21,Marshall Islands,430
+2/28/21,Marshall Islands,354
+3/1/21,Marshall Islands,324
+3/2/21,Marshall Islands,270
+3/3/21,Marshall Islands,194
+3/4/21,Marshall Islands,250
+3/5/21,Marshall Islands,264
+3/6/21,Marshall Islands,364
+3/7/21,Marshall Islands,364
+3/8/21,Marshall Islands,364
+3/9/21,Marshall Islands,453
+3/10/21,Marshall Islands,519
+3/11/21,Marshall Islands,486
+3/12/21,Marshall Islands,472
+3/13/21,Marshall Islands,388
+3/14/21,Marshall Islands,324
+3/15/21,Marshall Islands,324
+3/16/21,Marshall Islands,225
+3/17/21,Marshall Islands,304
+3/18/21,Marshall Islands,228
+3/19/21,Marshall Islands,174
+3/20/21,Marshall Islands,290
+3/21/21,Marshall Islands,409
+3/22/21,Marshall Islands,409
+3/23/21,Marshall Islands,396
+3/24/21,Marshall Islands,282
+3/25/21,Marshall Islands,319
+3/26/21,Marshall Islands,394
+3/27/21,Marshall Islands,262
+3/28/21,Marshall Islands,163
+3/29/21,Marshall Islands,210
+3/30/21,Marshall Islands,210
+3/31/21,Marshall Islands,204
+4/1/21,Marshall Islands,192
+4/2/21,Marshall Islands,150
+4/3/21,Marshall Islands,208
+4/4/21,Marshall Islands,253
+4/5/21,Marshall Islands,206
+4/6/21,Marshall Islands,230
+4/7/21,Marshall Islands,231
+4/8/21,Marshall Islands,260
+4/9/21,Marshall Islands,226
+4/10/21,Marshall Islands,239
+4/11/21,Marshall Islands,196
+4/12/21,Marshall Islands,207
+4/13/21,Marshall Islands,213
+4/14/21,Marshall Islands,188
+4/15/21,Marshall Islands,151
+4/16/21,Marshall Islands,188
+4/17/21,Marshall Islands,178
+4/18/21,Marshall Islands,156
+4/19/21,Marshall Islands,206
+4/20/21,Marshall Islands,175
+4/21/21,Marshall Islands,223
+4/22/21,Marshall Islands,261
+4/23/21,Marshall Islands,224
+4/24/21,Marshall Islands,164
+4/25/21,Marshall Islands,164
+4/26/21,Marshall Islands,152
+4/27/21,Marshall Islands,160
+4/28/21,Marshall Islands,152
+4/29/21,Marshall Islands,161
+4/30/21,Marshall Islands,161
+5/1/21,Marshall Islands,207
+5/2/21,Marshall Islands,207
+5/3/21,Marshall Islands,191
+5/4/21,Marshall Islands,194
+5/5/21,Marshall Islands,155
+5/6/21,Marshall Islands,91
+5/7/21,Marshall Islands,91
+5/8/21,Marshall Islands,216
+1/12/21,Maryland,
+1/13/21,Maryland,31825
+1/14/21,Maryland,15912
+1/15/21,Maryland,16158
+1/16/21,Maryland,15424
+1/17/21,Maryland,14984
+1/18/21,Maryland,14690
+1/19/21,Maryland,14481
+1/20/21,Maryland,11441
+1/21/21,Maryland,13407
+1/22/21,Maryland,13258
+1/23/21,Maryland,14212
+1/24/21,Maryland,16770
+1/25/21,Maryland,16637
+1/26/21,Maryland,16846
+1/27/21,Maryland,18730
+1/28/21,Maryland,20043
+1/29/21,Maryland,22150
+1/30/21,Maryland,24053
+1/31/21,Maryland,23844
+2/1/21,Maryland,25352
+2/2/21,Maryland,24503
+2/3/21,Maryland,22451
+2/4/21,Maryland,21945
+2/5/21,Maryland,21726
+2/6/21,Maryland,21580
+2/7/21,Maryland,22796
+2/8/21,Maryland,22143
+2/9/21,Maryland,22275
+2/10/21,Maryland,24964
+2/11/21,Maryland,25665
+2/12/21,Maryland,26306
+2/13/21,Maryland,26485
+2/14/21,Maryland,26567
+2/15/21,Maryland,26595
+2/16/21,Maryland,27854
+2/17/21,Maryland,26002
+2/18/21,Maryland,26441
+2/19/21,Maryland,33219
+2/20/21,Maryland,34605
+2/21/21,Maryland,33824
+2/22/21,Maryland,34580
+2/23/21,Maryland,34934
+2/24/21,Maryland,36687
+2/25/21,Maryland,38368
+2/26/21,Maryland,32617
+2/27/21,Maryland,32315
+2/28/21,Maryland,34031
+3/1/21,Maryland,36088
+3/2/21,Maryland,36841
+3/3/21,Maryland,42073
+3/4/21,Maryland,42628
+3/5/21,Maryland,44105
+3/6/21,Maryland,46529
+3/7/21,Maryland,45662
+3/8/21,Maryland,43948
+3/9/21,Maryland,46381
+3/10/21,Maryland,43798
+3/11/21,Maryland,44967
+3/12/21,Maryland,44438
+3/13/21,Maryland,45112
+3/14/21,Maryland,45196
+3/15/21,Maryland,45630
+3/16/21,Maryland,45485
+3/17/21,Maryland,45985
+3/18/21,Maryland,45523
+3/19/21,Maryland,47354
+3/20/21,Maryland,38914
+3/21/21,Maryland,46570
+3/22/21,Maryland,46984
+3/23/21,Maryland,46254
+3/24/21,Maryland,46676
+3/25/21,Maryland,47694
+3/26/21,Maryland,48810
+3/27/21,Maryland,57140
+3/28/21,Maryland,51461
+3/29/21,Maryland,51636
+3/30/21,Maryland,54230
+3/31/21,Maryland,57109
+4/1/21,Maryland,59620
+4/2/21,Maryland,61245
+4/3/21,Maryland,64164
+4/4/21,Maryland,64978
+4/5/21,Maryland,63500
+4/6/21,Maryland,62512
+4/7/21,Maryland,63078
+4/8/21,Maryland,64008
+4/9/21,Maryland,64756
+4/10/21,Maryland,67178
+4/11/21,Maryland,68419
+4/12/21,Maryland,65254
+4/13/21,Maryland,73516
+4/14/21,Maryland,73430
+4/15/21,Maryland,72461
+4/16/21,Maryland,72426
+4/17/21,Maryland,58719
+4/18/21,Maryland,68730
+4/19/21,Maryland,75378
+4/20/21,Maryland,68155
+4/21/21,Maryland,67699
+4/22/21,Maryland,68341
+4/23/21,Maryland,67508
+4/24/21,Maryland,75904
+4/25/21,Maryland,66090
+4/26/21,Maryland,63417
+4/27/21,Maryland,64236
+4/28/21,Maryland,61963
+4/29/21,Maryland,59704
+4/30/21,Maryland,58712
+5/1/21,Maryland,57619
+5/2/21,Maryland,51586
+5/3/21,Maryland,51094
+5/4/21,Maryland,47218
+5/5/21,Maryland,47513
+5/6/21,Maryland,38949
+5/7/21,Maryland,43038
+5/8/21,Maryland,44486
+1/12/21,Massachusetts,
+1/13/21,Massachusetts,13361
+1/14/21,Massachusetts,14697
+1/15/21,Massachusetts,17698
+1/16/21,Massachusetts,17130
+1/17/21,Massachusetts,16789
+1/18/21,Massachusetts,16562
+1/19/21,Massachusetts,16399
+1/20/21,Massachusetts,16150
+1/21/21,Massachusetts,17092
+1/22/21,Massachusetts,16207
+1/23/21,Massachusetts,17195
+1/24/21,Massachusetts,18826
+1/25/21,Massachusetts,18595
+1/26/21,Massachusetts,17689
+1/27/21,Massachusetts,19112
+1/28/21,Massachusetts,19602
+1/29/21,Massachusetts,21411
+1/30/21,Massachusetts,22016
+1/31/21,Massachusetts,22768
+2/1/21,Massachusetts,25047
+2/2/21,Massachusetts,26111
+2/3/21,Massachusetts,23029
+2/4/21,Massachusetts,23228
+2/5/21,Massachusetts,23510
+2/6/21,Massachusetts,25720
+2/7/21,Massachusetts,28727
+2/8/21,Massachusetts,28204
+2/9/21,Massachusetts,29538
+2/10/21,Massachusetts,36924
+2/11/21,Massachusetts,38812
+2/12/21,Massachusetts,39662
+2/13/21,Massachusetts,40349
+2/14/21,Massachusetts,43617
+2/15/21,Massachusetts,44264
+2/16/21,Massachusetts,44945
+2/17/21,Massachusetts,40922
+2/18/21,Massachusetts,41458
+2/19/21,Massachusetts,50527
+2/20/21,Massachusetts,52268
+2/21/21,Massachusetts,48704
+2/22/21,Massachusetts,50396
+2/23/21,Massachusetts,50460
+2/24/21,Massachusetts,51877
+2/25/21,Massachusetts,51691
+2/26/21,Massachusetts,44151
+2/27/21,Massachusetts,44129
+2/28/21,Massachusetts,44201
+3/1/21,Massachusetts,47791
+3/2/21,Massachusetts,48248
+3/3/21,Massachusetts,50086
+3/4/21,Massachusetts,52052
+3/5/21,Massachusetts,54321
+3/6/21,Massachusetts,56816
+3/7/21,Massachusetts,58920
+3/8/21,Massachusetts,56508
+3/9/21,Massachusetts,55479
+3/10/21,Massachusetts,61397
+3/11/21,Massachusetts,62186
+3/12/21,Massachusetts,62530
+3/13/21,Massachusetts,68528
+3/14/21,Massachusetts,59056
+3/15/21,Massachusetts,60226
+3/16/21,Massachusetts,58190
+3/17/21,Massachusetts,56612
+3/18/21,Massachusetts,56746
+3/19/21,Massachusetts,56360
+3/20/21,Massachusetts,49639
+3/21/21,Massachusetts,58725
+3/22/21,Massachusetts,58904
+3/23/21,Massachusetts,61802
+3/24/21,Massachusetts,60174
+3/25/21,Massachusetts,60358
+3/26/21,Massachusetts,61836
+3/27/21,Massachusetts,62289
+3/28/21,Massachusetts,64490
+3/29/21,Massachusetts,66048
+3/30/21,Massachusetts,67100
+3/31/21,Massachusetts,68521
+4/1/21,Massachusetts,69877
+4/2/21,Massachusetts,71512
+4/3/21,Massachusetts,74776
+4/4/21,Massachusetts,77726
+4/5/21,Massachusetts,78065
+4/6/21,Massachusetts,77708
+4/7/21,Massachusetts,78692
+4/8/21,Massachusetts,80986
+4/9/21,Massachusetts,82068
+4/10/21,Massachusetts,84659
+4/11/21,Massachusetts,85921
+4/12/21,Massachusetts,87133
+4/13/21,Massachusetts,89766
+4/14/21,Massachusetts,91198
+4/15/21,Massachusetts,91857
+4/16/21,Massachusetts,92294
+4/17/21,Massachusetts,88428
+4/18/21,Massachusetts,85819
+4/19/21,Massachusetts,84368
+4/20/21,Massachusetts,83607
+4/21/21,Massachusetts,81813
+4/22/21,Massachusetts,81782
+4/23/21,Massachusetts,81626
+4/24/21,Massachusetts,84555
+4/25/21,Massachusetts,86610
+4/26/21,Massachusetts,87604
+4/27/21,Massachusetts,88471
+4/28/21,Massachusetts,89657
+4/29/21,Massachusetts,88516
+4/30/21,Massachusetts,87365
+5/1/21,Massachusetts,86322
+5/2/21,Massachusetts,84036
+5/3/21,Massachusetts,78246
+5/4/21,Massachusetts,75177
+5/5/21,Massachusetts,70761
+5/6/21,Massachusetts,71627
+5/7/21,Massachusetts,73708
+5/8/21,Massachusetts,72713
+1/12/21,Michigan,
+1/13/21,Michigan,63834
+1/14/21,Michigan,49775
+1/15/21,Michigan,45499
+1/16/21,Michigan,41587
+1/17/21,Michigan,39240
+1/18/21,Michigan,37676
+1/19/21,Michigan,36558
+1/20/21,Michigan,31013
+1/21/21,Michigan,31658
+1/22/21,Michigan,33039
+1/23/21,Michigan,36947
+1/24/21,Michigan,38769
+1/25/21,Michigan,39100
+1/26/21,Michigan,36954
+1/27/21,Michigan,37632
+1/28/21,Michigan,37939
+1/29/21,Michigan,38744
+1/30/21,Michigan,38537
+1/31/21,Michigan,40251
+2/1/21,Michigan,39730
+2/2/21,Michigan,39030
+2/3/21,Michigan,38605
+2/4/21,Michigan,37770
+2/5/21,Michigan,38216
+2/6/21,Michigan,38680
+2/7/21,Michigan,39273
+2/8/21,Michigan,39547
+2/9/21,Michigan,42057
+2/10/21,Michigan,45237
+2/11/21,Michigan,47606
+2/12/21,Michigan,47350
+2/13/21,Michigan,49239
+2/14/21,Michigan,50433
+2/15/21,Michigan,49802
+2/16/21,Michigan,49589
+2/17/21,Michigan,45997
+2/18/21,Michigan,43820
+2/19/21,Michigan,52608
+2/20/21,Michigan,49455
+2/21/21,Michigan,46954
+2/22/21,Michigan,48744
+2/23/21,Michigan,46929
+2/24/21,Michigan,51942
+2/25/21,Michigan,54903
+2/26/21,Michigan,47438
+2/27/21,Michigan,51665
+2/28/21,Michigan,54967
+3/1/21,Michigan,55008
+3/2/21,Michigan,57718
+3/3/21,Michigan,54200
+3/4/21,Michigan,53383
+3/5/21,Michigan,55595
+3/6/21,Michigan,55951
+3/7/21,Michigan,56925
+3/8/21,Michigan,58331
+3/9/21,Michigan,56822
+3/10/21,Michigan,58203
+3/11/21,Michigan,60359
+3/12/21,Michigan,61128
+3/13/21,Michigan,62789
+3/14/21,Michigan,64172
+3/15/21,Michigan,57787
+3/16/21,Michigan,65473
+3/17/21,Michigan,68484
+3/18/21,Michigan,71003
+3/19/21,Michigan,71630
+3/20/21,Michigan,73197
+3/21/21,Michigan,73612
+3/22/21,Michigan,82529
+3/23/21,Michigan,75891
+3/24/21,Michigan,75776
+3/25/21,Michigan,74059
+3/26/21,Michigan,74640
+3/27/21,Michigan,75024
+3/28/21,Michigan,76201
+3/29/21,Michigan,78313
+3/30/21,Michigan,78888
+3/31/21,Michigan,82664
+4/1/21,Michigan,85619
+4/2/21,Michigan,87492
+4/3/21,Michigan,90770
+4/4/21,Michigan,90495
+4/5/21,Michigan,88014
+4/6/21,Michigan,86929
+4/7/21,Michigan,84793
+4/8/21,Michigan,85497
+4/9/21,Michigan,86292
+4/10/21,Michigan,89020
+4/11/21,Michigan,92540
+4/12/21,Michigan,96169
+4/13/21,Michigan,97529
+4/14/21,Michigan,97804
+4/15/21,Michigan,99033
+4/16/21,Michigan,99708
+4/17/21,Michigan,96128
+4/18/21,Michigan,94626
+4/19/21,Michigan,88150
+4/20/21,Michigan,87691
+4/21/21,Michigan,90328
+4/22/21,Michigan,90723
+4/23/21,Michigan,90407
+4/24/21,Michigan,88098
+4/25/21,Michigan,87341
+4/26/21,Michigan,90071
+4/27/21,Michigan,89352
+4/28/21,Michigan,88267
+4/29/21,Michigan,83294
+4/30/21,Michigan,80578
+5/1/21,Michigan,79093
+5/2/21,Michigan,73108
+5/3/21,Michigan,68588
+5/4/21,Michigan,66577
+5/5/21,Michigan,60828
+5/6/21,Michigan,60841
+5/7/21,Michigan,59760
+5/8/21,Michigan,56554
+1/12/21,Minnesota,
+1/13/21,Minnesota,3115
+1/14/21,Minnesota,8722
+1/15/21,Minnesota,12004
+1/16/21,Minnesota,12333
+1/17/21,Minnesota,12531
+1/18/21,Minnesota,12662
+1/19/21,Minnesota,12756
+1/20/21,Minnesota,12456
+1/21/21,Minnesota,11390
+1/22/21,Minnesota,11426
+1/23/21,Minnesota,13389
+1/24/21,Minnesota,13755
+1/25/21,Minnesota,15521
+1/26/21,Minnesota,15558
+1/27/21,Minnesota,17550
+1/28/21,Minnesota,20603
+1/29/21,Minnesota,23159
+1/30/21,Minnesota,25793
+1/31/21,Minnesota,28223
+2/1/21,Minnesota,28495
+2/2/21,Minnesota,27466
+2/3/21,Minnesota,25329
+2/4/21,Minnesota,32973
+2/5/21,Minnesota,27729
+2/6/21,Minnesota,31074
+2/7/21,Minnesota,30049
+2/8/21,Minnesota,28423
+2/9/21,Minnesota,27513
+2/10/21,Minnesota,27513
+2/11/21,Minnesota,17116
+2/12/21,Minnesota,21793
+2/13/21,Minnesota,18302
+2/14/21,Minnesota,20236
+2/15/21,Minnesota,20646
+2/16/21,Minnesota,23369
+2/17/21,Minnesota,25699
+2/18/21,Minnesota,29002
+2/19/21,Minnesota,37825
+2/20/21,Minnesota,37976
+2/21/21,Minnesota,38014
+2/22/21,Minnesota,35500
+2/23/21,Minnesota,37341
+2/24/21,Minnesota,37703
+2/25/21,Minnesota,37361
+2/26/21,Minnesota,29997
+2/27/21,Minnesota,32139
+2/28/21,Minnesota,36735
+3/1/21,Minnesota,41617
+3/2/21,Minnesota,39088
+3/3/21,Minnesota,41205
+3/4/21,Minnesota,42011
+3/5/21,Minnesota,42969
+3/6/21,Minnesota,43673
+3/7/21,Minnesota,41066
+3/8/21,Minnesota,42289
+3/9/21,Minnesota,43302
+3/10/21,Minnesota,42062
+3/11/21,Minnesota,44388
+3/12/21,Minnesota,44590
+3/13/21,Minnesota,53259
+3/14/21,Minnesota,45642
+3/15/21,Minnesota,44532
+3/16/21,Minnesota,42737
+3/17/21,Minnesota,44097
+3/18/21,Minnesota,42264
+3/19/21,Minnesota,43687
+3/20/21,Minnesota,34762
+3/21/21,Minnesota,43641
+3/22/21,Minnesota,43360
+3/23/21,Minnesota,43932
+3/24/21,Minnesota,42856
+3/25/21,Minnesota,42595
+3/26/21,Minnesota,42645
+3/27/21,Minnesota,44832
+3/28/21,Minnesota,46535
+3/29/21,Minnesota,46411
+3/30/21,Minnesota,49773
+3/31/21,Minnesota,53041
+4/1/21,Minnesota,54721
+4/2/21,Minnesota,55455
+4/3/21,Minnesota,56854
+4/4/21,Minnesota,56660
+4/5/21,Minnesota,58255
+4/6/21,Minnesota,54663
+4/7/21,Minnesota,54755
+4/8/21,Minnesota,55207
+4/9/21,Minnesota,56253
+4/10/21,Minnesota,50903
+4/11/21,Minnesota,53346
+4/12/21,Minnesota,60376
+4/13/21,Minnesota,62388
+4/14/21,Minnesota,58309
+4/15/21,Minnesota,58667
+4/16/21,Minnesota,57295
+4/17/21,Minnesota,57136
+4/18/21,Minnesota,54971
+4/19/21,Minnesota,41673
+4/20/21,Minnesota,46945
+4/21/21,Minnesota,49326
+4/22/21,Minnesota,48876
+4/23/21,Minnesota,49086
+4/24/21,Minnesota,46622
+4/25/21,Minnesota,47389
+4/26/21,Minnesota,57431
+4/27/21,Minnesota,50693
+4/28/21,Minnesota,51377
+4/29/21,Minnesota,50512
+4/30/21,Minnesota,49786
+5/1/21,Minnesota,54677
+5/2/21,Minnesota,50971
+5/3/21,Minnesota,43982
+5/4/21,Minnesota,43493
+5/5/21,Minnesota,41007
+5/6/21,Minnesota,40487
+5/7/21,Minnesota,31900
+5/8/21,Minnesota,36285
+1/12/21,Mississippi,
+1/13/21,Mississippi,6745
+1/14/21,Mississippi,8652
+1/15/21,Mississippi,9928
+1/16/21,Mississippi,9274
+1/17/21,Mississippi,8881
+1/18/21,Mississippi,8620
+1/19/21,Mississippi,8433
+1/20/21,Mississippi,8757
+1/21/21,Mississippi,9263
+1/22/21,Mississippi,9457
+1/23/21,Mississippi,8412
+1/24/21,Mississippi,11241
+1/25/21,Mississippi,10671
+1/26/21,Mississippi,9777
+1/27/21,Mississippi,9665
+1/28/21,Mississippi,9222
+1/29/21,Mississippi,8889
+1/30/21,Mississippi,10280
+1/31/21,Mississippi,8395
+2/1/21,Mississippi,8271
+2/2/21,Mississippi,8302
+2/3/21,Mississippi,8667
+2/4/21,Mississippi,7094
+2/5/21,Mississippi,9019
+2/6/21,Mississippi,11140
+2/7/21,Mississippi,12090
+2/8/21,Mississippi,12653
+2/9/21,Mississippi,12708
+2/10/21,Mississippi,13515
+2/11/21,Mississippi,16356
+2/12/21,Mississippi,15778
+2/13/21,Mississippi,15323
+2/14/21,Mississippi,15167
+2/15/21,Mississippi,15050
+2/16/21,Mississippi,15612
+2/17/21,Mississippi,13265
+2/18/21,Mississippi,10423
+2/19/21,Mississippi,12567
+2/20/21,Mississippi,10529
+2/21/21,Mississippi,9131
+2/22/21,Mississippi,9468
+2/23/21,Mississippi,9613
+2/24/21,Mississippi,12443
+2/25/21,Mississippi,12517
+2/26/21,Mississippi,13282
+2/27/21,Mississippi,16004
+2/28/21,Mississippi,18305
+3/1/21,Mississippi,19723
+3/2/21,Mississippi,20112
+3/3/21,Mississippi,20044
+3/4/21,Mississippi,22804
+3/5/21,Mississippi,20469
+3/6/21,Mississippi,20482
+3/7/21,Mississippi,20778
+3/8/21,Mississippi,19879
+3/9/21,Mississippi,19173
+3/10/21,Mississippi,19362
+3/11/21,Mississippi,19713
+3/12/21,Mississippi,16281
+3/13/21,Mississippi,22880
+3/14/21,Mississippi,18898
+3/15/21,Mississippi,18256
+3/16/21,Mississippi,17927
+3/17/21,Mississippi,17158
+3/18/21,Mississippi,16757
+3/19/21,Mississippi,17736
+3/20/21,Mississippi,10734
+3/21/21,Mississippi,14216
+3/22/21,Mississippi,14032
+3/23/21,Mississippi,14060
+3/24/21,Mississippi,14827
+3/25/21,Mississippi,15518
+3/26/21,Mississippi,14491
+3/27/21,Mississippi,17208
+3/28/21,Mississippi,13933
+3/29/21,Mississippi,18848
+3/30/21,Mississippi,18950
+3/31/21,Mississippi,19043
+4/1/21,Mississippi,15803
+4/2/21,Mississippi,19897
+4/3/21,Mississippi,17668
+4/4/21,Mississippi,20992
+4/5/21,Mississippi,15258
+4/6/21,Mississippi,15905
+4/7/21,Mississippi,15517
+4/8/21,Mississippi,18507
+4/9/21,Mississippi,17589
+4/10/21,Mississippi,17343
+4/11/21,Mississippi,17485
+4/12/21,Mississippi,17504
+4/13/21,Mississippi,17776
+4/14/21,Mississippi,17941
+4/15/21,Mississippi,17296
+4/16/21,Mississippi,16736
+4/17/21,Mississippi,13221
+4/18/21,Mississippi,14800
+4/19/21,Mississippi,14825
+4/20/21,Mississippi,14352
+4/21/21,Mississippi,13461
+4/22/21,Mississippi,13229
+4/23/21,Mississippi,12744
+4/24/21,Mississippi,12735
+4/25/21,Mississippi,7661
+4/26/21,Mississippi,7624
+4/27/21,Mississippi,11712
+4/28/21,Mississippi,11151
+4/29/21,Mississippi,8864
+4/30/21,Mississippi,10333
+5/1/21,Mississippi,10306
+5/2/21,Mississippi,10186
+5/3/21,Mississippi,10184
+5/4/21,Mississippi,8750
+5/5/21,Mississippi,8625
+5/6/21,Mississippi,8686
+5/7/21,Mississippi,7830
+5/8/21,Mississippi,9131
+1/12/21,Missouri,
+1/13/21,Missouri,0
+1/14/21,Missouri,6765
+1/15/21,Missouri,9554
+1/16/21,Missouri,10029
+1/17/21,Missouri,10313
+1/18/21,Missouri,10503
+1/19/21,Missouri,10639
+1/20/21,Missouri,11813
+1/21/21,Missouri,12867
+1/22/21,Missouri,13607
+1/23/21,Missouri,12832
+1/24/21,Missouri,14912
+1/25/21,Missouri,15842
+1/26/21,Missouri,14860
+1/27/21,Missouri,16239
+1/28/21,Missouri,16739
+1/29/21,Missouri,17535
+1/30/21,Missouri,16674
+1/31/21,Missouri,18092
+2/1/21,Missouri,18072
+2/2/21,Missouri,18019
+2/3/21,Missouri,17709
+2/4/21,Missouri,17522
+2/5/21,Missouri,18250
+2/6/21,Missouri,25073
+2/7/21,Missouri,25824
+2/8/21,Missouri,25891
+2/9/21,Missouri,25780
+2/10/21,Missouri,26792
+2/11/21,Missouri,27112
+2/12/21,Missouri,25899
+2/13/21,Missouri,31850
+2/14/21,Missouri,31839
+2/15/21,Missouri,31435
+2/16/21,Missouri,33154
+2/17/21,Missouri,31764
+2/18/21,Missouri,31498
+2/19/21,Missouri,42395
+2/20/21,Missouri,33710
+2/21/21,Missouri,33671
+2/22/21,Missouri,34346
+2/23/21,Missouri,33139
+2/24/21,Missouri,35032
+2/25/21,Missouri,36045
+2/26/21,Missouri,28457
+2/27/21,Missouri,33602
+2/28/21,Missouri,27955
+3/1/21,Missouri,38731
+3/2/21,Missouri,39022
+3/3/21,Missouri,39796
+3/4/21,Missouri,41522
+3/5/21,Missouri,41541
+3/6/21,Missouri,39153
+3/7/21,Missouri,45816
+3/8/21,Missouri,36977
+3/9/21,Missouri,37576
+3/10/21,Missouri,38508
+3/11/21,Missouri,38020
+3/12/21,Missouri,36508
+3/13/21,Missouri,45011
+3/14/21,Missouri,38159
+3/15/21,Missouri,37603
+3/16/21,Missouri,37252
+3/17/21,Missouri,36343
+3/18/21,Missouri,37813
+3/19/21,Missouri,39155
+3/20/21,Missouri,31512
+3/21/21,Missouri,39499
+3/22/21,Missouri,39638
+3/23/21,Missouri,40707
+3/24/21,Missouri,41418
+3/25/21,Missouri,41006
+3/26/21,Missouri,40510
+3/27/21,Missouri,40532
+3/28/21,Missouri,40997
+3/29/21,Missouri,41481
+3/30/21,Missouri,41237
+3/31/21,Missouri,42163
+4/1/21,Missouri,42952
+4/2/21,Missouri,50120
+4/3/21,Missouri,53466
+4/4/21,Missouri,53787
+4/5/21,Missouri,55514
+4/6/21,Missouri,54224
+4/7/21,Missouri,54210
+4/8/21,Missouri,56275
+4/9/21,Missouri,50338
+4/10/21,Missouri,48229
+4/11/21,Missouri,48522
+4/12/21,Missouri,48940
+4/13/21,Missouri,54468
+4/14/21,Missouri,51276
+4/15/21,Missouri,48540
+4/16/21,Missouri,49432
+4/17/21,Missouri,50479
+4/18/21,Missouri,51700
+4/19/21,Missouri,48563
+4/20/21,Missouri,43253
+4/21/21,Missouri,46508
+4/22/21,Missouri,46992
+4/23/21,Missouri,46239
+4/24/21,Missouri,41858
+4/25/21,Missouri,42341
+4/26/21,Missouri,46130
+4/27/21,Missouri,47071
+4/28/21,Missouri,45424
+4/29/21,Missouri,43943
+4/30/21,Missouri,42153
+5/1/21,Missouri,41423
+5/2/21,Missouri,36721
+5/3/21,Missouri,32377
+5/4/21,Missouri,31640
+5/5/21,Missouri,30275
+5/6/21,Missouri,29289
+5/7/21,Missouri,28024
+5/8/21,Missouri,27947
+1/12/21,Montana,
+1/13/21,Montana,1980
+1/14/21,Montana,2268
+1/15/21,Montana,2427
+1/16/21,Montana,2228
+1/17/21,Montana,2109
+1/18/21,Montana,2030
+1/19/21,Montana,1973
+1/20/21,Montana,1880
+1/21/21,Montana,1967
+1/22/21,Montana,2426
+1/23/21,Montana,3078
+1/24/21,Montana,3423
+1/25/21,Montana,3299
+1/26/21,Montana,3122
+1/27/21,Montana,3421
+1/28/21,Montana,3689
+1/29/21,Montana,3749
+1/30/21,Montana,3818
+1/31/21,Montana,3991
+2/1/21,Montana,4113
+2/2/21,Montana,4225
+2/3/21,Montana,4172
+2/4/21,Montana,4276
+2/5/21,Montana,4278
+2/6/21,Montana,4516
+2/7/21,Montana,4749
+2/8/21,Montana,4733
+2/9/21,Montana,4686
+2/10/21,Montana,4853
+2/11/21,Montana,4742
+2/12/21,Montana,5023
+2/13/21,Montana,5211
+2/14/21,Montana,5578
+2/15/21,Montana,5709
+2/16/21,Montana,5934
+2/17/21,Montana,5748
+2/18/21,Montana,5819
+2/19/21,Montana,9076
+2/20/21,Montana,8790
+2/21/21,Montana,8613
+2/22/21,Montana,8797
+2/23/21,Montana,8764
+2/24/21,Montana,8864
+2/25/21,Montana,8889
+2/26/21,Montana,5681
+2/27/21,Montana,6026
+2/28/21,Montana,6332
+3/1/21,Montana,6266
+3/2/21,Montana,6164
+3/3/21,Montana,6421
+3/4/21,Montana,6959
+3/5/21,Montana,7329
+3/6/21,Montana,7575
+3/7/21,Montana,7940
+3/8/21,Montana,8125
+3/9/21,Montana,8205
+3/10/21,Montana,8294
+3/11/21,Montana,8348
+3/12/21,Montana,8310
+3/13/21,Montana,8448
+3/14/21,Montana,8395
+3/15/21,Montana,8186
+3/16/21,Montana,8303
+3/17/21,Montana,8177
+3/18/21,Montana,7830
+3/19/21,Montana,7498
+3/20/21,Montana,7153
+3/21/21,Montana,6751
+3/22/21,Montana,6974
+3/23/21,Montana,6568
+3/24/21,Montana,6877
+3/25/21,Montana,7086
+3/26/21,Montana,7445
+3/27/21,Montana,7701
+3/28/21,Montana,8000
+3/29/21,Montana,7816
+3/30/21,Montana,8175
+3/31/21,Montana,9699
+4/1/21,Montana,10059
+4/2/21,Montana,10018
+4/3/21,Montana,10014
+4/4/21,Montana,10105
+4/5/21,Montana,10156
+4/6/21,Montana,10053
+4/7/21,Montana,8784
+4/8/21,Montana,8886
+4/9/21,Montana,9257
+4/10/21,Montana,9320
+4/11/21,Montana,9340
+4/12/21,Montana,9375
+4/13/21,Montana,9518
+4/14/21,Montana,8415
+4/15/21,Montana,8425
+4/16/21,Montana,8049
+4/17/21,Montana,7869
+4/18/21,Montana,6164
+4/19/21,Montana,7419
+4/20/21,Montana,7275
+4/21/21,Montana,7811
+4/22/21,Montana,7177
+4/23/21,Montana,6852
+4/24/21,Montana,6654
+4/25/21,Montana,7712
+4/26/21,Montana,6240
+4/27/21,Montana,6164
+4/28/21,Montana,6229
+4/29/21,Montana,6386
+4/30/21,Montana,6261
+5/1/21,Montana,6067
+5/2/21,Montana,5793
+5/3/21,Montana,5625
+5/4/21,Montana,5566
+5/5/21,Montana,5197
+5/6/21,Montana,4747
+5/7/21,Montana,4376
+5/8/21,Montana,3874
+1/12/21,Nebraska,
+1/13/21,Nebraska,5260
+1/14/21,Nebraska,5240
+1/15/21,Nebraska,5585
+1/16/21,Nebraska,4970
+1/17/21,Nebraska,4601
+1/18/21,Nebraska,4354
+1/19/21,Nebraska,4179
+1/20/21,Nebraska,3798
+1/21/21,Nebraska,3846
+1/22/21,Nebraska,3894
+1/23/21,Nebraska,4250
+1/24/21,Nebraska,5058
+1/25/21,Nebraska,4781
+1/26/21,Nebraska,4492
+1/27/21,Nebraska,4756
+1/28/21,Nebraska,5454
+1/29/21,Nebraska,5703
+1/30/21,Nebraska,6172
+1/31/21,Nebraska,6409
+2/1/21,Nebraska,6698
+2/2/21,Nebraska,6754
+2/3/21,Nebraska,6959
+2/4/21,Nebraska,6444
+2/5/21,Nebraska,6538
+2/6/21,Nebraska,7304
+2/7/21,Nebraska,7595
+2/8/21,Nebraska,7592
+2/9/21,Nebraska,7555
+2/10/21,Nebraska,7540
+2/11/21,Nebraska,7536
+2/12/21,Nebraska,7967
+2/13/21,Nebraska,7935
+2/14/21,Nebraska,7833
+2/15/21,Nebraska,7729
+2/16/21,Nebraska,7904
+2/17/21,Nebraska,7691
+2/18/21,Nebraska,8168
+2/19/21,Nebraska,12550
+2/20/21,Nebraska,12376
+2/21/21,Nebraska,12421
+2/22/21,Nebraska,13212
+2/23/21,Nebraska,14590
+2/24/21,Nebraska,15856
+2/25/21,Nebraska,16766
+2/26/21,Nebraska,13508
+2/27/21,Nebraska,11913
+2/28/21,Nebraska,14541
+3/1/21,Nebraska,13667
+3/2/21,Nebraska,13162
+3/3/21,Nebraska,13030
+3/4/21,Nebraska,13011
+3/5/21,Nebraska,13272
+3/6/21,Nebraska,13165
+3/7/21,Nebraska,11660
+3/8/21,Nebraska,13871
+3/9/21,Nebraska,15629
+3/10/21,Nebraska,15752
+3/11/21,Nebraska,16610
+3/12/21,Nebraska,16882
+3/13/21,Nebraska,18600
+3/14/21,Nebraska,15765
+3/15/21,Nebraska,15917
+3/16/21,Nebraska,14698
+3/17/21,Nebraska,14961
+3/18/21,Nebraska,14589
+3/19/21,Nebraska,14499
+3/20/21,Nebraska,12782
+3/21/21,Nebraska,15585
+3/22/21,Nebraska,16083
+3/23/21,Nebraska,15352
+3/24/21,Nebraska,15175
+3/25/21,Nebraska,14875
+3/26/21,Nebraska,14638
+3/27/21,Nebraska,14615
+3/28/21,Nebraska,15183
+3/29/21,Nebraska,14663
+3/30/21,Nebraska,16008
+3/31/21,Nebraska,17502
+4/1/21,Nebraska,18646
+4/2/21,Nebraska,19190
+4/3/21,Nebraska,19164
+4/4/21,Nebraska,18286
+4/5/21,Nebraska,17756
+4/6/21,Nebraska,17050
+4/7/21,Nebraska,16376
+4/8/21,Nebraska,15705
+4/9/21,Nebraska,16564
+4/10/21,Nebraska,16555
+4/11/21,Nebraska,17269
+4/12/21,Nebraska,17297
+4/13/21,Nebraska,21399
+4/14/21,Nebraska,21850
+4/15/21,Nebraska,21711
+4/16/21,Nebraska,21205
+4/17/21,Nebraska,21177
+4/18/21,Nebraska,19616
+4/19/21,Nebraska,19255
+4/20/21,Nebraska,15904
+4/21/21,Nebraska,14141
+4/22/21,Nebraska,14602
+4/23/21,Nebraska,11920
+4/24/21,Nebraska,12737
+4/25/21,Nebraska,11152
+4/26/21,Nebraska,14357
+4/27/21,Nebraska,11933
+4/28/21,Nebraska,13147
+4/29/21,Nebraska,11726
+4/30/21,Nebraska,10487
+5/1/21,Nebraska,9691
+5/2/21,Nebraska,13339
+5/3/21,Nebraska,11791
+5/4/21,Nebraska,11790
+5/5/21,Nebraska,10154
+5/6/21,Nebraska,10229
+5/7/21,Nebraska,12017
+5/8/21,Nebraska,14145
+1/12/21,Nevada,
+1/13/21,Nevada,0
+1/14/21,Nevada,7596
+1/15/21,Nevada,7340
+1/16/21,Nevada,6703
+1/17/21,Nevada,6321
+1/18/21,Nevada,6066
+1/19/21,Nevada,5884
+1/20/21,Nevada,6497
+1/21/21,Nevada,5592
+1/22/21,Nevada,6112
+1/23/21,Nevada,6938
+1/24/21,Nevada,8421
+1/25/21,Nevada,8832
+1/26/21,Nevada,8789
+1/27/21,Nevada,9605
+1/28/21,Nevada,11279
+1/29/21,Nevada,11961
+1/30/21,Nevada,12452
+1/31/21,Nevada,12696
+2/1/21,Nevada,12698
+2/2/21,Nevada,12687
+2/3/21,Nevada,15015
+2/4/21,Nevada,13808
+2/5/21,Nevada,13448
+2/6/21,Nevada,14009
+2/7/21,Nevada,13285
+2/8/21,Nevada,13990
+2/9/21,Nevada,14051
+2/10/21,Nevada,12409
+2/11/21,Nevada,12497
+2/12/21,Nevada,12836
+2/13/21,Nevada,12686
+2/14/21,Nevada,13479
+2/15/21,Nevada,12990
+2/16/21,Nevada,13610
+2/17/21,Nevada,12383
+2/18/21,Nevada,12558
+2/19/21,Nevada,18309
+2/20/21,Nevada,20669
+2/21/21,Nevada,20198
+2/22/21,Nevada,21272
+2/23/21,Nevada,21660
+2/24/21,Nevada,21973
+2/25/21,Nevada,22173
+2/26/21,Nevada,17176
+2/27/21,Nevada,15691
+2/28/21,Nevada,16555
+3/1/21,Nevada,18372
+3/2/21,Nevada,17823
+3/3/21,Nevada,18162
+3/4/21,Nevada,18282
+3/5/21,Nevada,18675
+3/6/21,Nevada,19208
+3/7/21,Nevada,20510
+3/8/21,Nevada,20110
+3/9/21,Nevada,20255
+3/10/21,Nevada,20670
+3/11/21,Nevada,22049
+3/12/21,Nevada,22496
+3/13/21,Nevada,22668
+3/14/21,Nevada,22869
+3/15/21,Nevada,22559
+3/16/21,Nevada,22167
+3/17/21,Nevada,22243
+3/18/21,Nevada,22540
+3/19/21,Nevada,22258
+3/20/21,Nevada,22502
+3/21/21,Nevada,22287
+3/22/21,Nevada,21591
+3/23/21,Nevada,21471
+3/24/21,Nevada,21650
+3/25/21,Nevada,21747
+3/26/21,Nevada,22487
+3/27/21,Nevada,22591
+3/28/21,Nevada,22522
+3/29/21,Nevada,23297
+3/30/21,Nevada,23510
+3/31/21,Nevada,23233
+4/1/21,Nevada,22811
+4/2/21,Nevada,22167
+4/3/21,Nevada,22494
+4/4/21,Nevada,22730
+4/5/21,Nevada,22059
+4/6/21,Nevada,21739
+4/7/21,Nevada,22374
+4/8/21,Nevada,23236
+4/9/21,Nevada,25293
+4/10/21,Nevada,26248
+4/11/21,Nevada,27264
+4/12/21,Nevada,28800
+4/13/21,Nevada,29280
+4/14/21,Nevada,29211
+4/15/21,Nevada,29721
+4/16/21,Nevada,28270
+4/17/21,Nevada,26822
+4/18/21,Nevada,25933
+4/19/21,Nevada,24618
+4/20/21,Nevada,24463
+4/21/21,Nevada,24262
+4/22/21,Nevada,22379
+4/23/21,Nevada,21167
+4/24/21,Nevada,19977
+4/25/21,Nevada,18864
+4/26/21,Nevada,18422
+4/27/21,Nevada,18343
+4/28/21,Nevada,17950
+4/29/21,Nevada,17921
+4/30/21,Nevada,18408
+5/1/21,Nevada,18913
+5/2/21,Nevada,18690
+5/3/21,Nevada,17639
+5/4/21,Nevada,17040
+5/5/21,Nevada,16788
+5/6/21,Nevada,17085
+5/7/21,Nevada,16619
+5/8/21,Nevada,15871
+1/12/21,New Hampshire,
+1/13/21,New Hampshire,4605
+1/14/21,New Hampshire,4049
+1/15/21,New Hampshire,3968
+1/16/21,New Hampshire,3541
+1/17/21,New Hampshire,3285
+1/18/21,New Hampshire,3114
+1/19/21,New Hampshire,2992
+1/20/21,New Hampshire,2886
+1/21/21,New Hampshire,3133
+1/22/21,New Hampshire,3297
+1/23/21,New Hampshire,3577
+1/24/21,New Hampshire,3757
+1/25/21,New Hampshire,3618
+1/26/21,New Hampshire,3635
+1/27/21,New Hampshire,3952
+1/28/21,New Hampshire,4259
+1/29/21,New Hampshire,4545
+1/30/21,New Hampshire,4846
+1/31/21,New Hampshire,4996
+2/1/21,New Hampshire,5127
+2/2/21,New Hampshire,5542
+2/3/21,New Hampshire,5027
+2/4/21,New Hampshire,4948
+2/5/21,New Hampshire,5105
+2/6/21,New Hampshire,5348
+2/7/21,New Hampshire,5368
+2/8/21,New Hampshire,5155
+2/9/21,New Hampshire,4704
+2/10/21,New Hampshire,5417
+2/11/21,New Hampshire,5574
+2/12/21,New Hampshire,5424
+2/13/21,New Hampshire,5642
+2/14/21,New Hampshire,6093
+2/15/21,New Hampshire,6570
+2/16/21,New Hampshire,6846
+2/17/21,New Hampshire,6018
+2/18/21,New Hampshire,6109
+2/19/21,New Hampshire,7182
+2/20/21,New Hampshire,7089
+2/21/21,New Hampshire,7467
+2/22/21,New Hampshire,7900
+2/23/21,New Hampshire,8231
+2/24/21,New Hampshire,9131
+2/25/21,New Hampshire,9198
+2/26/21,New Hampshire,8355
+2/27/21,New Hampshire,8639
+2/28/21,New Hampshire,8685
+3/1/21,New Hampshire,8130
+3/2/21,New Hampshire,8039
+3/3/21,New Hampshire,8178
+3/4/21,New Hampshire,8368
+3/5/21,New Hampshire,8375
+3/6/21,New Hampshire,8620
+3/7/21,New Hampshire,8643
+3/8/21,New Hampshire,8668
+3/9/21,New Hampshire,9056
+3/10/21,New Hampshire,9412
+3/11/21,New Hampshire,9833
+3/12/21,New Hampshire,10400
+3/13/21,New Hampshire,11285
+3/14/21,New Hampshire,11228
+3/15/21,New Hampshire,11392
+3/16/21,New Hampshire,11078
+3/17/21,New Hampshire,10485
+3/18/21,New Hampshire,10138
+3/19/21,New Hampshire,9945
+3/20/21,New Hampshire,9188
+3/21/21,New Hampshire,9893
+3/22/21,New Hampshire,10336
+3/23/21,New Hampshire,10574
+3/24/21,New Hampshire,10876
+3/25/21,New Hampshire,10935
+3/26/21,New Hampshire,10529
+3/27/21,New Hampshire,10228
+3/28/21,New Hampshire,9785
+3/29/21,New Hampshire,9284
+3/30/21,New Hampshire,8804
+3/31/21,New Hampshire,8585
+4/1/21,New Hampshire,20212
+4/2/21,New Hampshire,20919
+4/3/21,New Hampshire,25560
+4/4/21,New Hampshire,25119
+4/5/21,New Hampshire,27730
+4/6/21,New Hampshire,27685
+4/7/21,New Hampshire,30627
+4/8/21,New Hampshire,21544
+4/9/21,New Hampshire,24005
+4/10/21,New Hampshire,22532
+4/11/21,New Hampshire,26249
+4/12/21,New Hampshire,26006
+4/13/21,New Hampshire,27959
+4/14/21,New Hampshire,25522
+4/15/21,New Hampshire,27383
+4/16/21,New Hampshire,26648
+4/17/21,New Hampshire,23707
+4/18/21,New Hampshire,20183
+4/19/21,New Hampshire,17672
+4/20/21,New Hampshire,15984
+4/21/21,New Hampshire,15137
+4/22/21,New Hampshire,9598
+4/23/21,New Hampshire,6404
+4/24/21,New Hampshire,5025
+4/25/21,New Hampshire,3993
+4/26/21,New Hampshire,3924
+4/27/21,New Hampshire,3401
+4/28/21,New Hampshire,2984
+4/29/21,New Hampshire,2997
+4/30/21,New Hampshire,3088
+5/1/21,New Hampshire,3390
+5/2/21,New Hampshire,3429
+5/3/21,New Hampshire,3424
+5/4/21,New Hampshire,3556
+5/5/21,New Hampshire,3534
+5/6/21,New Hampshire,3044
+5/7/21,New Hampshire,-47
+5/8/21,New Hampshire,-386
+1/12/21,New Jersey,
+1/13/21,New Jersey,41937
+1/14/21,New Jersey,21188
+1/15/21,New Jersey,32008
+1/16/21,New Jersey,29199
+1/17/21,New Jersey,27513
+1/18/21,New Jersey,26389
+1/19/21,New Jersey,25586
+1/20/21,New Jersey,24177
+1/21/21,New Jersey,24114
+1/22/21,New Jersey,21042
+1/23/21,New Jersey,23293
+1/24/21,New Jersey,25288
+1/25/21,New Jersey,26252
+1/26/21,New Jersey,25084
+1/27/21,New Jersey,25663
+1/28/21,New Jersey,30856
+1/29/21,New Jersey,37580
+1/30/21,New Jersey,38294
+1/31/21,New Jersey,37116
+2/1/21,New Jersey,35307
+2/2/21,New Jersey,37264
+2/3/21,New Jersey,34266
+2/4/21,New Jersey,29072
+2/5/21,New Jersey,22473
+2/6/21,New Jersey,38906
+2/7/21,New Jersey,39909
+2/8/21,New Jersey,40656
+2/9/21,New Jersey,37172
+2/10/21,New Jersey,42430
+2/11/21,New Jersey,49279
+2/12/21,New Jersey,52572
+2/13/21,New Jersey,38345
+2/14/21,New Jersey,39217
+2/15/21,New Jersey,41921
+2/16/21,New Jersey,47221
+2/17/21,New Jersey,47383
+2/18/21,New Jersey,49357
+2/19/21,New Jersey,50244
+2/20/21,New Jersey,48414
+2/21/21,New Jersey,48529
+2/22/21,New Jersey,46183
+2/23/21,New Jersey,47389
+2/24/21,New Jersey,46169
+2/25/21,New Jersey,46315
+2/26/21,New Jersey,48381
+2/27/21,New Jersey,51418
+2/28/21,New Jersey,53805
+3/1/21,New Jersey,54984
+3/2/21,New Jersey,61182
+3/3/21,New Jersey,63752
+3/4/21,New Jersey,65554
+3/5/21,New Jersey,65709
+3/6/21,New Jersey,67167
+3/7/21,New Jersey,66956
+3/8/21,New Jersey,67911
+3/9/21,New Jersey,64587
+3/10/21,New Jersey,66441
+3/11/21,New Jersey,72811
+3/12/21,New Jersey,73389
+3/13/21,New Jersey,76089
+3/14/21,New Jersey,75859
+3/15/21,New Jersey,77298
+3/16/21,New Jersey,76470
+3/17/21,New Jersey,77142
+3/18/21,New Jersey,73136
+3/19/21,New Jersey,73471
+3/20/21,New Jersey,71940
+3/21/21,New Jersey,73759
+3/22/21,New Jersey,74649
+3/23/21,New Jersey,65951
+3/24/21,New Jersey,75257
+3/25/21,New Jersey,74644
+3/26/21,New Jersey,75391
+3/27/21,New Jersey,77007
+3/28/21,New Jersey,80176
+3/29/21,New Jersey,81223
+3/30/21,New Jersey,93733
+3/31/21,New Jersey,85613
+4/1/21,New Jersey,93515
+4/2/21,New Jersey,99489
+4/3/21,New Jersey,101852
+4/4/21,New Jersey,101790
+4/5/21,New Jersey,100784
+4/6/21,New Jersey,98186
+4/7/21,New Jersey,101858
+4/8/21,New Jersey,100405
+4/9/21,New Jersey,99451
+4/10/21,New Jersey,104111
+4/11/21,New Jersey,105008
+4/12/21,New Jersey,109117
+4/13/21,New Jersey,112820
+4/14/21,New Jersey,111542
+4/15/21,New Jersey,107353
+4/16/21,New Jersey,103522
+4/17/21,New Jersey,99004
+4/18/21,New Jersey,96985
+4/19/21,New Jersey,95324
+4/20/21,New Jersey,92264
+4/21/21,New Jersey,90764
+4/22/21,New Jersey,89644
+4/23/21,New Jersey,92048
+4/24/21,New Jersey,91149
+4/25/21,New Jersey,91296
+4/26/21,New Jersey,90531
+4/27/21,New Jersey,90993
+4/28/21,New Jersey,89025
+4/29/21,New Jersey,87334
+4/30/21,New Jersey,83118
+5/1/21,New Jersey,79205
+5/2/21,New Jersey,74521
+5/3/21,New Jersey,70645
+5/4/21,New Jersey,66588
+5/5/21,New Jersey,66766
+5/6/21,New Jersey,65780
+5/7/21,New Jersey,67363
+5/8/21,New Jersey,68193
+1/12/21,New Mexico,
+1/13/21,New Mexico,3620
+1/14/21,New Mexico,5590
+1/15/21,New Mexico,7023
+1/16/21,New Mexico,7695
+1/17/21,New Mexico,8098
+1/18/21,New Mexico,8367
+1/19/21,New Mexico,8559
+1/20/21,New Mexico,8778
+1/21/21,New Mexico,9007
+1/22/21,New Mexico,8963
+1/23/21,New Mexico,10812
+1/24/21,New Mexico,11630
+1/25/21,New Mexico,10890
+1/26/21,New Mexico,10284
+1/27/21,New Mexico,10539
+1/28/21,New Mexico,10318
+1/29/21,New Mexico,10959
+1/30/21,New Mexico,9089
+1/31/21,New Mexico,9144
+2/1/21,New Mexico,10079
+2/2/21,New Mexico,9640
+2/3/21,New Mexico,9679
+2/4/21,New Mexico,9982
+2/5/21,New Mexico,9741
+2/6/21,New Mexico,10613
+2/7/21,New Mexico,9664
+2/8/21,New Mexico,9652
+2/9/21,New Mexico,9778
+2/10/21,New Mexico,9971
+2/11/21,New Mexico,10757
+2/12/21,New Mexico,11694
+2/13/21,New Mexico,11043
+2/14/21,New Mexico,12584
+2/15/21,New Mexico,12691
+2/16/21,New Mexico,13899
+2/17/21,New Mexico,13250
+2/18/21,New Mexico,12310
+2/19/21,New Mexico,24825
+2/20/21,New Mexico,25572
+2/21/21,New Mexico,25153
+2/22/21,New Mexico,24730
+2/23/21,New Mexico,24162
+2/24/21,New Mexico,24470
+2/25/21,New Mexico,25544
+2/26/21,New Mexico,13505
+2/27/21,New Mexico,14167
+2/28/21,New Mexico,15655
+3/1/21,New Mexico,15269
+3/2/21,New Mexico,15570
+3/3/21,New Mexico,16752
+3/4/21,New Mexico,15580
+3/5/21,New Mexico,15550
+3/6/21,New Mexico,17575
+3/7/21,New Mexico,15499
+3/8/21,New Mexico,17467
+3/9/21,New Mexico,16790
+3/10/21,New Mexico,14958
+3/11/21,New Mexico,17684
+3/12/21,New Mexico,18517
+3/13/21,New Mexico,16020
+3/14/21,New Mexico,18306
+3/15/21,New Mexico,16955
+3/16/21,New Mexico,18783
+3/17/21,New Mexico,20439
+3/18/21,New Mexico,19480
+3/19/21,New Mexico,19374
+3/20/21,New Mexico,20988
+3/21/21,New Mexico,20427
+3/22/21,New Mexico,20804
+3/23/21,New Mexico,18730
+3/24/21,New Mexico,18272
+3/25/21,New Mexico,18733
+3/26/21,New Mexico,18695
+3/27/21,New Mexico,18721
+3/28/21,New Mexico,19953
+3/29/21,New Mexico,20160
+3/30/21,New Mexico,20098
+3/31/21,New Mexico,20913
+4/1/21,New Mexico,20838
+4/2/21,New Mexico,21478
+4/3/21,New Mexico,21555
+4/4/21,New Mexico,20087
+4/5/21,New Mexico,19244
+4/6/21,New Mexico,19252
+4/7/21,New Mexico,18027
+4/8/21,New Mexico,19457
+4/9/21,New Mexico,19420
+4/10/21,New Mexico,19400
+4/11/21,New Mexico,19636
+4/12/21,New Mexico,20028
+4/13/21,New Mexico,20018
+4/14/21,New Mexico,20885
+4/15/21,New Mexico,19137
+4/16/21,New Mexico,18530
+4/17/21,New Mexico,18345
+4/18/21,New Mexico,17765
+4/19/21,New Mexico,17992
+4/20/21,New Mexico,18091
+4/21/21,New Mexico,17950
+4/22/21,New Mexico,17657
+4/23/21,New Mexico,17411
+4/24/21,New Mexico,16542
+4/25/21,New Mexico,16097
+4/26/21,New Mexico,15180
+4/27/21,New Mexico,15084
+4/28/21,New Mexico,14827
+4/29/21,New Mexico,14214
+4/30/21,New Mexico,13462
+5/1/21,New Mexico,13575
+5/2/21,New Mexico,13615
+5/3/21,New Mexico,14851
+5/4/21,New Mexico,14660
+5/5/21,New Mexico,14418
+5/6/21,New Mexico,14690
+5/7/21,New Mexico,14371
+5/8/21,New Mexico,14012
+1/12/21,New York State,
+1/13/21,New York State,52941
+1/14/21,New York State,54522
+1/15/21,New York State,59311
+1/16/21,New York State,59662
+1/17/21,New York State,59872
+1/18/21,New York State,60012
+1/19/21,New York State,60112
+1/20/21,New York State,59145
+1/21/21,New York State,61124
+1/22/21,New York State,63790
+1/23/21,New York State,66334
+1/24/21,New York State,69502
+1/25/21,New York State,68387
+1/26/21,New York State,64808
+1/27/21,New York State,67458
+1/28/21,New York State,73438
+1/29/21,New York State,71318
+1/30/21,New York State,72774
+1/31/21,New York State,72865
+2/1/21,New York State,72765
+2/2/21,New York State,73211
+2/3/21,New York State,69210
+2/4/21,New York State,61400
+2/5/21,New York State,61298
+2/6/21,New York State,61912
+2/7/21,New York State,65915
+2/8/21,New York State,70058
+2/9/21,New York State,67892
+2/10/21,New York State,76093
+2/11/21,New York State,80062
+2/12/21,New York State,82892
+2/13/21,New York State,85146
+2/14/21,New York State,84046
+2/15/21,New York State,85676
+2/16/21,New York State,95534
+2/17/21,New York State,91775
+2/18/21,New York State,90449
+2/19/21,New York State,104996
+2/20/21,New York State,102095
+2/21/21,New York State,99541
+2/22/21,New York State,99122
+2/23/21,New York State,94610
+2/24/21,New York State,91830
+2/25/21,New York State,89347
+2/26/21,New York State,72524
+2/27/21,New York State,74919
+2/28/21,New York State,86182
+3/1/21,New York State,91983
+3/2/21,New York State,103303
+3/3/21,New York State,112359
+3/4/21,New York State,121644
+3/5/21,New York State,129919
+3/6/21,New York State,140251
+3/7/21,New York State,144621
+3/8/21,New York State,151537
+3/9/21,New York State,147075
+3/10/21,New York State,154877
+3/11/21,New York State,158585
+3/12/21,New York State,162157
+3/13/21,New York State,178982
+3/14/21,New York State,151066
+3/15/21,New York State,146737
+3/16/21,New York State,149501
+3/17/21,New York State,144104
+3/18/21,New York State,144656
+3/19/21,New York State,143577
+3/20/21,New York State,127243
+3/21/21,New York State,153798
+3/22/21,New York State,154212
+3/23/21,New York State,160490
+3/24/21,New York State,162357
+3/25/21,New York State,161838
+3/26/21,New York State,169931
+3/27/21,New York State,178555
+3/28/21,New York State,183266
+3/29/21,New York State,191413
+3/30/21,New York State,189751
+3/31/21,New York State,203576
+4/1/21,New York State,201017
+4/2/21,New York State,245721
+4/3/21,New York State,263628
+4/4/21,New York State,266430
+4/5/21,New York State,253880
+4/6/21,New York State,248257
+4/7/21,New York State,252148
+4/8/21,New York State,264244
+4/9/21,New York State,229302
+4/10/21,New York State,218607
+4/11/21,New York State,220483
+4/12/21,New York State,228960
+4/13/21,New York State,239447
+4/14/21,New York State,229479
+4/15/21,New York State,228669
+4/16/21,New York State,220771
+4/17/21,New York State,209401
+4/18/21,New York State,209841
+4/19/21,New York State,204840
+4/20/21,New York State,198897
+4/21/21,New York State,195802
+4/22/21,New York State,189692
+4/23/21,New York State,187131
+4/24/21,New York State,184852
+4/25/21,New York State,171600
+4/26/21,New York State,168545
+4/27/21,New York State,164660
+4/28/21,New York State,165432
+4/29/21,New York State,176998
+4/30/21,New York State,180265
+5/1/21,New York State,183936
+5/2/21,New York State,178220
+5/3/21,New York State,172633
+5/4/21,New York State,170878
+5/5/21,New York State,170210
+5/6/21,New York State,163113
+5/7/21,New York State,152117
+5/8/21,New York State,144003
+1/12/21,North Carolina,
+1/13/21,North Carolina,55328
+1/14/21,North Carolina,28301
+1/15/21,North Carolina,30405
+1/16/21,North Carolina,28926
+1/17/21,North Carolina,28038
+1/18/21,North Carolina,27447
+1/19/21,North Carolina,27024
+1/20/21,North Carolina,22935
+1/21/21,North Carolina,29296
+1/22/21,North Carolina,31727
+1/23/21,North Carolina,35671
+1/24/21,North Carolina,40662
+1/25/21,North Carolina,42821
+1/26/21,North Carolina,42706
+1/27/21,North Carolina,41324
+1/28/21,North Carolina,53788
+1/29/21,North Carolina,46616
+1/30/21,North Carolina,45961
+1/31/21,North Carolina,45031
+2/1/21,North Carolina,42815
+2/2/21,North Carolina,39490
+2/3/21,North Carolina,44276
+2/4/21,North Carolina,30525
+2/5/21,North Carolina,36979
+2/6/21,North Carolina,38929
+2/7/21,North Carolina,41555
+2/8/21,North Carolina,42660
+2/9/21,North Carolina,44477
+2/10/21,North Carolina,44199
+2/11/21,North Carolina,45597
+2/12/21,North Carolina,48191
+2/13/21,North Carolina,50312
+2/14/21,North Carolina,53556
+2/15/21,North Carolina,53826
+2/16/21,North Carolina,56765
+2/17/21,North Carolina,56964
+2/18/21,North Carolina,57088
+2/19/21,North Carolina,73115
+2/20/21,North Carolina,69341
+2/21/21,North Carolina,64439
+2/22/21,North Carolina,64854
+2/23/21,North Carolina,61910
+2/24/21,North Carolina,61381
+2/25/21,North Carolina,61164
+2/26/21,North Carolina,46498
+2/27/21,North Carolina,51031
+2/28/21,North Carolina,57036
+3/1/21,North Carolina,60066
+3/2/21,North Carolina,60984
+3/3/21,North Carolina,63203
+3/4/21,North Carolina,64444
+3/5/21,North Carolina,56531
+3/6/21,North Carolina,56396
+3/7/21,North Carolina,51845
+3/8/21,North Carolina,50910
+3/9/21,North Carolina,52006
+3/10/21,North Carolina,53160
+3/11/21,North Carolina,55226
+3/12/21,North Carolina,69359
+3/13/21,North Carolina,90125
+3/14/21,North Carolina,83400
+3/15/21,North Carolina,85506
+3/16/21,North Carolina,93581
+3/17/21,North Carolina,93062
+3/18/21,North Carolina,96679
+3/19/21,North Carolina,92464
+3/20/21,North Carolina,73087
+3/21/21,North Carolina,84056
+3/22/21,North Carolina,83368
+3/23/21,North Carolina,75425
+3/24/21,North Carolina,76681
+3/25/21,North Carolina,73600
+3/26/21,North Carolina,75817
+3/27/21,North Carolina,79031
+3/28/21,North Carolina,78139
+3/29/21,North Carolina,76051
+3/30/21,North Carolina,73892
+3/31/21,North Carolina,74897
+4/1/21,North Carolina,77331
+4/2/21,North Carolina,74084
+4/3/21,North Carolina,78809
+4/4/21,North Carolina,72591
+4/5/21,North Carolina,71909
+4/6/21,North Carolina,72721
+4/7/21,North Carolina,71959
+4/8/21,North Carolina,72987
+4/9/21,North Carolina,77093
+4/10/21,North Carolina,74144
+4/11/21,North Carolina,83264
+4/12/21,North Carolina,87853
+4/13/21,North Carolina,90428
+4/14/21,North Carolina,92767
+4/15/21,North Carolina,92015
+4/16/21,North Carolina,91682
+4/17/21,North Carolina,88700
+4/18/21,North Carolina,86225
+4/19/21,North Carolina,83675
+4/20/21,North Carolina,82566
+4/21/21,North Carolina,78807
+4/22/21,North Carolina,77107
+4/23/21,North Carolina,75101
+4/24/21,North Carolina,71791
+4/25/21,North Carolina,69084
+4/26/21,North Carolina,66776
+4/27/21,North Carolina,69296
+4/28/21,North Carolina,61834
+4/29/21,North Carolina,58867
+4/30/21,North Carolina,58801
+5/1/21,North Carolina,61125
+5/2/21,North Carolina,62937
+5/3/21,North Carolina,61755
+5/4/21,North Carolina,58984
+5/5/21,North Carolina,62485
+5/6/21,North Carolina,61484
+5/7/21,North Carolina,56857
+5/8/21,North Carolina,51070
+1/12/21,North Dakota,
+1/13/21,North Dakota,1249
+1/14/21,North Dakota,1648
+1/15/21,North Dakota,2310
+1/16/21,North Dakota,2370
+1/17/21,North Dakota,2406
+1/18/21,North Dakota,2430
+1/19/21,North Dakota,2447
+1/20/21,North Dakota,2418
+1/21/21,North Dakota,2353
+1/22/21,North Dakota,2528
+1/23/21,North Dakota,2863
+1/24/21,North Dakota,3095
+1/25/21,North Dakota,3026
+1/26/21,North Dakota,2693
+1/27/21,North Dakota,2796
+1/28/21,North Dakota,2972
+1/29/21,North Dakota,3153
+1/30/21,North Dakota,3227
+1/31/21,North Dakota,3534
+2/1/21,North Dakota,3463
+2/2/21,North Dakota,3505
+2/3/21,North Dakota,3763
+2/4/21,North Dakota,3836
+2/5/21,North Dakota,3807
+2/6/21,North Dakota,4165
+2/7/21,North Dakota,4130
+2/8/21,North Dakota,4328
+2/9/21,North Dakota,4256
+2/10/21,North Dakota,3778
+2/11/21,North Dakota,3817
+2/12/21,North Dakota,3795
+2/13/21,North Dakota,3348
+2/14/21,North Dakota,3156
+2/15/21,North Dakota,3056
+2/16/21,North Dakota,3378
+2/17/21,North Dakota,3438
+2/18/21,North Dakota,3305
+2/19/21,North Dakota,6133
+2/20/21,North Dakota,6331
+2/21/21,North Dakota,6499
+2/22/21,North Dakota,6456
+2/23/21,North Dakota,6164
+2/24/21,North Dakota,6532
+2/25/21,North Dakota,6737
+2/26/21,North Dakota,4329
+2/27/21,North Dakota,5262
+2/28/21,North Dakota,5686
+3/1/21,North Dakota,6031
+3/2/21,North Dakota,6039
+3/3/21,North Dakota,5910
+3/4/21,North Dakota,6054
+3/5/21,North Dakota,6094
+3/6/21,North Dakota,5543
+3/7/21,North Dakota,5502
+3/8/21,North Dakota,5343
+3/9/21,North Dakota,5571
+3/10/21,North Dakota,5654
+3/11/21,North Dakota,5744
+3/12/21,North Dakota,6046
+3/13/21,North Dakota,6367
+3/14/21,North Dakota,6330
+3/15/21,North Dakota,6527
+3/16/21,North Dakota,6264
+3/17/21,North Dakota,6349
+3/18/21,North Dakota,6289
+3/19/21,North Dakota,6136
+3/20/21,North Dakota,6001
+3/21/21,North Dakota,5744
+3/22/21,North Dakota,5546
+3/23/21,North Dakota,5557
+3/24/21,North Dakota,5421
+3/25/21,North Dakota,5502
+3/26/21,North Dakota,5573
+3/27/21,North Dakota,5722
+3/28/21,North Dakota,5798
+3/29/21,North Dakota,5875
+3/30/21,North Dakota,7191
+3/31/21,North Dakota,7177
+4/1/21,North Dakota,7208
+4/2/21,North Dakota,7710
+4/3/21,North Dakota,7844
+4/4/21,North Dakota,7324
+4/5/21,North Dakota,7022
+4/6/21,North Dakota,6000
+4/7/21,North Dakota,6150
+4/8/21,North Dakota,6216
+4/9/21,North Dakota,5869
+4/10/21,North Dakota,5591
+4/11/21,North Dakota,6049
+4/12/21,North Dakota,6493
+4/13/21,North Dakota,6200
+4/14/21,North Dakota,6081
+4/15/21,North Dakota,5991
+4/16/21,North Dakota,5393
+4/17/21,North Dakota,4987
+4/18/21,North Dakota,4873
+4/19/21,North Dakota,4520
+4/20/21,North Dakota,4514
+4/21/21,North Dakota,4546
+4/22/21,North Dakota,4218
+4/23/21,North Dakota,4064
+4/24/21,North Dakota,3886
+4/25/21,North Dakota,3675
+4/26/21,North Dakota,3535
+4/27/21,North Dakota,3548
+4/28/21,North Dakota,3349
+4/29/21,North Dakota,3341
+4/30/21,North Dakota,3048
+5/1/21,North Dakota,2653
+5/2/21,North Dakota,2280
+5/3/21,North Dakota,2135
+5/4/21,North Dakota,2165
+5/5/21,North Dakota,2165
+5/6/21,North Dakota,1947
+5/7/21,North Dakota,1913
+5/8/21,North Dakota,2018
+1/12/21,Northern Mariana Islands,
+1/13/21,Northern Mariana Islands,419
+1/14/21,Northern Mariana Islands,438
+1/15/21,Northern Mariana Islands,396
+1/16/21,Northern Mariana Islands,388
+1/17/21,Northern Mariana Islands,384
+1/18/21,Northern Mariana Islands,381
+1/19/21,Northern Mariana Islands,379
+1/20/21,Northern Mariana Islands,379
+1/21/21,Northern Mariana Islands,387
+1/22/21,Northern Mariana Islands,402
+1/23/21,Northern Mariana Islands,395
+1/24/21,Northern Mariana Islands,393
+1/25/21,Northern Mariana Islands,356
+1/26/21,Northern Mariana Islands,338
+1/27/21,Northern Mariana Islands,319
+1/28/21,Northern Mariana Islands,277
+1/29/21,Northern Mariana Islands,261
+1/30/21,Northern Mariana Islands,242
+1/31/21,Northern Mariana Islands,237
+2/1/21,Northern Mariana Islands,236
+2/2/21,Northern Mariana Islands,238
+2/3/21,Northern Mariana Islands,233
+2/4/21,Northern Mariana Islands,245
+2/5/21,Northern Mariana Islands,255
+2/6/21,Northern Mariana Islands,281
+2/7/21,Northern Mariana Islands,263
+2/8/21,Northern Mariana Islands,252
+2/9/21,Northern Mariana Islands,265
+2/10/21,Northern Mariana Islands,268
+2/11/21,Northern Mariana Islands,252
+2/12/21,Northern Mariana Islands,234
+2/13/21,Northern Mariana Islands,242
+2/14/21,Northern Mariana Islands,266
+2/15/21,Northern Mariana Islands,310
+2/16/21,Northern Mariana Islands,308
+2/17/21,Northern Mariana Islands,316
+2/18/21,Northern Mariana Islands,341
+2/19/21,Northern Mariana Islands,365
+2/20/21,Northern Mariana Islands,304
+2/21/21,Northern Mariana Islands,310
+2/22/21,Northern Mariana Islands,286
+2/23/21,Northern Mariana Islands,280
+2/24/21,Northern Mariana Islands,333
+2/25/21,Northern Mariana Islands,337
+2/26/21,Northern Mariana Islands,328
+2/27/21,Northern Mariana Islands,371
+2/28/21,Northern Mariana Islands,349
+3/1/21,Northern Mariana Islands,356
+3/2/21,Northern Mariana Islands,359
+3/3/21,Northern Mariana Islands,307
+3/4/21,Northern Mariana Islands,301
+3/5/21,Northern Mariana Islands,298
+3/6/21,Northern Mariana Islands,313
+3/7/21,Northern Mariana Islands,290
+3/8/21,Northern Mariana Islands,259
+3/9/21,Northern Mariana Islands,259
+3/10/21,Northern Mariana Islands,257
+3/11/21,Northern Mariana Islands,249
+3/12/21,Northern Mariana Islands,248
+3/13/21,Northern Mariana Islands,246
+3/14/21,Northern Mariana Islands,248
+3/15/21,Northern Mariana Islands,248
+3/16/21,Northern Mariana Islands,271
+3/17/21,Northern Mariana Islands,273
+3/18/21,Northern Mariana Islands,278
+3/19/21,Northern Mariana Islands,295
+3/20/21,Northern Mariana Islands,310
+3/21/21,Northern Mariana Islands,380
+3/22/21,Northern Mariana Islands,394
+3/23/21,Northern Mariana Islands,372
+3/24/21,Northern Mariana Islands,382
+3/25/21,Northern Mariana Islands,393
+3/26/21,Northern Mariana Islands,393
+3/27/21,Northern Mariana Islands,398
+3/28/21,Northern Mariana Islands,379
+3/29/21,Northern Mariana Islands,413
+3/30/21,Northern Mariana Islands,423
+3/31/21,Northern Mariana Islands,423
+4/1/21,Northern Mariana Islands,415
+4/2/21,Northern Mariana Islands,353
+4/3/21,Northern Mariana Islands,350
+4/4/21,Northern Mariana Islands,336
+4/5/21,Northern Mariana Islands,287
+4/6/21,Northern Mariana Islands,302
+4/7/21,Northern Mariana Islands,311
+4/8/21,Northern Mariana Islands,331
+4/9/21,Northern Mariana Islands,391
+4/10/21,Northern Mariana Islands,399
+4/11/21,Northern Mariana Islands,442
+4/12/21,Northern Mariana Islands,442
+4/13/21,Northern Mariana Islands,436
+4/14/21,Northern Mariana Islands,435
+4/15/21,Northern Mariana Islands,438
+4/16/21,Northern Mariana Islands,438
+4/17/21,Northern Mariana Islands,444
+4/18/21,Northern Mariana Islands,453
+4/19/21,Northern Mariana Islands,467
+4/20/21,Northern Mariana Islands,460
+4/21/21,Northern Mariana Islands,439
+4/22/21,Northern Mariana Islands,420
+4/23/21,Northern Mariana Islands,405
+4/24/21,Northern Mariana Islands,381
+4/25/21,Northern Mariana Islands,325
+4/26/21,Northern Mariana Islands,332
+4/27/21,Northern Mariana Islands,337
+4/28/21,Northern Mariana Islands,347
+4/29/21,Northern Mariana Islands,355
+4/30/21,Northern Mariana Islands,362
+5/1/21,Northern Mariana Islands,346
+5/2/21,Northern Mariana Islands,358
+5/3/21,Northern Mariana Islands,337
+5/4/21,Northern Mariana Islands,337
+5/5/21,Northern Mariana Islands,335
+5/6/21,Northern Mariana Islands,331
+5/7/21,Northern Mariana Islands,323
+5/8/21,Northern Mariana Islands,333
+1/12/21,Ohio,
+1/13/21,Ohio,17428
+1/14/21,Ohio,18267
+1/15/21,Ohio,21179
+1/16/21,Ohio,21926
+1/17/21,Ohio,22373
+1/18/21,Ohio,22672
+1/19/21,Ohio,22885
+1/20/21,Ohio,22595
+1/21/21,Ohio,19865
+1/22/21,Ohio,24296
+1/23/21,Ohio,27905
+1/24/21,Ohio,31907
+1/25/21,Ohio,33957
+1/26/21,Ohio,33706
+1/27/21,Ohio,36967
+1/28/21,Ohio,43198
+1/29/21,Ohio,42514
+1/30/21,Ohio,45154
+1/31/21,Ohio,43844
+2/1/21,Ohio,45572
+2/2/21,Ohio,48159
+2/3/21,Ohio,48449
+2/4/21,Ohio,48316
+2/5/21,Ohio,47734
+2/6/21,Ohio,47355
+2/7/21,Ohio,48565
+2/8/21,Ohio,48814
+2/9/21,Ohio,46941
+2/10/21,Ohio,45864
+2/11/21,Ohio,47299
+2/12/21,Ohio,51893
+2/13/21,Ohio,52952
+2/14/21,Ohio,56851
+2/15/21,Ohio,56733
+2/16/21,Ohio,60179
+2/17/21,Ohio,59820
+2/18/21,Ohio,57466
+2/19/21,Ohio,65606
+2/20/21,Ohio,64835
+2/21/21,Ohio,64109
+2/22/21,Ohio,64736
+2/23/21,Ohio,61964
+2/24/21,Ohio,66136
+2/25/21,Ohio,70021
+2/26/21,Ohio,59061
+2/27/21,Ohio,62123
+2/28/21,Ohio,65588
+3/1/21,Ohio,66320
+3/2/21,Ohio,70639
+3/3/21,Ohio,71704
+3/4/21,Ohio,71267
+3/5/21,Ohio,72136
+3/6/21,Ohio,75052
+3/7/21,Ohio,75926
+3/8/21,Ohio,77561
+3/9/21,Ohio,76075
+3/10/21,Ohio,75203
+3/11/21,Ohio,77234
+3/12/21,Ohio,82275
+3/13/21,Ohio,85292
+3/14/21,Ohio,85837
+3/15/21,Ohio,87935
+3/16/21,Ohio,86746
+3/17/21,Ohio,87425
+3/18/21,Ohio,89649
+3/19/21,Ohio,90065
+3/20/21,Ohio,87972
+3/21/21,Ohio,90338
+3/22/21,Ohio,89672
+3/23/21,Ohio,90980
+3/24/21,Ohio,93387
+3/25/21,Ohio,94398
+3/26/21,Ohio,97306
+3/27/21,Ohio,100867
+3/28/21,Ohio,101458
+3/29/21,Ohio,103014
+3/30/21,Ohio,102772
+3/31/21,Ohio,101918
+4/1/21,Ohio,103035
+4/2/21,Ohio,103728
+4/3/21,Ohio,106230
+4/4/21,Ohio,106591
+4/5/21,Ohio,104741
+4/6/21,Ohio,103491
+4/7/21,Ohio,104733
+4/8/21,Ohio,108169
+4/9/21,Ohio,110939
+4/10/21,Ohio,109911
+4/11/21,Ohio,91392
+4/12/21,Ohio,116063
+4/13/21,Ohio,115895
+4/14/21,Ohio,116962
+4/15/21,Ohio,114478
+4/16/21,Ohio,110282
+4/17/21,Ohio,109666
+4/18/21,Ohio,125600
+4/19/21,Ohio,100515
+4/20/21,Ohio,102036
+4/21/21,Ohio,101348
+4/22/21,Ohio,99326
+4/23/21,Ohio,99852
+4/24/21,Ohio,95377
+4/25/21,Ohio,94724
+4/26/21,Ohio,93565
+4/27/21,Ohio,92995
+4/28/21,Ohio,89642
+4/29/21,Ohio,85931
+4/30/21,Ohio,83859
+5/1/21,Ohio,81041
+5/2/21,Ohio,75353
+5/3/21,Ohio,70120
+5/4/21,Ohio,65358
+5/5/21,Ohio,62626
+5/6/21,Ohio,62012
+5/7/21,Ohio,59216
+5/8/21,Ohio,56014
+1/12/21,Oklahoma,
+1/13/21,Oklahoma,14560
+1/14/21,Oklahoma,14712
+1/15/21,Oklahoma,15189
+1/16/21,Oklahoma,13809
+1/17/21,Oklahoma,12982
+1/18/21,Oklahoma,12430
+1/19/21,Oklahoma,12036
+1/20/21,Oklahoma,11326
+1/21/21,Oklahoma,11453
+1/22/21,Oklahoma,12013
+1/23/21,Oklahoma,13104
+1/24/21,Oklahoma,14294
+1/25/21,Oklahoma,13446
+1/26/21,Oklahoma,12397
+1/27/21,Oklahoma,13351
+1/28/21,Oklahoma,13688
+1/29/21,Oklahoma,14169
+1/30/21,Oklahoma,15071
+1/31/21,Oklahoma,16454
+2/1/21,Oklahoma,16719
+2/2/21,Oklahoma,16686
+2/3/21,Oklahoma,16757
+2/4/21,Oklahoma,17304
+2/5/21,Oklahoma,17715
+2/6/21,Oklahoma,18707
+2/7/21,Oklahoma,19394
+2/8/21,Oklahoma,20353
+2/9/21,Oklahoma,20362
+2/10/21,Oklahoma,20567
+2/11/21,Oklahoma,20568
+2/12/21,Oklahoma,18523
+2/13/21,Oklahoma,17083
+2/14/21,Oklahoma,15515
+2/15/21,Oklahoma,14633
+2/16/21,Oklahoma,15201
+2/17/21,Oklahoma,12862
+2/18/21,Oklahoma,10297
+2/19/21,Oklahoma,24738
+2/20/21,Oklahoma,24295
+2/21/21,Oklahoma,26230
+2/22/21,Oklahoma,28963
+2/23/21,Oklahoma,30281
+2/24/21,Oklahoma,34146
+2/25/21,Oklahoma,38155
+2/26/21,Oklahoma,27507
+2/27/21,Oklahoma,30870
+2/28/21,Oklahoma,32772
+3/1/21,Oklahoma,32546
+3/2/21,Oklahoma,31154
+3/3/21,Oklahoma,30339
+3/4/21,Oklahoma,30556
+3/5/21,Oklahoma,29568
+3/6/21,Oklahoma,28451
+3/7/21,Oklahoma,26152
+3/8/21,Oklahoma,25941
+3/9/21,Oklahoma,26087
+3/10/21,Oklahoma,26712
+3/11/21,Oklahoma,26214
+3/12/21,Oklahoma,26463
+3/13/21,Oklahoma,27045
+3/14/21,Oklahoma,26681
+3/15/21,Oklahoma,26094
+3/16/21,Oklahoma,25874
+3/17/21,Oklahoma,26397
+3/18/21,Oklahoma,26679
+3/19/21,Oklahoma,26681
+3/20/21,Oklahoma,25823
+3/21/21,Oklahoma,26777
+3/22/21,Oklahoma,27323
+3/23/21,Oklahoma,27762
+3/24/21,Oklahoma,28278
+3/25/21,Oklahoma,28856
+3/26/21,Oklahoma,29329
+3/27/21,Oklahoma,30199
+3/28/21,Oklahoma,30996
+3/29/21,Oklahoma,30493
+3/30/21,Oklahoma,30403
+3/31/21,Oklahoma,30375
+4/1/21,Oklahoma,31628
+4/2/21,Oklahoma,32972
+4/3/21,Oklahoma,34529
+4/4/21,Oklahoma,33960
+4/5/21,Oklahoma,33536
+4/6/21,Oklahoma,33326
+4/7/21,Oklahoma,33379
+4/8/21,Oklahoma,31921
+4/9/21,Oklahoma,30615
+4/10/21,Oklahoma,29217
+4/11/21,Oklahoma,29292
+4/12/21,Oklahoma,29617
+4/13/21,Oklahoma,31261
+4/14/21,Oklahoma,27542
+4/15/21,Oklahoma,26724
+4/16/21,Oklahoma,25737
+4/17/21,Oklahoma,24368
+4/18/21,Oklahoma,23227
+4/19/21,Oklahoma,24318
+4/20/21,Oklahoma,22681
+4/21/21,Oklahoma,24146
+4/22/21,Oklahoma,22935
+4/23/21,Oklahoma,21338
+4/24/21,Oklahoma,21193
+4/25/21,Oklahoma,20212
+4/26/21,Oklahoma,18156
+4/27/21,Oklahoma,18077
+4/28/21,Oklahoma,17742
+4/29/21,Oklahoma,17239
+4/30/21,Oklahoma,16610
+5/1/21,Oklahoma,15232
+5/2/21,Oklahoma,14194
+5/3/21,Oklahoma,13372
+5/4/21,Oklahoma,12940
+5/5/21,Oklahoma,12426
+5/6/21,Oklahoma,11952
+5/7/21,Oklahoma,11642
+5/8/21,Oklahoma,10696
+1/12/21,Oregon,
+1/13/21,Oregon,10465
+1/14/21,Oregon,12593
+1/15/21,Oregon,13848
+1/16/21,Oregon,14809
+1/17/21,Oregon,15386
+1/18/21,Oregon,15771
+1/19/21,Oregon,16045
+1/20/21,Oregon,14550
+1/21/21,Oregon,12447
+1/22/21,Oregon,15365
+1/23/21,Oregon,15231
+1/24/21,Oregon,14912
+1/25/21,Oregon,14492
+1/26/21,Oregon,13020
+1/27/21,Oregon,15509
+1/28/21,Oregon,17636
+1/29/21,Oregon,15098
+1/30/21,Oregon,15990
+1/31/21,Oregon,17424
+2/1/21,Oregon,17564
+2/2/21,Oregon,18605
+2/3/21,Oregon,18397
+2/4/21,Oregon,18800
+2/5/21,Oregon,18252
+2/6/21,Oregon,18212
+2/7/21,Oregon,17837
+2/8/21,Oregon,18688
+2/9/21,Oregon,19199
+2/10/21,Oregon,19252
+2/11/21,Oregon,16722
+2/12/21,Oregon,14555
+2/13/21,Oregon,20151
+2/14/21,Oregon,19796
+2/15/21,Oregon,17689
+2/16/21,Oregon,16074
+2/17/21,Oregon,14821
+2/18/21,Oregon,17076
+2/19/21,Oregon,25515
+2/20/21,Oregon,20550
+2/21/21,Oregon,21486
+2/22/21,Oregon,23706
+2/23/21,Oregon,25678
+2/24/21,Oregon,24710
+2/25/21,Oregon,25852
+2/26/21,Oregon,22889
+2/27/21,Oregon,23699
+2/28/21,Oregon,24669
+3/1/21,Oregon,25692
+3/2/21,Oregon,24769
+3/3/21,Oregon,26330
+3/4/21,Oregon,26216
+3/5/21,Oregon,24302
+3/6/21,Oregon,25313
+3/7/21,Oregon,25491
+3/8/21,Oregon,25090
+3/9/21,Oregon,26234
+3/10/21,Oregon,26968
+3/11/21,Oregon,23823
+3/12/21,Oregon,24816
+3/13/21,Oregon,28025
+3/14/21,Oregon,27662
+3/15/21,Oregon,26874
+3/16/21,Oregon,27186
+3/17/21,Oregon,25040
+3/18/21,Oregon,27615
+3/19/21,Oregon,30248
+3/20/21,Oregon,27132
+3/21/21,Oregon,27787
+3/22/21,Oregon,28092
+3/23/21,Oregon,27795
+3/24/21,Oregon,30373
+3/25/21,Oregon,31997
+3/26/21,Oregon,30188
+3/27/21,Oregon,30513
+3/28/21,Oregon,30276
+3/29/21,Oregon,31159
+3/30/21,Oregon,30664
+3/31/21,Oregon,32486
+4/1/21,Oregon,33798
+4/2/21,Oregon,35202
+4/3/21,Oregon,35846
+4/4/21,Oregon,37298
+4/5/21,Oregon,37733
+4/6/21,Oregon,38255
+4/7/21,Oregon,38472
+4/8/21,Oregon,38117
+4/9/21,Oregon,38684
+4/10/21,Oregon,39680
+4/11/21,Oregon,41121
+4/12/21,Oregon,41357
+4/13/21,Oregon,42152
+4/14/21,Oregon,41717
+4/15/21,Oregon,42187
+4/16/21,Oregon,41370
+4/17/21,Oregon,40484
+4/18/21,Oregon,39079
+4/19/21,Oregon,38857
+4/20/21,Oregon,38493
+4/21/21,Oregon,37885
+4/22/21,Oregon,32242
+4/23/21,Oregon,38384
+4/24/21,Oregon,38622
+4/25/21,Oregon,39864
+4/26/21,Oregon,40041
+4/27/21,Oregon,40358
+4/28/21,Oregon,40659
+4/29/21,Oregon,46528
+4/30/21,Oregon,39543
+5/1/21,Oregon,32498
+5/2/21,Oregon,37575
+5/3/21,Oregon,35935
+5/4/21,Oregon,34617
+5/5/21,Oregon,34623
+5/6/21,Oregon,33166
+5/7/21,Oregon,32705
+5/8/21,Oregon,40517
+1/12/21,Pennsylvania,
+1/13/21,Pennsylvania,37996
+1/14/21,Pennsylvania,34233
+1/15/21,Pennsylvania,35401
+1/16/21,Pennsylvania,32567
+1/17/21,Pennsylvania,30867
+1/18/21,Pennsylvania,29734
+1/19/21,Pennsylvania,28924
+1/20/21,Pennsylvania,26959
+1/21/21,Pennsylvania,27859
+1/22/21,Pennsylvania,29248
+1/23/21,Pennsylvania,31950
+1/24/21,Pennsylvania,35472
+1/25/21,Pennsylvania,36636
+1/26/21,Pennsylvania,36563
+1/27/21,Pennsylvania,40474
+1/28/21,Pennsylvania,35849
+1/29/21,Pennsylvania,45694
+1/30/21,Pennsylvania,48079
+1/31/21,Pennsylvania,49083
+2/1/21,Pennsylvania,51055
+2/2/21,Pennsylvania,50799
+2/3/21,Pennsylvania,43730
+2/4/21,Pennsylvania,51766
+2/5/21,Pennsylvania,42684
+2/6/21,Pennsylvania,43724
+2/7/21,Pennsylvania,45667
+2/8/21,Pennsylvania,43882
+2/9/21,Pennsylvania,46034
+2/10/21,Pennsylvania,54281
+2/11/21,Pennsylvania,53677
+2/12/21,Pennsylvania,56762
+2/13/21,Pennsylvania,48534
+2/14/21,Pennsylvania,59213
+2/15/21,Pennsylvania,55160
+2/16/21,Pennsylvania,50636
+2/17/21,Pennsylvania,58875
+2/18/21,Pennsylvania,58330
+2/19/21,Pennsylvania,73730
+2/20/21,Pennsylvania,79082
+2/21/21,Pennsylvania,69214
+2/22/21,Pennsylvania,75797
+2/23/21,Pennsylvania,78350
+2/24/21,Pennsylvania,67892
+2/25/21,Pennsylvania,69590
+2/26/21,Pennsylvania,53951
+2/27/21,Pennsylvania,63458
+2/28/21,Pennsylvania,63574
+3/1/21,Pennsylvania,68183
+3/2/21,Pennsylvania,72196
+3/3/21,Pennsylvania,74736
+3/4/21,Pennsylvania,78068
+3/5/21,Pennsylvania,86723
+3/6/21,Pennsylvania,88971
+3/7/21,Pennsylvania,81060
+3/8/21,Pennsylvania,71465
+3/9/21,Pennsylvania,91116
+3/10/21,Pennsylvania,98490
+3/11/21,Pennsylvania,100106
+3/12/21,Pennsylvania,84202
+3/13/21,Pennsylvania,113553
+3/14/21,Pennsylvania,124576
+3/15/21,Pennsylvania,135409
+3/16/21,Pennsylvania,116653
+3/17/21,Pennsylvania,121873
+3/18/21,Pennsylvania,122078
+3/19/21,Pennsylvania,121982
+3/20/21,Pennsylvania,77683
+3/21/21,Pennsylvania,64096
+3/22/21,Pennsylvania,66451
+3/23/21,Pennsylvania,115738
+3/24/21,Pennsylvania,114128
+3/25/21,Pennsylvania,104779
+3/26/21,Pennsylvania,129095
+3/27/21,Pennsylvania,147640
+3/28/21,Pennsylvania,165083
+3/29/21,Pennsylvania,163556
+3/30/21,Pennsylvania,113826
+3/31/21,Pennsylvania,109535
+4/1/21,Pennsylvania,125233
+4/2/21,Pennsylvania,123993
+4/3/21,Pennsylvania,125744
+4/4/21,Pennsylvania,124934
+4/5/21,Pennsylvania,123338
+4/6/21,Pennsylvania,122121
+4/7/21,Pennsylvania,108911
+4/8/21,Pennsylvania,91541
+4/9/21,Pennsylvania,76583
+4/10/21,Pennsylvania,129525
+4/11/21,Pennsylvania,127096
+4/12/21,Pennsylvania,132917
+4/13/21,Pennsylvania,144094
+4/14/21,Pennsylvania,159693
+4/15/21,Pennsylvania,177412
+4/16/21,Pennsylvania,189869
+4/17/21,Pennsylvania,133382
+4/18/21,Pennsylvania,136864
+4/19/21,Pennsylvania,129189
+4/20/21,Pennsylvania,125651
+4/21/21,Pennsylvania,133482
+4/22/21,Pennsylvania,131840
+4/23/21,Pennsylvania,141399
+4/24/21,Pennsylvania,148489
+4/25/21,Pennsylvania,144282
+4/26/21,Pennsylvania,145974
+4/27/21,Pennsylvania,143686
+4/28/21,Pennsylvania,132692
+4/29/21,Pennsylvania,132001
+4/30/21,Pennsylvania,116014
+5/1/21,Pennsylvania,115389
+5/2/21,Pennsylvania,109908
+5/3/21,Pennsylvania,107661
+5/4/21,Pennsylvania,105920
+5/5/21,Pennsylvania,104409
+5/6/21,Pennsylvania,101947
+5/7/21,Pennsylvania,100985
+5/8/21,Pennsylvania,91294
+1/12/21,Puerto Rico,
+1/13/21,Puerto Rico,9873
+1/14/21,Puerto Rico,10160
+1/15/21,Puerto Rico,9859
+1/16/21,Puerto Rico,8982
+1/17/21,Puerto Rico,8455
+1/18/21,Puerto Rico,8104
+1/19/21,Puerto Rico,7853
+1/20/21,Puerto Rico,7457
+1/21/21,Puerto Rico,7559
+1/22/21,Puerto Rico,8199
+1/23/21,Puerto Rico,8965
+1/24/21,Puerto Rico,9620
+1/25/21,Puerto Rico,9205
+1/26/21,Puerto Rico,8450
+1/27/21,Puerto Rico,9019
+1/28/21,Puerto Rico,9198
+1/29/21,Puerto Rico,8968
+1/30/21,Puerto Rico,8974
+1/31/21,Puerto Rico,9317
+2/1/21,Puerto Rico,9403
+2/2/21,Puerto Rico,9251
+2/3/21,Puerto Rico,9558
+2/4/21,Puerto Rico,9449
+2/5/21,Puerto Rico,9103
+2/6/21,Puerto Rico,9091
+2/7/21,Puerto Rico,7186
+2/8/21,Puerto Rico,6608
+2/9/21,Puerto Rico,8658
+2/10/21,Puerto Rico,8242
+2/11/21,Puerto Rico,8377
+2/12/21,Puerto Rico,6991
+2/13/21,Puerto Rico,10163
+2/14/21,Puerto Rico,11861
+2/15/21,Puerto Rico,12180
+2/16/21,Puerto Rico,10448
+2/17/21,Puerto Rico,9681
+2/18/21,Puerto Rico,10157
+2/19/21,Puerto Rico,15971
+2/20/21,Puerto Rico,13241
+2/21/21,Puerto Rico,13393
+2/22/21,Puerto Rico,13100
+2/23/21,Puerto Rico,13323
+2/24/21,Puerto Rico,14711
+2/25/21,Puerto Rico,14569
+2/26/21,Puerto Rico,12517
+2/27/21,Puerto Rico,10651
+2/28/21,Puerto Rico,10449
+3/1/21,Puerto Rico,11145
+3/2/21,Puerto Rico,10608
+3/3/21,Puerto Rico,10416
+3/4/21,Puerto Rico,12169
+3/5/21,Puerto Rico,8536
+3/6/21,Puerto Rico,10497
+3/7/21,Puerto Rico,11255
+3/8/21,Puerto Rico,11240
+3/9/21,Puerto Rico,11523
+3/10/21,Puerto Rico,15230
+3/11/21,Puerto Rico,11478
+3/12/21,Puerto Rico,14565
+3/13/21,Puerto Rico,19615
+3/14/21,Puerto Rico,17211
+3/15/21,Puerto Rico,16520
+3/16/21,Puerto Rico,18513
+3/17/21,Puerto Rico,16222
+3/18/21,Puerto Rico,19798
+3/19/21,Puerto Rico,20267
+3/20/21,Puerto Rico,16341
+3/21/21,Puerto Rico,19646
+3/22/21,Puerto Rico,21024
+3/23/21,Puerto Rico,19699
+3/24/21,Puerto Rico,18938
+3/25/21,Puerto Rico,19763
+3/26/21,Puerto Rico,20178
+3/27/21,Puerto Rico,21778
+3/28/21,Puerto Rico,22520
+3/29/21,Puerto Rico,22834
+3/30/21,Puerto Rico,22827
+3/31/21,Puerto Rico,23902
+4/1/21,Puerto Rico,23169
+4/2/21,Puerto Rico,23855
+4/3/21,Puerto Rico,21717
+4/4/21,Puerto Rico,18186
+4/5/21,Puerto Rico,17463
+4/6/21,Puerto Rico,17176
+4/7/21,Puerto Rico,16825
+4/8/21,Puerto Rico,15792
+4/9/21,Puerto Rico,13564
+4/10/21,Puerto Rico,15491
+4/11/21,Puerto Rico,20036
+4/12/21,Puerto Rico,24311
+4/13/21,Puerto Rico,26024
+4/14/21,Puerto Rico,26461
+4/15/21,Puerto Rico,34777
+4/16/21,Puerto Rico,37081
+4/17/21,Puerto Rico,36338
+4/18/21,Puerto Rico,35685
+4/19/21,Puerto Rico,32437
+4/20/21,Puerto Rico,31458
+4/21/21,Puerto Rico,31983
+4/22/21,Puerto Rico,26369
+4/23/21,Puerto Rico,26777
+4/24/21,Puerto Rico,28631
+4/25/21,Puerto Rico,28348
+4/26/21,Puerto Rico,28216
+4/27/21,Puerto Rico,27868
+4/28/21,Puerto Rico,28598
+4/29/21,Puerto Rico,28233
+4/30/21,Puerto Rico,27924
+5/1/21,Puerto Rico,27552
+5/2/21,Puerto Rico,28414
+5/3/21,Puerto Rico,27963
+5/4/21,Puerto Rico,27670
+5/5/21,Puerto Rico,27318
+5/6/21,Puerto Rico,27365
+5/7/21,Puerto Rico,28292
+5/8/21,Puerto Rico,30481
+1/12/21,Republic of Palau,
+1/13/21,Republic of Palau,309
+1/14/21,Republic of Palau,175
+1/15/21,Republic of Palau,234
+1/16/21,Republic of Palau,225
+1/17/21,Republic of Palau,220
+1/18/21,Republic of Palau,217
+1/19/21,Republic of Palau,214
+1/20/21,Republic of Palau,179
+1/21/21,Republic of Palau,234
+1/22/21,Republic of Palau,184
+1/23/21,Republic of Palau,195
+1/24/21,Republic of Palau,218
+1/25/21,Republic of Palau,190
+1/26/21,Republic of Palau,162
+1/27/21,Republic of Palau,152
+1/28/21,Republic of Palau,95
+1/29/21,Republic of Palau,98
+1/30/21,Republic of Palau,61
+1/31/21,Republic of Palau,9
+2/1/21,Republic of Palau,9
+2/2/21,Republic of Palau,18
+2/3/21,Republic of Palau,26
+2/4/21,Republic of Palau,23
+2/5/21,Republic of Palau,39
+2/6/21,Republic of Palau,36
+2/7/21,Republic of Palau,51
+2/8/21,Republic of Palau,51
+2/9/21,Republic of Palau,42
+2/10/21,Republic of Palau,43
+2/11/21,Republic of Palau,86
+2/12/21,Republic of Palau,73
+2/13/21,Republic of Palau,122
+2/14/21,Republic of Palau,122
+2/15/21,Republic of Palau,147
+2/16/21,Republic of Palau,173
+2/17/21,Republic of Palau,212
+2/18/21,Republic of Palau,212
+2/19/21,Republic of Palau,265
+2/20/21,Republic of Palau,259
+2/21/21,Republic of Palau,285
+2/22/21,Republic of Palau,259
+2/23/21,Republic of Palau,342
+2/24/21,Republic of Palau,295
+2/25/21,Republic of Palau,400
+2/26/21,Republic of Palau,345
+2/27/21,Republic of Palau,303
+2/28/21,Republic of Palau,267
+3/1/21,Republic of Palau,267
+3/2/21,Republic of Palau,159
+3/3/21,Republic of Palau,159
+3/4/21,Republic of Palau,11
+3/5/21,Republic of Palau,6
+3/6/21,Republic of Palau,6
+3/7/21,Republic of Palau,0
+3/8/21,Republic of Palau,0
+3/9/21,Republic of Palau,0
+3/10/21,Republic of Palau,57
+3/11/21,Republic of Palau,102
+3/12/21,Republic of Palau,144
+3/13/21,Republic of Palau,216
+3/14/21,Republic of Palau,216
+3/15/21,Republic of Palau,216
+3/16/21,Republic of Palau,287
+3/17/21,Republic of Palau,306
+3/18/21,Republic of Palau,294
+3/19/21,Republic of Palau,330
+3/20/21,Republic of Palau,301
+3/21/21,Republic of Palau,301
+3/22/21,Republic of Palau,307
+3/23/21,Republic of Palau,293
+3/24/21,Republic of Palau,274
+3/25/21,Republic of Palau,331
+3/26/21,Republic of Palau,262
+3/27/21,Republic of Palau,219
+3/28/21,Republic of Palau,225
+3/29/21,Republic of Palau,220
+3/30/21,Republic of Palau,162
+3/31/21,Republic of Palau,105
+4/1/21,Republic of Palau,15
+4/2/21,Republic of Palau,14
+4/3/21,Republic of Palau,14
+4/4/21,Republic of Palau,7
+4/5/21,Republic of Palau,7
+4/6/21,Republic of Palau,8
+4/7/21,Republic of Palau,8
+4/8/21,Republic of Palau,53
+4/9/21,Republic of Palau,88
+4/10/21,Republic of Palau,88
+4/11/21,Republic of Palau,158
+4/12/21,Republic of Palau,221
+4/13/21,Republic of Palau,293
+4/14/21,Republic of Palau,368
+4/15/21,Republic of Palau,322
+4/16/21,Republic of Palau,357
+4/17/21,Republic of Palau,357
+4/18/21,Republic of Palau,287
+4/19/21,Republic of Palau,224
+4/20/21,Republic of Palau,151
+4/21/21,Republic of Palau,134
+4/22/21,Republic of Palau,193
+4/23/21,Republic of Palau,187
+4/24/21,Republic of Palau,263
+4/25/21,Republic of Palau,395
+4/26/21,Republic of Palau,395
+4/27/21,Republic of Palau,399
+4/28/21,Republic of Palau,393
+4/29/21,Republic of Palau,373
+4/30/21,Republic of Palau,329
+5/1/21,Republic of Palau,274
+5/2/21,Republic of Palau,142
+5/3/21,Republic of Palau,142
+5/4/21,Republic of Palau,154
+5/5/21,Republic of Palau,108
+5/6/21,Republic of Palau,69
+5/7/21,Republic of Palau,65
+5/8/21,Republic of Palau,44
+1/12/21,Rhode Island,
+1/13/21,Rhode Island,2460
+1/14/21,Rhode Island,2652
+1/15/21,Rhode Island,2660
+1/16/21,Rhode Island,2403
+1/17/21,Rhode Island,2249
+1/18/21,Rhode Island,2147
+1/19/21,Rhode Island,2073
+1/20/21,Rhode Island,2084
+1/21/21,Rhode Island,2020
+1/22/21,Rhode Island,2061
+1/23/21,Rhode Island,2010
+1/24/21,Rhode Island,2393
+1/25/21,Rhode Island,2567
+1/26/21,Rhode Island,2598
+1/27/21,Rhode Island,2810
+1/28/21,Rhode Island,3018
+1/29/21,Rhode Island,3090
+1/30/21,Rhode Island,3549
+1/31/21,Rhode Island,3373
+2/1/21,Rhode Island,3403
+2/2/21,Rhode Island,3897
+2/3/21,Rhode Island,3599
+2/4/21,Rhode Island,3391
+2/5/21,Rhode Island,3335
+2/6/21,Rhode Island,3391
+2/7/21,Rhode Island,3699
+2/8/21,Rhode Island,3749
+2/9/21,Rhode Island,3220
+2/10/21,Rhode Island,3355
+2/11/21,Rhode Island,3436
+2/12/21,Rhode Island,3566
+2/13/21,Rhode Island,3582
+2/14/21,Rhode Island,3441
+2/15/21,Rhode Island,3372
+2/16/21,Rhode Island,3563
+2/17/21,Rhode Island,3782
+2/18/21,Rhode Island,4571
+2/19/21,Rhode Island,7116
+2/20/21,Rhode Island,7713
+2/21/21,Rhode Island,8210
+2/22/21,Rhode Island,8850
+2/23/21,Rhode Island,9234
+2/24/21,Rhode Island,9580
+2/25/21,Rhode Island,9538
+2/26/21,Rhode Island,7595
+2/27/21,Rhode Island,7816
+2/28/21,Rhode Island,8304
+3/1/21,Rhode Island,9068
+3/2/21,Rhode Island,9163
+3/3/21,Rhode Island,9181
+3/4/21,Rhode Island,9181
+3/5/21,Rhode Island,9377
+3/6/21,Rhode Island,9240
+3/7/21,Rhode Island,8945
+3/8/21,Rhode Island,8174
+3/9/21,Rhode Island,8258
+3/10/21,Rhode Island,8319
+3/11/21,Rhode Island,8574
+3/12/21,Rhode Island,8425
+3/13/21,Rhode Island,8162
+3/14/21,Rhode Island,7832
+3/15/21,Rhode Island,8813
+3/16/21,Rhode Island,9034
+3/17/21,Rhode Island,8864
+3/18/21,Rhode Island,8677
+3/19/21,Rhode Island,9414
+3/20/21,Rhode Island,10437
+3/21/21,Rhode Island,11485
+3/22/21,Rhode Island,11541
+3/23/21,Rhode Island,11886
+3/24/21,Rhode Island,12143
+3/25/21,Rhode Island,12251
+3/26/21,Rhode Island,11671
+3/27/21,Rhode Island,10680
+3/28/21,Rhode Island,10214
+3/29/21,Rhode Island,9890
+3/30/21,Rhode Island,10387
+3/31/21,Rhode Island,10163
+4/1/21,Rhode Island,9863
+4/2/21,Rhode Island,10945
+4/3/21,Rhode Island,11564
+4/4/21,Rhode Island,12174
+4/5/21,Rhode Island,12590
+4/6/21,Rhode Island,12646
+4/7/21,Rhode Island,12804
+4/8/21,Rhode Island,13191
+4/9/21,Rhode Island,11933
+4/10/21,Rhode Island,12049
+4/11/21,Rhode Island,12187
+4/12/21,Rhode Island,11832
+4/13/21,Rhode Island,12299
+4/14/21,Rhode Island,12045
+4/15/21,Rhode Island,11917
+4/16/21,Rhode Island,12605
+4/17/21,Rhode Island,12017
+4/18/21,Rhode Island,11353
+4/19/21,Rhode Island,11191
+4/20/21,Rhode Island,10560
+4/21/21,Rhode Island,10643
+4/22/21,Rhode Island,10943
+4/23/21,Rhode Island,10478
+4/24/21,Rhode Island,11461
+4/25/21,Rhode Island,11859
+4/26/21,Rhode Island,12050
+4/27/21,Rhode Island,12113
+4/28/21,Rhode Island,12207
+4/29/21,Rhode Island,11439
+4/30/21,Rhode Island,12043
+5/1/21,Rhode Island,11450
+5/2/21,Rhode Island,10801
+5/3/21,Rhode Island,9800
+5/4/21,Rhode Island,8766
+5/5/21,Rhode Island,8323
+5/6/21,Rhode Island,8407
+5/7/21,Rhode Island,7902
+5/8/21,Rhode Island,7455
+1/12/21,South Carolina,
+1/13/21,South Carolina,18812
+1/14/21,South Carolina,17390
+1/15/21,South Carolina,13587
+1/16/21,South Carolina,14274
+1/17/21,South Carolina,14686
+1/18/21,South Carolina,14961
+1/19/21,South Carolina,15157
+1/20/21,South Carolina,13246
+1/21/21,South Carolina,13397
+1/22/21,South Carolina,15309
+1/23/21,South Carolina,15855
+1/24/21,South Carolina,17756
+1/25/21,South Carolina,19501
+1/26/21,South Carolina,18577
+1/27/21,South Carolina,19197
+1/28/21,South Carolina,21474
+1/29/21,South Carolina,22308
+1/30/21,South Carolina,22672
+1/31/21,South Carolina,22964
+2/1/21,South Carolina,22200
+2/2/21,South Carolina,21926
+2/3/21,South Carolina,21745
+2/4/21,South Carolina,19641
+2/5/21,South Carolina,19105
+2/6/21,South Carolina,19288
+2/7/21,South Carolina,18482
+2/8/21,South Carolina,17563
+2/9/21,South Carolina,16428
+2/10/21,South Carolina,18409
+2/11/21,South Carolina,18723
+2/12/21,South Carolina,18640
+2/13/21,South Carolina,18852
+2/14/21,South Carolina,19324
+2/15/21,South Carolina,19377
+2/16/21,South Carolina,21826
+2/17/21,South Carolina,21051
+2/18/21,South Carolina,21374
+2/19/21,South Carolina,28383
+2/20/21,South Carolina,29276
+2/21/21,South Carolina,29498
+2/22/21,South Carolina,30180
+2/23/21,South Carolina,28951
+2/24/21,South Carolina,31183
+2/25/21,South Carolina,31394
+2/26/21,South Carolina,25323
+2/27/21,South Carolina,25456
+2/28/21,South Carolina,25126
+3/1/21,South Carolina,26318
+3/2/21,South Carolina,25988
+3/3/21,South Carolina,25214
+3/4/21,South Carolina,29268
+3/5/21,South Carolina,29580
+3/6/21,South Carolina,32372
+3/7/21,South Carolina,37254
+3/8/21,South Carolina,37671
+3/9/21,South Carolina,39188
+3/10/21,South Carolina,38974
+3/11/21,South Carolina,36988
+3/12/21,South Carolina,37286
+3/13/21,South Carolina,42704
+3/14/21,South Carolina,33739
+3/15/21,South Carolina,34049
+3/16/21,South Carolina,32823
+3/17/21,South Carolina,32287
+3/18/21,South Carolina,32077
+3/19/21,South Carolina,32890
+3/20/21,South Carolina,23144
+3/21/21,South Carolina,29971
+3/22/21,South Carolina,30873
+3/23/21,South Carolina,31570
+3/24/21,South Carolina,34354
+3/25/21,South Carolina,34308
+3/26/21,South Carolina,35166
+3/27/21,South Carolina,38867
+3/28/21,South Carolina,39026
+3/29/21,South Carolina,39172
+3/30/21,South Carolina,39475
+3/31/21,South Carolina,37281
+4/1/21,South Carolina,37873
+4/2/21,South Carolina,39066
+4/3/21,South Carolina,32412
+4/4/21,South Carolina,34131
+4/5/21,South Carolina,31363
+4/6/21,South Carolina,31075
+4/7/21,South Carolina,33071
+4/8/21,South Carolina,42821
+4/9/21,South Carolina,42327
+4/10/21,South Carolina,49565
+4/11/21,South Carolina,49757
+4/12/21,South Carolina,52247
+4/13/21,South Carolina,52256
+4/14/21,South Carolina,50404
+4/15/21,South Carolina,40594
+4/16/21,South Carolina,40023
+4/17/21,South Carolina,39252
+4/18/21,South Carolina,36420
+4/19/21,South Carolina,36181
+4/20/21,South Carolina,36471
+4/21/21,South Carolina,35666
+4/22/21,South Carolina,30060
+4/23/21,South Carolina,28852
+4/24/21,South Carolina,27458
+4/25/21,South Carolina,26557
+4/26/21,South Carolina,23346
+4/27/21,South Carolina,28593
+4/28/21,South Carolina,28360
+4/29/21,South Carolina,31861
+4/30/21,South Carolina,31444
+5/1/21,South Carolina,30717
+5/2/21,South Carolina,29209
+5/3/21,South Carolina,29125
+5/4/21,South Carolina,21975
+5/5/21,South Carolina,20895
+5/6/21,South Carolina,21308
+5/7/21,South Carolina,21131
+5/8/21,South Carolina,20035
+1/12/21,South Dakota,
+1/13/21,South Dakota,2014
+1/14/21,South Dakota,2793
+1/15/21,South Dakota,2802
+1/16/21,South Dakota,2352
+1/17/21,South Dakota,2082
+1/18/21,South Dakota,1902
+1/19/21,South Dakota,1774
+1/20/21,South Dakota,1687
+1/21/21,South Dakota,1585
+1/22/21,South Dakota,1934
+1/23/21,South Dakota,2728
+1/24/21,South Dakota,3048
+1/25/21,South Dakota,3200
+1/26/21,South Dakota,3101
+1/27/21,South Dakota,3495
+1/28/21,South Dakota,3771
+1/29/21,South Dakota,3798
+1/30/21,South Dakota,3664
+1/31/21,South Dakota,3646
+2/1/21,South Dakota,3596
+2/2/21,South Dakota,3597
+2/3/21,South Dakota,3426
+2/4/21,South Dakota,3414
+2/5/21,South Dakota,3480
+2/6/21,South Dakota,3535
+2/7/21,South Dakota,3640
+2/8/21,South Dakota,3626
+2/9/21,South Dakota,3604
+2/10/21,South Dakota,3639
+2/11/21,South Dakota,3722
+2/12/21,South Dakota,3868
+2/13/21,South Dakota,3919
+2/14/21,South Dakota,4112
+2/15/21,South Dakota,4069
+2/16/21,South Dakota,4236
+2/17/21,South Dakota,4204
+2/18/21,South Dakota,4206
+2/19/21,South Dakota,9933
+2/20/21,South Dakota,10117
+2/21/21,South Dakota,10357
+2/22/21,South Dakota,10630
+2/23/21,South Dakota,10621
+2/24/21,South Dakota,10978
+2/25/21,South Dakota,11292
+2/26/21,South Dakota,5908
+2/27/21,South Dakota,6206
+2/28/21,South Dakota,6509
+3/1/21,South Dakota,6587
+3/2/21,South Dakota,6478
+3/3/21,South Dakota,6421
+3/4/21,South Dakota,6364
+3/5/21,South Dakota,6404
+3/6/21,South Dakota,6470
+3/7/21,South Dakota,6382
+3/8/21,South Dakota,6314
+3/9/21,South Dakota,6313
+3/10/21,South Dakota,6343
+3/11/21,South Dakota,6400
+3/12/21,South Dakota,6376
+3/13/21,South Dakota,6584
+3/14/21,South Dakota,7158
+3/15/21,South Dakota,7462
+3/16/21,South Dakota,7593
+3/17/21,South Dakota,7561
+3/18/21,South Dakota,7633
+3/19/21,South Dakota,7771
+3/20/21,South Dakota,7684
+3/21/21,South Dakota,7392
+3/22/21,South Dakota,7082
+3/23/21,South Dakota,7016
+3/24/21,South Dakota,7329
+3/25/21,South Dakota,7450
+3/26/21,South Dakota,7666
+3/27/21,South Dakota,8172
+3/28/21,South Dakota,8244
+3/29/21,South Dakota,8567
+3/30/21,South Dakota,8643
+3/31/21,South Dakota,8616
+4/1/21,South Dakota,8563
+4/2/21,South Dakota,8334
+4/3/21,South Dakota,8319
+4/4/21,South Dakota,8200
+4/5/21,South Dakota,7912
+4/6/21,South Dakota,7812
+4/7/21,South Dakota,7690
+4/8/21,South Dakota,7883
+4/9/21,South Dakota,7961
+4/10/21,South Dakota,7761
+4/11/21,South Dakota,7788
+4/12/21,South Dakota,7783
+4/13/21,South Dakota,7829
+4/14/21,South Dakota,7642
+4/15/21,South Dakota,7354
+4/16/21,South Dakota,6960
+4/17/21,South Dakota,6214
+4/18/21,South Dakota,5888
+4/19/21,South Dakota,5851
+4/20/21,South Dakota,5827
+4/21/21,South Dakota,5688
+4/22/21,South Dakota,5552
+4/23/21,South Dakota,5842
+4/24/21,South Dakota,5939
+4/25/21,South Dakota,5888
+4/26/21,South Dakota,5880
+4/27/21,South Dakota,5867
+4/28/21,South Dakota,5902
+4/29/21,South Dakota,5899
+4/30/21,South Dakota,5491
+5/1/21,South Dakota,5923
+5/2/21,South Dakota,4913
+5/3/21,South Dakota,4493
+5/4/21,South Dakota,4712
+5/5/21,South Dakota,4449
+5/6/21,South Dakota,4059
+5/7/21,South Dakota,3614
+5/8/21,South Dakota,2942
+1/12/21,Tennessee,
+1/13/21,Tennessee,13456
+1/14/21,Tennessee,6728
+1/15/21,Tennessee,17360
+1/16/21,Tennessee,16050
+1/17/21,Tennessee,15264
+1/18/21,Tennessee,14740
+1/19/21,Tennessee,14365
+1/20/21,Tennessee,13403
+1/21/21,Tennessee,15851
+1/22/21,Tennessee,14037
+1/23/21,Tennessee,15528
+1/24/21,Tennessee,17781
+1/25/21,Tennessee,17565
+1/26/21,Tennessee,16589
+1/27/21,Tennessee,18443
+1/28/21,Tennessee,19197
+1/29/21,Tennessee,20618
+1/30/21,Tennessee,21427
+1/31/21,Tennessee,22453
+2/1/21,Tennessee,23609
+2/2/21,Tennessee,23422
+2/3/21,Tennessee,24312
+2/4/21,Tennessee,24885
+2/5/21,Tennessee,24652
+2/6/21,Tennessee,25451
+2/7/21,Tennessee,25973
+2/8/21,Tennessee,25401
+2/9/21,Tennessee,25742
+2/10/21,Tennessee,25981
+2/11/21,Tennessee,26016
+2/12/21,Tennessee,26161
+2/13/21,Tennessee,24927
+2/14/21,Tennessee,25152
+2/15/21,Tennessee,24902
+2/16/21,Tennessee,25844
+2/17/21,Tennessee,22833
+2/18/21,Tennessee,21143
+2/19/21,Tennessee,25995
+2/20/21,Tennessee,24434
+2/21/21,Tennessee,21434
+2/22/21,Tennessee,21542
+2/23/21,Tennessee,20978
+2/24/21,Tennessee,25211
+2/25/21,Tennessee,27973
+2/26/21,Tennessee,24822
+2/27/21,Tennessee,29100
+2/28/21,Tennessee,34609
+3/1/21,Tennessee,37689
+3/2/21,Tennessee,37967
+3/3/21,Tennessee,39929
+3/4/21,Tennessee,40345
+3/5/21,Tennessee,40442
+3/6/21,Tennessee,39889
+3/7/21,Tennessee,39317
+3/8/21,Tennessee,37799
+3/9/21,Tennessee,37434
+3/10/21,Tennessee,36573
+3/11/21,Tennessee,37837
+3/12/21,Tennessee,38803
+3/13/21,Tennessee,40729
+3/14/21,Tennessee,40964
+3/15/21,Tennessee,41875
+3/16/21,Tennessee,41859
+3/17/21,Tennessee,42292
+3/18/21,Tennessee,42438
+3/19/21,Tennessee,40257
+3/20/21,Tennessee,39428
+3/21/21,Tennessee,39601
+3/22/21,Tennessee,39909
+3/23/21,Tennessee,40768
+3/24/21,Tennessee,41431
+3/25/21,Tennessee,42730
+3/26/21,Tennessee,46101
+3/27/21,Tennessee,47993
+3/28/21,Tennessee,49545
+3/29/21,Tennessee,50044
+3/30/21,Tennessee,50043
+3/31/21,Tennessee,51106
+4/1/21,Tennessee,53114
+4/2/21,Tennessee,53294
+4/3/21,Tennessee,55152
+4/4/21,Tennessee,51377
+4/5/21,Tennessee,49554
+4/6/21,Tennessee,48357
+4/7/21,Tennessee,47661
+4/8/21,Tennessee,47562
+4/9/21,Tennessee,47574
+4/10/21,Tennessee,46515
+4/11/21,Tennessee,50008
+4/12/21,Tennessee,51065
+4/13/21,Tennessee,52064
+4/14/21,Tennessee,47404
+4/15/21,Tennessee,46278
+4/16/21,Tennessee,46105
+4/17/21,Tennessee,44570
+4/18/21,Tennessee,43957
+4/19/21,Tennessee,42471
+4/20/21,Tennessee,42620
+4/21/21,Tennessee,46225
+4/22/21,Tennessee,45368
+4/23/21,Tennessee,43777
+4/24/21,Tennessee,43104
+4/25/21,Tennessee,41782
+4/26/21,Tennessee,41905
+4/27/21,Tennessee,41649
+4/28/21,Tennessee,40147
+4/29/21,Tennessee,38419
+4/30/21,Tennessee,36818
+5/1/21,Tennessee,35997
+5/2/21,Tennessee,34286
+5/3/21,Tennessee,33223
+5/4/21,Tennessee,32466
+5/5/21,Tennessee,32179
+5/6/21,Tennessee,33637
+5/7/21,Tennessee,35827
+5/8/21,Tennessee,35911
+1/12/21,Texas,
+1/13/21,Texas,66581
+1/14/21,Texas,66082
+1/15/21,Texas,82927
+1/16/21,Texas,77429
+1/17/21,Texas,74131
+1/18/21,Texas,71932
+1/19/21,Texas,70361
+1/20/21,Texas,70529
+1/21/21,Texas,71561
+1/22/21,Texas,69220
+1/23/21,Texas,72384
+1/24/21,Texas,68740
+1/25/21,Texas,65851
+1/26/21,Texas,73415
+1/27/21,Texas,71804
+1/28/21,Texas,80351
+1/29/21,Texas,82155
+1/30/21,Texas,87541
+1/31/21,Texas,92226
+2/1/21,Texas,98889
+2/2/21,Texas,82619
+2/3/21,Texas,96932
+2/4/21,Texas,99765
+2/5/21,Texas,101557
+2/6/21,Texas,109611
+2/7/21,Texas,119680
+2/8/21,Texas,117976
+2/9/21,Texas,134278
+2/10/21,Texas,130817
+2/11/21,Texas,129014
+2/12/21,Texas,134688
+2/13/21,Texas,128579
+2/14/21,Texas,126730
+2/15/21,Texas,124715
+2/16/21,Texas,117172
+2/17/21,Texas,106240
+2/18/21,Texas,89324
+2/19/21,Texas,95577
+2/20/21,Texas,86673
+2/21/21,Texas,77160
+2/22/21,Texas,73731
+2/23/21,Texas,77700
+2/24/21,Texas,87380
+2/25/21,Texas,110504
+2/26/21,Texas,104351
+2/27/21,Texas,111466
+2/28/21,Texas,127535
+3/1/21,Texas,123045
+3/2/21,Texas,165192
+3/3/21,Texas,181084
+3/4/21,Texas,181691
+3/5/21,Texas,188300
+3/6/21,Texas,204902
+3/7/21,Texas,195936
+3/8/21,Texas,214144
+3/9/21,Texas,191891
+3/10/21,Texas,191158
+3/11/21,Texas,193081
+3/12/21,Texas,202045
+3/13/21,Texas,204566
+3/14/21,Texas,211968
+3/15/21,Texas,210881
+3/16/21,Texas,194431
+3/17/21,Texas,188675
+3/18/21,Texas,189196
+3/19/21,Texas,175980
+3/20/21,Texas,166754
+3/21/21,Texas,169989
+3/22/21,Texas,169542
+3/23/21,Texas,169185
+3/24/21,Texas,141602
+3/25/21,Texas,154083
+3/26/21,Texas,169081
+3/27/21,Texas,181735
+3/28/21,Texas,190014
+3/29/21,Texas,199393
+3/30/21,Texas,216020
+3/31/21,Texas,251786
+4/1/21,Texas,259622
+4/2/21,Texas,271028
+4/3/21,Texas,266353
+4/4/21,Texas,266611
+4/5/21,Texas,276433
+4/6/21,Texas,277198
+4/7/21,Texas,275615
+4/8/21,Texas,267858
+4/9/21,Texas,271656
+4/10/21,Texas,302975
+4/11/21,Texas,307347
+4/12/21,Texas,298070
+4/13/21,Texas,292239
+4/14/21,Texas,296675
+4/15/21,Texas,295997
+4/16/21,Texas,278320
+4/17/21,Texas,247603
+4/18/21,Texas,225630
+4/19/21,Texas,227626
+4/20/21,Texas,218188
+4/21/21,Texas,207936
+4/22/21,Texas,201380
+4/23/21,Texas,196535
+4/24/21,Texas,194714
+4/25/21,Texas,205715
+4/26/21,Texas,192661
+4/27/21,Texas,192552
+4/28/21,Texas,189987
+4/29/21,Texas,187797
+4/30/21,Texas,191712
+5/1/21,Texas,186869
+5/2/21,Texas,175147
+5/3/21,Texas,168987
+5/4/21,Texas,161661
+5/5/21,Texas,160608
+5/6/21,Texas,152584
+5/7/21,Texas,142723
+5/8/21,Texas,138610
+12/20/20,United States,
+12/21/20,United States,57909
+12/22/20,United States,127432
+12/23/20,United States,150606
+12/24/20,United States,191001
+12/25/20,United States,215238
+12/26/20,United States,231396
+12/27/20,United States,211379
+12/28/20,United States,216147
+12/29/20,United States,235685
+12/30/20,United States,255223
+12/31/20,United States,278776
+1/1/21,United States,302329
+1/2/21,United States,325882
+1/3/21,United States,336949
+1/4/21,United States,348017
+1/5/21,United States,339372
+1/6/21,United States,358887
+1/7/21,United States,378253
+1/8/21,United States,419933
+1/9/21,United States,461263
+1/10/21,United States,546636
+1/11/21,United States,632009
+1/12/21,United States,641524
+1/13/21,United States,710238
+1/14/21,United States,747082
+1/15/21,United States,798707
+1/16/21,United States,811670
+1/17/21,United States,824632
+1/18/21,United States,837595
+1/19/21,United States,911493
+1/20/21,United States,892403
+1/21/21,United States,913912
+1/22/21,United States,975540
+1/23/21,United States,1057387
+1/24/21,United States,1122182
+1/25/21,United States,1126251
+1/26/21,United States,1119058
+1/27/21,United States,1161050
+1/28/21,United States,1235330
+1/29/21,United States,1253815
+1/30/21,United States,1291416
+1/31/21,United States,1324949
+2/1/21,United States,1355451
+2/2/21,United States,1319981
+2/3/21,United States,1317946
+2/4/21,United States,1287147
+2/5/21,United States,1276364
+2/6/21,United States,1351437
+2/7/21,United States,1441091
+2/8/21,United States,1456459
+2/9/21,United States,1489333
+2/10/21,United States,1555959
+2/11/21,United States,1598080
+2/12/21,United States,1655907
+2/13/21,United States,1657703
+2/14/21,United States,1667631
+2/15/21,United States,1662106
+2/16/21,United States,1716311
+2/17/21,United States,1644551
+2/18/21,United States,1621071
+2/19/21,United States,1596355
+2/20/21,United States,1521088
+2/21/21,United States,1458040
+2/22/21,United States,1446445
+2/23/21,United States,1401674
+2/24/21,United States,1454731
+2/25/21,United States,1505193
+2/26/21,United States,1552717
+2/27/21,United States,1645240
+2/28/21,United States,1735053
+3/1/21,United States,1817502
+3/2/21,United States,1942788
+3/3/21,United States,2010790
+3/4/21,United States,2042676
+3/5/21,United States,2079147
+3/6/21,United States,2158020
+3/7/21,United States,2159392
+3/8/21,United States,2169981
+3/9/21,United States,2151571
+3/10/21,United States,2168688
+3/11/21,United States,2233006
+3/12/21,United States,2302844
+3/13/21,United States,2541597
+3/14/21,United States,2386932
+3/15/21,United States,2427430
+3/16/21,United States,2435037
+3/17/21,United States,2473762
+3/18/21,United States,2503731
+3/19/21,United States,2455116
+3/20/21,United States,2248285
+3/21/21,United States,2488734
+3/22/21,United States,2489697
+3/23/21,United States,2497025
+3/24/21,United States,2490889
+3/25/21,United States,2510755
+3/26/21,United States,2624410
+3/27/21,United States,2677034
+3/28/21,United States,2711611
+3/29/21,United States,2757586
+3/30/21,United States,2769331
+3/31/21,United States,2828491
+4/1/21,United States,2903730
+4/2/21,United States,2988825
+4/3/21,United States,3072527
+4/4/21,United States,3084436
+4/5/21,United States,3053566
+4/6/21,United States,2998533
+4/7/21,United States,3029052
+4/8/21,United States,3035473
+4/9/21,United States,3033045
+4/10/21,United States,3111327
+4/11/21,United States,3141912
+4/12/21,United States,3214893
+4/13/21,United States,3384387
+4/14/21,United States,3330740
+4/15/21,United States,3348189
+4/16/21,United States,3349306
+4/17/21,United States,3200601
+4/18/21,United States,3194240
+4/19/21,United States,3127038
+4/20/21,United States,3015065
+4/21/21,United States,3022868
+4/22/21,United States,2947229
+4/23/21,United States,2862758
+4/24/21,United States,2824078
+4/25/21,United States,2750656
+4/26/21,United States,2741021
+4/27/21,United States,2717062
+4/28/21,United States,2669644
+4/29/21,United States,2630407
+4/30/21,United States,2548207
+5/1/21,United States,2546144
+5/2/21,United States,2418580
+5/3/21,United States,2287393
+5/4/21,United States,2194483
+5/5/21,United States,2132487
+5/6/21,United States,2087608
+5/7/21,United States,2088522
+5/8/21,United States,1983391
+1/12/21,Utah,
+1/13/21,Utah,8811
+1/14/21,Utah,10080
+1/15/21,Utah,10995
+1/16/21,Utah,10433
+1/17/21,Utah,10096
+1/18/21,Utah,9872
+1/19/21,Utah,9711
+1/20/21,Utah,11108
+1/21/21,Utah,10599
+1/22/21,Utah,10646
+1/23/21,Utah,9396
+1/24/21,Utah,8146
+1/25/21,Utah,10650
+1/26/21,Utah,9602
+1/27/21,Utah,8288
+1/28/21,Utah,7176
+1/29/21,Utah,9771
+1/30/21,Utah,11967
+1/31/21,Utah,11967
+2/1/21,Utah,13432
+2/2/21,Utah,13460
+2/3/21,Utah,12118
+2/4/21,Utah,16237
+2/5/21,Utah,15053
+2/6/21,Utah,16255
+2/7/21,Utah,16255
+2/8/21,Utah,26228
+2/9/21,Utah,26519
+2/10/21,Utah,26519
+2/11/21,Utah,22400
+2/12/21,Utah,19110
+2/13/21,Utah,15712
+2/14/21,Utah,15712
+2/15/21,Utah,2117
+2/16/21,Utah,3195
+2/17/21,Utah,3195
+2/18/21,Utah,5925
+2/19/21,Utah,10626
+2/20/21,Utah,14258
+2/21/21,Utah,14330
+2/22/21,Utah,12775
+2/23/21,Utah,11202
+2/24/21,Utah,13791
+2/25/21,Utah,15753
+2/26/21,Utah,11132
+2/27/21,Utah,11115
+2/28/21,Utah,11132
+3/1/21,Utah,11090
+3/2/21,Utah,15893
+3/3/21,Utah,16677
+3/4/21,Utah,12054
+3/5/21,Utah,19168
+3/6/21,Utah,20651
+3/7/21,Utah,20666
+3/8/21,Utah,20744
+3/9/21,Utah,22533
+3/10/21,Utah,22455
+3/11/21,Utah,22481
+3/12/21,Utah,21233
+3/13/21,Utah,20756
+3/14/21,Utah,24904
+3/15/21,Utah,24981
+3/16/21,Utah,21514
+3/17/21,Utah,21321
+3/18/21,Utah,23713
+3/19/21,Utah,17836
+3/20/21,Utah,13321
+3/21/21,Utah,18551
+3/22/21,Utah,18418
+3/23/21,Utah,17887
+3/24/21,Utah,18045
+3/25/21,Utah,20569
+3/26/21,Utah,20557
+3/27/21,Utah,29228
+3/28/21,Utah,19825
+3/29/21,Utah,19812
+3/30/21,Utah,24488
+3/31/21,Utah,21261
+4/1/21,Utah,23888
+4/2/21,Utah,23873
+4/3/21,Utah,27210
+4/4/21,Utah,27210
+4/5/21,Utah,31799
+4/6/21,Utah,27333
+4/7/21,Utah,30872
+4/8/21,Utah,27485
+4/9/21,Utah,33365
+4/10/21,Utah,28023
+4/11/21,Utah,28016
+4/12/21,Utah,23532
+4/13/21,Utah,29635
+4/14/21,Utah,30312
+4/15/21,Utah,30139
+4/16/21,Utah,28867
+4/17/21,Utah,29835
+4/18/21,Utah,29790
+4/19/21,Utah,36389
+4/20/21,Utah,27457
+4/21/21,Utah,25933
+4/22/21,Utah,26634
+4/23/21,Utah,26964
+4/24/21,Utah,23473
+4/25/21,Utah,23489
+4/26/21,Utah,16779
+4/27/21,Utah,21504
+4/28/21,Utah,22257
+4/29/21,Utah,20761
+4/30/21,Utah,15806
+5/1/21,Utah,18899
+5/2/21,Utah,18893
+5/3/21,Utah,18900
+5/4/21,Utah,18893
+5/5/21,Utah,18897
+5/6/21,Utah,18155
+5/7/21,Utah,18144
+5/8/21,Utah,13677
+1/12/21,Vermont,
+1/13/21,Vermont,3814
+1/14/21,Vermont,1907
+1/15/21,Vermont,2238
+1/16/21,Vermont,2185
+1/17/21,Vermont,2154
+1/18/21,Vermont,2133
+1/19/21,Vermont,2118
+1/20/21,Vermont,1606
+1/21/21,Vermont,1895
+1/22/21,Vermont,1997
+1/23/21,Vermont,2133
+1/24/21,Vermont,2192
+1/25/21,Vermont,2153
+1/26/21,Vermont,1976
+1/27/21,Vermont,2080
+1/28/21,Vermont,2291
+1/29/21,Vermont,2184
+1/30/21,Vermont,2050
+1/31/21,Vermont,2187
+2/1/21,Vermont,2686
+2/2/21,Vermont,2801
+2/3/21,Vermont,2763
+2/4/21,Vermont,2618
+2/5/21,Vermont,2617
+2/6/21,Vermont,2745
+2/7/21,Vermont,2857
+2/8/21,Vermont,2557
+2/9/21,Vermont,2717
+2/10/21,Vermont,2735
+2/11/21,Vermont,2816
+2/12/21,Vermont,2855
+2/13/21,Vermont,2818
+2/14/21,Vermont,2801
+2/15/21,Vermont,2937
+2/16/21,Vermont,3136
+2/17/21,Vermont,3157
+2/18/21,Vermont,3039
+2/19/21,Vermont,3940
+2/20/21,Vermont,4199
+2/21/21,Vermont,4337
+2/22/21,Vermont,4364
+2/23/21,Vermont,4157
+2/24/21,Vermont,4144
+2/25/21,Vermont,4235
+2/26/21,Vermont,3417
+2/27/21,Vermont,3545
+2/28/21,Vermont,3631
+3/1/21,Vermont,3802
+3/2/21,Vermont,3925
+3/3/21,Vermont,4030
+3/4/21,Vermont,3991
+3/5/21,Vermont,4006
+3/6/21,Vermont,3914
+3/7/21,Vermont,4139
+3/8/21,Vermont,4384
+3/9/21,Vermont,4620
+3/10/21,Vermont,4847
+3/11/21,Vermont,5185
+3/12/21,Vermont,5416
+3/13/21,Vermont,6755
+3/14/21,Vermont,5726
+3/15/21,Vermont,5771
+3/16/21,Vermont,5697
+3/17/21,Vermont,5650
+3/18/21,Vermont,5768
+3/19/21,Vermont,5953
+3/20/21,Vermont,4930
+3/21/21,Vermont,6082
+3/22/21,Vermont,5469
+3/23/21,Vermont,5611
+3/24/21,Vermont,5674
+3/25/21,Vermont,5463
+3/26/21,Vermont,5360
+3/27/21,Vermont,5303
+3/28/21,Vermont,5117
+3/29/21,Vermont,5532
+3/30/21,Vermont,5762
+3/31/21,Vermont,6010
+4/1/21,Vermont,6142
+4/2/21,Vermont,6412
+4/3/21,Vermont,8113
+4/4/21,Vermont,7249
+4/5/21,Vermont,7727
+4/6/21,Vermont,7553
+4/7/21,Vermont,7317
+4/8/21,Vermont,7337
+4/9/21,Vermont,7576
+4/10/21,Vermont,6635
+4/11/21,Vermont,7996
+4/12/21,Vermont,8247
+4/13/21,Vermont,9302
+4/14/21,Vermont,8735
+4/15/21,Vermont,9017
+4/16/21,Vermont,8835
+4/17/21,Vermont,7177
+4/18/21,Vermont,8302
+4/19/21,Vermont,7834
+4/20/21,Vermont,7199
+4/21/21,Vermont,7904
+4/22/21,Vermont,7746
+4/23/21,Vermont,7185
+4/24/21,Vermont,8439
+4/25/21,Vermont,7258
+4/26/21,Vermont,7817
+4/27/21,Vermont,7444
+4/28/21,Vermont,7562
+4/29/21,Vermont,7669
+4/30/21,Vermont,8099
+5/1/21,Vermont,7862
+5/2/21,Vermont,7899
+5/3/21,Vermont,7450
+5/4/21,Vermont,7356
+5/5/21,Vermont,7269
+5/6/21,Vermont,7159
+5/7/21,Vermont,6879
+5/8/21,Vermont,6553
+1/12/21,Veterans Health,
+1/13/21,Veterans Health,27623
+1/14/21,Veterans Health,28972
+1/15/21,Veterans Health,30339
+1/16/21,Veterans Health,28907
+1/17/21,Veterans Health,28047
+1/18/21,Veterans Health,27474
+1/19/21,Veterans Health,27065
+1/20/21,Veterans Health,25456
+1/21/21,Veterans Health,34652
+1/22/21,Veterans Health,37413
+1/23/21,Veterans Health,40173
+1/24/21,Veterans Health,42465
+1/25/21,Veterans Health,44454
+1/26/21,Veterans Health,41020
+1/27/21,Veterans Health,44791
+1/28/21,Veterans Health,37870
+1/29/21,Veterans Health,37405
+1/30/21,Veterans Health,37816
+1/31/21,Veterans Health,38290
+2/1/21,Veterans Health,37224
+2/2/21,Veterans Health,38574
+2/3/21,Veterans Health,38266
+2/4/21,Veterans Health,33404
+2/5/21,Veterans Health,33788
+2/6/21,Veterans Health,34643
+2/7/21,Veterans Health,41146
+2/8/21,Veterans Health,42230
+2/9/21,Veterans Health,42169
+2/10/21,Veterans Health,44123
+2/11/21,Veterans Health,50169
+2/12/21,Veterans Health,51618
+2/13/21,Veterans Health,53122
+2/14/21,Veterans Health,54361
+2/15/21,Veterans Health,55401
+2/16/21,Veterans Health,60593
+2/17/21,Veterans Health,56780
+2/18/21,Veterans Health,56617
+2/19/21,Veterans Health,53673
+2/20/21,Veterans Health,51472
+2/21/21,Veterans Health,44351
+2/22/21,Veterans Health,44339
+2/23/21,Veterans Health,44301
+2/24/21,Veterans Health,45065
+2/25/21,Veterans Health,43416
+2/26/21,Veterans Health,43288
+2/27/21,Veterans Health,53655
+2/28/21,Veterans Health,56055
+3/1/21,Veterans Health,57043
+3/2/21,Veterans Health,52829
+3/3/21,Veterans Health,54920
+3/4/21,Veterans Health,56918
+3/5/21,Veterans Health,59672
+3/6/21,Veterans Health,51260
+3/7/21,Veterans Health,50649
+3/8/21,Veterans Health,50283
+3/9/21,Veterans Health,49448
+3/10/21,Veterans Health,50738
+3/11/21,Veterans Health,52614
+3/12/21,Veterans Health,54509
+3/13/21,Veterans Health,66893
+3/14/21,Veterans Health,58255
+3/15/21,Veterans Health,62537
+3/16/21,Veterans Health,63135
+3/17/21,Veterans Health,62248
+3/18/21,Veterans Health,61099
+3/19/21,Veterans Health,59407
+3/20/21,Veterans Health,46529
+3/21/21,Veterans Health,54959
+3/22/21,Veterans Health,50964
+3/23/21,Veterans Health,50224
+3/24/21,Veterans Health,49577
+3/25/21,Veterans Health,48983
+3/26/21,Veterans Health,48636
+3/27/21,Veterans Health,49218
+3/28/21,Veterans Health,49722
+3/29/21,Veterans Health,50217
+3/30/21,Veterans Health,49863
+3/31/21,Veterans Health,50269
+4/1/21,Veterans Health,50144
+4/2/21,Veterans Health,49611
+4/3/21,Veterans Health,48792
+4/4/21,Veterans Health,47560
+4/5/21,Veterans Health,43503
+4/6/21,Veterans Health,45905
+4/7/21,Veterans Health,45247
+4/8/21,Veterans Health,41271
+4/9/21,Veterans Health,39061
+4/10/21,Veterans Health,40040
+4/11/21,Veterans Health,39387
+4/12/21,Veterans Health,41914
+4/13/21,Veterans Health,39228
+4/14/21,Veterans Health,38647
+4/15/21,Veterans Health,40234
+4/16/21,Veterans Health,39943
+4/17/21,Veterans Health,36394
+4/18/21,Veterans Health,34792
+4/19/21,Veterans Health,32237
+4/20/21,Veterans Health,32049
+4/21/21,Veterans Health,30362
+4/22/21,Veterans Health,29417
+4/23/21,Veterans Health,28341
+4/24/21,Veterans Health,27257
+4/25/21,Veterans Health,26053
+4/26/21,Veterans Health,24415
+4/27/21,Veterans Health,24059
+4/28/21,Veterans Health,23342
+4/29/21,Veterans Health,22416
+4/30/21,Veterans Health,21432
+5/1/21,Veterans Health,20487
+5/2/21,Veterans Health,19443
+5/3/21,Veterans Health,18452
+5/4/21,Veterans Health,18314
+5/5/21,Veterans Health,17401
+5/6/21,Veterans Health,16501
+5/7/21,Veterans Health,15797
+5/8/21,Veterans Health,14916
+1/12/21,Virgin Islands,
+1/13/21,Virgin Islands,315
+1/14/21,Virgin Islands,272
+1/15/21,Virgin Islands,250
+1/16/21,Virgin Islands,219
+1/17/21,Virgin Islands,201
+1/18/21,Virgin Islands,188
+1/19/21,Virgin Islands,179
+1/20/21,Virgin Islands,175
+1/21/21,Virgin Islands,189
+1/22/21,Virgin Islands,206
+1/23/21,Virgin Islands,228
+1/24/21,Virgin Islands,214
+1/25/21,Virgin Islands,199
+1/26/21,Virgin Islands,230
+1/27/21,Virgin Islands,251
+1/28/21,Virgin Islands,268
+1/29/21,Virgin Islands,312
+1/30/21,Virgin Islands,373
+1/31/21,Virgin Islands,376
+2/1/21,Virgin Islands,388
+2/2/21,Virgin Islands,423
+2/3/21,Virgin Islands,459
+2/4/21,Virgin Islands,513
+2/5/21,Virgin Islands,518
+2/6/21,Virgin Islands,500
+2/7/21,Virgin Islands,496
+2/8/21,Virgin Islands,488
+2/9/21,Virgin Islands,479
+2/10/21,Virgin Islands,476
+2/11/21,Virgin Islands,422
+2/12/21,Virgin Islands,401
+2/13/21,Virgin Islands,388
+2/14/21,Virgin Islands,402
+2/15/21,Virgin Islands,403
+2/16/21,Virgin Islands,336
+2/17/21,Virgin Islands,349
+2/18/21,Virgin Islands,354
+2/19/21,Virgin Islands,451
+2/20/21,Virgin Islands,521
+2/21/21,Virgin Islands,548
+2/22/21,Virgin Islands,548
+2/23/21,Virgin Islands,639
+2/24/21,Virgin Islands,612
+2/25/21,Virgin Islands,590
+2/26/21,Virgin Islands,548
+2/27/21,Virgin Islands,470
+2/28/21,Virgin Islands,464
+3/1/21,Virgin Islands,469
+3/2/21,Virgin Islands,406
+3/3/21,Virgin Islands,386
+3/4/21,Virgin Islands,548
+3/5/21,Virgin Islands,526
+3/6/21,Virgin Islands,557
+3/7/21,Virgin Islands,523
+3/8/21,Virgin Islands,512
+3/9/21,Virgin Islands,574
+3/10/21,Virgin Islands,638
+3/11/21,Virgin Islands,535
+3/12/21,Virgin Islands,548
+3/13/21,Virgin Islands,596
+3/14/21,Virgin Islands,597
+3/15/21,Virgin Islands,601
+3/16/21,Virgin Islands,623
+3/17/21,Virgin Islands,660
+3/18/21,Virgin Islands,681
+3/19/21,Virgin Islands,706
+3/20/21,Virgin Islands,698
+3/21/21,Virgin Islands,709
+3/22/21,Virgin Islands,704
+3/23/21,Virgin Islands,732
+3/24/21,Virgin Islands,748
+3/25/21,Virgin Islands,800
+3/26/21,Virgin Islands,789
+3/27/21,Virgin Islands,814
+3/28/21,Virgin Islands,864
+3/29/21,Virgin Islands,867
+3/30/21,Virgin Islands,897
+3/31/21,Virgin Islands,930
+4/1/21,Virgin Islands,939
+4/2/21,Virgin Islands,951
+4/3/21,Virgin Islands,865
+4/4/21,Virgin Islands,801
+4/5/21,Virgin Islands,795
+4/6/21,Virgin Islands,780
+4/7/21,Virgin Islands,774
+4/8/21,Virgin Islands,840
+4/9/21,Virgin Islands,858
+4/10/21,Virgin Islands,916
+4/11/21,Virgin Islands,944
+4/12/21,Virgin Islands,961
+4/13/21,Virgin Islands,965
+4/14/21,Virgin Islands,939
+4/15/21,Virgin Islands,850
+4/16/21,Virgin Islands,817
+4/17/21,Virgin Islands,841
+4/18/21,Virgin Islands,837
+4/19/21,Virgin Islands,825
+4/20/21,Virgin Islands,782
+4/21/21,Virgin Islands,724
+4/22/21,Virgin Islands,632
+4/23/21,Virgin Islands,573
+4/24/21,Virgin Islands,474
+4/25/21,Virgin Islands,470
+4/26/21,Virgin Islands,468
+4/27/21,Virgin Islands,428
+4/28/21,Virgin Islands,414
+4/29/21,Virgin Islands,436
+4/30/21,Virgin Islands,463
+5/1/21,Virgin Islands,488
+5/2/21,Virgin Islands,486
+5/3/21,Virgin Islands,487
+5/4/21,Virgin Islands,494
+5/5/21,Virgin Islands,389
+5/6/21,Virgin Islands,440
+5/7/21,Virgin Islands,395
+5/8/21,Virgin Islands,377
+1/12/21,Virginia,
+1/13/21,Virginia,27229
+1/14/21,Virginia,13614
+1/15/21,Virginia,17876
+1/16/21,Virginia,18573
+1/17/21,Virginia,18991
+1/18/21,Virginia,19270
+1/19/21,Virginia,19470
+1/20/21,Virginia,17933
+1/21/21,Virginia,20608
+1/22/21,Virginia,22459
+1/23/21,Virginia,23485
+1/24/21,Virginia,23729
+1/25/21,Virginia,25249
+1/26/21,Virginia,38276
+1/27/21,Virginia,40808
+1/28/21,Virginia,43758
+1/29/21,Virginia,46189
+1/30/21,Virginia,50946
+1/31/21,Virginia,54508
+2/1/21,Virginia,55407
+2/2/21,Virginia,43769
+2/3/21,Virginia,41989
+2/4/21,Virginia,40095
+2/5/21,Virginia,38440
+2/6/21,Virginia,38094
+2/7/21,Virginia,38593
+2/8/21,Virginia,37831
+2/9/21,Virginia,37197
+2/10/21,Virginia,37771
+2/11/21,Virginia,39162
+2/12/21,Virginia,40141
+2/13/21,Virginia,39675
+2/14/21,Virginia,35980
+2/15/21,Virginia,36818
+2/16/21,Virginia,38559
+2/17/21,Virginia,38966
+2/18/21,Virginia,40084
+2/19/21,Virginia,52950
+2/20/21,Virginia,48702
+2/21/21,Virginia,50009
+2/22/21,Virginia,48869
+2/23/21,Virginia,47775
+2/24/21,Virginia,49057
+2/25/21,Virginia,49284
+2/26/21,Virginia,39615
+2/27/21,Virginia,47360
+2/28/21,Virginia,54414
+3/1/21,Virginia,57354
+3/2/21,Virginia,57929
+3/3/21,Virginia,59592
+3/4/21,Virginia,62240
+3/5/21,Virginia,59952
+3/6/21,Virginia,55707
+3/7/21,Virginia,51391
+3/8/21,Virginia,49929
+3/9/21,Virginia,54612
+3/10/21,Virginia,56591
+3/11/21,Virginia,57278
+3/12/21,Virginia,58784
+3/13/21,Virginia,62152
+3/14/21,Virginia,63765
+3/15/21,Virginia,66502
+3/16/21,Virginia,61944
+3/17/21,Virginia,58693
+3/18/21,Virginia,58069
+3/19/21,Virginia,58771
+3/20/21,Virginia,59415
+3/21/21,Virginia,59552
+3/22/21,Virginia,58341
+3/23/21,Virginia,57494
+3/24/21,Virginia,63163
+3/25/21,Virginia,62509
+3/26/21,Virginia,64262
+3/27/21,Virginia,60673
+3/28/21,Virginia,67028
+3/29/21,Virginia,72383
+3/30/21,Virginia,84012
+3/31/21,Virginia,83888
+4/1/21,Virginia,87342
+4/2/21,Virginia,91083
+4/3/21,Virginia,100970
+4/4/21,Virginia,101058
+4/5/21,Virginia,95899
+4/6/21,Virginia,87650
+4/7/21,Virginia,87049
+4/8/21,Virginia,86215
+4/9/21,Virginia,85211
+4/10/21,Virginia,83590
+4/11/21,Virginia,83703
+4/12/21,Virginia,83810
+4/13/21,Virginia,84656
+4/14/21,Virginia,85999
+4/15/21,Virginia,85845
+4/16/21,Virginia,90436
+4/17/21,Virginia,90434
+4/18/21,Virginia,85988
+4/19/21,Virginia,87911
+4/20/21,Virginia,89000
+4/21/21,Virginia,86407
+4/22/21,Virginia,88988
+4/23/21,Virginia,85810
+4/24/21,Virginia,86223
+4/25/21,Virginia,85460
+4/26/21,Virginia,86267
+4/27/21,Virginia,85038
+4/28/21,Virginia,83505
+4/29/21,Virginia,81784
+4/30/21,Virginia,80111
+5/1/21,Virginia,79191
+5/2/21,Virginia,79264
+5/3/21,Virginia,71930
+5/4/21,Virginia,69502
+5/5/21,Virginia,69901
+5/6/21,Virginia,71861
+5/7/21,Virginia,68969
+5/8/21,Virginia,62089
+1/12/21,Washington,
+1/13/21,Washington,12671
+1/14/21,Washington,14836
+1/15/21,Washington,15680
+1/16/21,Washington,16672
+1/17/21,Washington,17267
+1/18/21,Washington,17664
+1/19/21,Washington,17948
+1/20/21,Washington,19790
+1/21/21,Washington,21169
+1/22/21,Washington,22933
+1/23/21,Washington,24963
+1/24/21,Washington,23926
+1/25/21,Washington,26748
+1/26/21,Washington,26630
+1/27/21,Washington,26811
+1/28/21,Washington,28245
+1/29/21,Washington,29134
+1/30/21,Washington,29565
+1/31/21,Washington,33566
+2/1/21,Washington,33117
+2/2/21,Washington,33451
+2/3/21,Washington,33073
+2/4/21,Washington,32318
+2/5/21,Washington,31553
+2/6/21,Washington,31975
+2/7/21,Washington,31539
+2/8/21,Washington,31046
+2/9/21,Washington,29919
+2/10/21,Washington,34713
+2/11/21,Washington,34669
+2/12/21,Washington,36081
+2/13/21,Washington,36287
+2/14/21,Washington,37336
+2/15/21,Washington,35136
+2/16/21,Washington,35726
+2/17/21,Washington,30996
+2/18/21,Washington,30817
+2/19/21,Washington,40241
+2/20/21,Washington,40779
+2/21/21,Washington,39719
+2/22/21,Washington,42211
+2/23/21,Washington,41755
+2/24/21,Washington,41214
+2/25/21,Washington,43809
+2/26/21,Washington,35285
+2/27/21,Washington,37087
+2/28/21,Washington,40672
+3/1/21,Washington,45811
+3/2/21,Washington,49655
+3/3/21,Washington,53397
+3/4/21,Washington,54350
+3/5/21,Washington,55977
+3/6/21,Washington,57804
+3/7/21,Washington,59244
+3/8/21,Washington,59036
+3/9/21,Washington,59146
+3/10/21,Washington,59317
+3/11/21,Washington,62656
+3/12/21,Washington,62964
+3/13/21,Washington,61473
+3/14/21,Washington,59802
+3/15/21,Washington,58966
+3/16/21,Washington,58644
+3/17/21,Washington,57488
+3/18/21,Washington,54519
+3/19/21,Washington,54524
+3/20/21,Washington,55386
+3/21/21,Washington,58576
+3/22/21,Washington,59936
+3/23/21,Washington,57613
+3/24/21,Washington,57497
+3/25/21,Washington,58221
+3/26/21,Washington,61142
+3/27/21,Washington,63057
+3/28/21,Washington,63858
+3/29/21,Washington,65149
+3/30/21,Washington,66890
+3/31/21,Washington,68346
+4/1/21,Washington,69891
+4/2/21,Washington,70565
+4/3/21,Washington,71929
+4/4/21,Washington,72707
+4/5/21,Washington,73347
+4/6/21,Washington,72042
+4/7/21,Washington,72823
+4/8/21,Washington,72860
+4/9/21,Washington,73022
+4/10/21,Washington,72796
+4/11/21,Washington,72446
+4/12/21,Washington,73128
+4/13/21,Washington,76666
+4/14/21,Washington,77843
+4/15/21,Washington,77578
+4/16/21,Washington,75733
+4/17/21,Washington,75802
+4/18/21,Washington,75686
+4/19/21,Washington,74747
+4/20/21,Washington,72820
+4/21/21,Washington,72641
+4/22/21,Washington,73032
+4/23/21,Washington,75677
+4/24/21,Washington,74651
+4/25/21,Washington,74379
+4/26/21,Washington,74836
+4/27/21,Washington,75085
+4/28/21,Washington,74034
+4/29/21,Washington,74713
+4/30/21,Washington,73135
+5/1/21,Washington,72914
+5/2/21,Washington,71088
+5/3/21,Washington,66756
+5/4/21,Washington,63251
+5/5/21,Washington,61576
+5/6/21,Washington,59266
+5/7/21,Washington,56477
+5/8/21,Washington,55180
+1/12/21,West Virginia,
+1/13/21,West Virginia,7379
+1/14/21,West Virginia,7665
+1/15/21,West Virginia,10292
+1/16/21,West Virginia,8872
+1/17/21,West Virginia,8020
+1/18/21,West Virginia,7452
+1/19/21,West Virginia,7047
+1/20/21,West Virginia,6845
+1/21/21,West Virginia,6984
+1/22/21,West Virginia,6651
+1/23/21,West Virginia,8004
+1/24/21,West Virginia,8493
+1/25/21,West Virginia,7992
+1/26/21,West Virginia,8262
+1/27/21,West Virginia,8044
+1/28/21,West Virginia,8151
+1/29/21,West Virginia,8457
+1/30/21,West Virginia,8794
+1/31/21,West Virginia,8127
+2/1/21,West Virginia,8048
+2/2/21,West Virginia,7673
+2/3/21,West Virginia,7591
+2/4/21,West Virginia,7450
+2/5/21,West Virginia,7408
+2/6/21,West Virginia,8353
+2/7/21,West Virginia,8896
+2/8/21,West Virginia,9009
+2/9/21,West Virginia,9030
+2/10/21,West Virginia,9216
+2/11/21,West Virginia,9147
+2/12/21,West Virginia,8515
+2/13/21,West Virginia,8749
+2/14/21,West Virginia,9220
+2/15/21,West Virginia,9532
+2/16/21,West Virginia,9461
+2/17/21,West Virginia,9062
+2/18/21,West Virginia,8965
+2/19/21,West Virginia,12741
+2/20/21,West Virginia,11711
+2/21/21,West Virginia,10990
+2/22/21,West Virginia,10783
+2/23/21,West Virginia,11000
+2/24/21,West Virginia,11210
+2/25/21,West Virginia,11715
+2/26/21,West Virginia,8757
+2/27/21,West Virginia,9710
+2/28/21,West Virginia,9826
+3/1/21,West Virginia,9780
+3/2/21,West Virginia,9413
+3/3/21,West Virginia,9568
+3/4/21,West Virginia,9702
+3/5/21,West Virginia,10366
+3/6/21,West Virginia,9723
+3/7/21,West Virginia,9878
+3/8/21,West Virginia,9765
+3/9/21,West Virginia,9973
+3/10/21,West Virginia,9951
+3/11/21,West Virginia,10386
+3/12/21,West Virginia,11052
+3/13/21,West Virginia,12176
+3/14/21,West Virginia,11842
+3/15/21,West Virginia,11953
+3/16/21,West Virginia,11901
+3/17/21,West Virginia,12035
+3/18/21,West Virginia,11946
+3/19/21,West Virginia,11514
+3/20/21,West Virginia,11010
+3/21/21,West Virginia,11326
+3/22/21,West Virginia,11260
+3/23/21,West Virginia,11387
+3/24/21,West Virginia,11798
+3/25/21,West Virginia,11969
+3/26/21,West Virginia,12408
+3/27/21,West Virginia,12887
+3/28/21,West Virginia,13329
+3/29/21,West Virginia,13257
+3/30/21,West Virginia,13811
+3/31/21,West Virginia,13788
+4/1/21,West Virginia,14691
+4/2/21,West Virginia,15123
+4/3/21,West Virginia,13788
+4/4/21,West Virginia,12827
+4/5/21,West Virginia,12745
+4/6/21,West Virginia,12284
+4/7/21,West Virginia,12078
+4/8/21,West Virginia,11088
+4/9/21,West Virginia,10004
+4/10/21,West Virginia,10465
+4/11/21,West Virginia,11161
+4/12/21,West Virginia,11244
+4/13/21,West Virginia,11212
+4/14/21,West Virginia,11111
+4/15/21,West Virginia,10421
+4/16/21,West Virginia,9691
+4/17/21,West Virginia,8970
+4/18/21,West Virginia,8501
+4/19/21,West Virginia,8434
+4/20/21,West Virginia,8539
+4/21/21,West Virginia,8764
+4/22/21,West Virginia,8781
+4/23/21,West Virginia,8780
+4/24/21,West Virginia,7979
+4/25/21,West Virginia,7822
+4/26/21,West Virginia,7833
+4/27/21,West Virginia,7524
+4/28/21,West Virginia,7182
+4/29/21,West Virginia,7413
+4/30/21,West Virginia,6993
+5/1/21,West Virginia,6790
+5/2/21,West Virginia,6657
+5/3/21,West Virginia,6643
+5/4/21,West Virginia,6542
+5/5/21,West Virginia,5806
+5/6/21,West Virginia,5263
+5/7/21,West Virginia,4341
+5/8/21,West Virginia,4271
+1/12/21,Wisconsin,
+1/13/21,Wisconsin,0
+1/14/21,Wisconsin,6351
+1/15/21,Wisconsin,10850
+1/16/21,Wisconsin,10868
+1/17/21,Wisconsin,10880
+1/18/21,Wisconsin,10887
+1/19/21,Wisconsin,10892
+1/20/21,Wisconsin,12177
+1/21/21,Wisconsin,12686
+1/22/21,Wisconsin,13003
+1/23/21,Wisconsin,14986
+1/24/21,Wisconsin,16663
+1/25/21,Wisconsin,16186
+1/26/21,Wisconsin,14943
+1/27/21,Wisconsin,16147
+1/28/21,Wisconsin,17594
+1/29/21,Wisconsin,20864
+1/30/21,Wisconsin,23517
+1/31/21,Wisconsin,26110
+2/1/21,Wisconsin,28216
+2/2/21,Wisconsin,29134
+2/3/21,Wisconsin,30379
+2/4/21,Wisconsin,26714
+2/5/21,Wisconsin,26898
+2/6/21,Wisconsin,26856
+2/7/21,Wisconsin,35924
+2/8/21,Wisconsin,35695
+2/9/21,Wisconsin,35326
+2/10/21,Wisconsin,35504
+2/11/21,Wisconsin,39623
+2/12/21,Wisconsin,38475
+2/13/21,Wisconsin,39698
+2/14/21,Wisconsin,30412
+2/15/21,Wisconsin,30043
+2/16/21,Wisconsin,31768
+2/17/21,Wisconsin,30827
+2/18/21,Wisconsin,30553
+2/19/21,Wisconsin,38988
+2/20/21,Wisconsin,38929
+2/21/21,Wisconsin,39315
+2/22/21,Wisconsin,39824
+2/23/21,Wisconsin,38279
+2/24/21,Wisconsin,38605
+2/25/21,Wisconsin,39149
+2/26/21,Wisconsin,31793
+2/27/21,Wisconsin,33258
+2/28/21,Wisconsin,34279
+3/1/21,Wisconsin,35514
+3/2/21,Wisconsin,37365
+3/3/21,Wisconsin,38650
+3/4/21,Wisconsin,40300
+3/5/21,Wisconsin,42401
+3/6/21,Wisconsin,42845
+3/7/21,Wisconsin,42786
+3/8/21,Wisconsin,43428
+3/9/21,Wisconsin,41608
+3/10/21,Wisconsin,40936
+3/11/21,Wisconsin,40802
+3/12/21,Wisconsin,41145
+3/13/21,Wisconsin,50069
+3/14/21,Wisconsin,43257
+3/15/21,Wisconsin,43283
+3/16/21,Wisconsin,45496
+3/17/21,Wisconsin,45875
+3/18/21,Wisconsin,46890
+3/19/21,Wisconsin,46626
+3/20/21,Wisconsin,38826
+3/21/21,Wisconsin,50006
+3/22/21,Wisconsin,50598
+3/23/21,Wisconsin,49912
+3/24/21,Wisconsin,50782
+3/25/21,Wisconsin,52371
+3/26/21,Wisconsin,54803
+3/27/21,Wisconsin,56161
+3/28/21,Wisconsin,55149
+3/29/21,Wisconsin,55981
+3/30/21,Wisconsin,55789
+3/31/21,Wisconsin,55569
+4/1/21,Wisconsin,56081
+4/2/21,Wisconsin,56376
+4/3/21,Wisconsin,57632
+4/4/21,Wisconsin,57031
+4/5/21,Wisconsin,56640
+4/6/21,Wisconsin,55461
+4/7/21,Wisconsin,55574
+4/8/21,Wisconsin,56942
+4/9/21,Wisconsin,58818
+4/10/21,Wisconsin,59699
+4/11/21,Wisconsin,63473
+4/12/21,Wisconsin,65678
+4/13/21,Wisconsin,66817
+4/14/21,Wisconsin,66393
+4/15/21,Wisconsin,62848
+4/16/21,Wisconsin,61317
+4/17/21,Wisconsin,60584
+4/18/21,Wisconsin,58402
+4/19/21,Wisconsin,59721
+4/20/21,Wisconsin,59763
+4/21/21,Wisconsin,59965
+4/22/21,Wisconsin,61747
+4/23/21,Wisconsin,62547
+4/24/21,Wisconsin,58927
+4/25/21,Wisconsin,56538
+4/26/21,Wisconsin,51736
+4/27/21,Wisconsin,51017
+4/28/21,Wisconsin,50696
+4/29/21,Wisconsin,48618
+4/30/21,Wisconsin,45166
+5/1/21,Wisconsin,43728
+5/2/21,Wisconsin,40674
+5/3/21,Wisconsin,38738
+5/4/21,Wisconsin,37833
+5/5/21,Wisconsin,36090
+5/6/21,Wisconsin,35797
+5/7/21,Wisconsin,32903
+5/8/21,Wisconsin,31033
+1/12/21,Wyoming,
+1/13/21,Wyoming,1327
+1/14/21,Wyoming,1654
+1/15/21,Wyoming,2093
+1/16/21,Wyoming,1902
+1/17/21,Wyoming,1787
+1/18/21,Wyoming,1710
+1/19/21,Wyoming,1656
+1/20/21,Wyoming,1645
+1/21/21,Wyoming,1362
+1/22/21,Wyoming,1686
+1/23/21,Wyoming,1927
+1/24/21,Wyoming,2200
+1/25/21,Wyoming,2061
+1/26/21,Wyoming,1897
+1/27/21,Wyoming,2017
+1/28/21,Wyoming,2017
+1/29/21,Wyoming,2088
+1/30/21,Wyoming,1658
+1/31/21,Wyoming,2317
+2/1/21,Wyoming,2509
+2/2/21,Wyoming,2526
+2/3/21,Wyoming,2479
+2/4/21,Wyoming,2479
+2/5/21,Wyoming,2607
+2/6/21,Wyoming,3242
+2/7/21,Wyoming,2119
+2/8/21,Wyoming,2534
+2/9/21,Wyoming,2491
+2/10/21,Wyoming,2677
+2/11/21,Wyoming,2677
+2/12/21,Wyoming,3103
+2/13/21,Wyoming,2469
+2/14/21,Wyoming,3892
+2/15/21,Wyoming,3312
+2/16/21,Wyoming,3390
+2/17/21,Wyoming,2953
+2/18/21,Wyoming,3702
+2/19/21,Wyoming,5025
+2/20/21,Wyoming,5703
+2/21/21,Wyoming,4339
+2/22/21,Wyoming,5142
+2/23/21,Wyoming,5140
+2/24/21,Wyoming,5169
+2/25/21,Wyoming,5160
+2/26/21,Wyoming,3038
+2/27/21,Wyoming,3218
+2/28/21,Wyoming,3847
+3/1/21,Wyoming,3015
+3/2/21,Wyoming,2945
+3/3/21,Wyoming,3793
+3/4/21,Wyoming,3093
+3/5/21,Wyoming,3019
+3/6/21,Wyoming,3702
+3/7/21,Wyoming,3091
+3/8/21,Wyoming,4120
+3/9/21,Wyoming,4148
+3/10/21,Wyoming,3895
+3/11/21,Wyoming,3911
+3/12/21,Wyoming,4646
+3/13/21,Wyoming,4085
+3/14/21,Wyoming,4839
+3/15/21,Wyoming,3846
+3/16/21,Wyoming,4022
+3/17/21,Wyoming,3405
+3/18/21,Wyoming,3354
+3/19/21,Wyoming,3072
+3/20/21,Wyoming,2129
+3/21/21,Wyoming,1347
+3/22/21,Wyoming,1279
+3/23/21,Wyoming,3029
+3/24/21,Wyoming,3058
+3/25/21,Wyoming,4124
+3/26/21,Wyoming,3229
+3/27/21,Wyoming,3230
+3/28/21,Wyoming,3243
+3/29/21,Wyoming,5785
+3/30/21,Wyoming,3827
+3/31/21,Wyoming,3855
+4/1/21,Wyoming,3901
+4/2/21,Wyoming,3895
+4/3/21,Wyoming,3894
+4/4/21,Wyoming,6092
+4/5/21,Wyoming,3574
+4/6/21,Wyoming,3758
+4/7/21,Wyoming,3740
+4/8/21,Wyoming,2655
+4/9/21,Wyoming,2633
+4/10/21,Wyoming,2640
+4/11/21,Wyoming,3431
+4/12/21,Wyoming,3400
+4/13/21,Wyoming,3700
+4/14/21,Wyoming,4075
+4/15/21,Wyoming,4058
+4/16/21,Wyoming,4910
+4/17/21,Wyoming,4893
+4/18/21,Wyoming,1857
+4/19/21,Wyoming,1884
+4/20/21,Wyoming,2657
+4/21/21,Wyoming,2260
+4/22/21,Wyoming,2905
+4/23/21,Wyoming,2483
+4/24/21,Wyoming,2471
+4/25/21,Wyoming,2490
+4/26/21,Wyoming,3532
+4/27/21,Wyoming,2276
+4/28/21,Wyoming,2279
+4/29/21,Wyoming,2263
+4/30/21,Wyoming,2182
+5/1/21,Wyoming,2476
+5/2/21,Wyoming,2484
+5/3/21,Wyoming,1409
+5/4/21,Wyoming,1786
+5/5/21,Wyoming,2038
+5/6/21,Wyoming,1427
+5/7/21,Wyoming,1642
+5/8/21,Wyoming,1650
